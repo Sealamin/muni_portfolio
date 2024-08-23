@@ -4,9 +4,7 @@ import matplotlib.pyplot as plt
 
 
 class DataVisualizer:
-
     def __init__(self, data):
-
         self.data = data
 
 
