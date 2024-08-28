@@ -1,0 +1,3901 @@
+rok,kraj_nuts_kod,kraj_nazev,pohlavi,vekova_kategorie,alzheimerova_nemoc,pocet_pacientu
+2010,CZ010,Hl. m. Praha,Z,50–59,false,90
+2010,CZ010,Hl. m. Praha,M,50–59,false,89
+2010,CZ010,Hl. m. Praha,M,50–59,true,61
+2010,CZ010,Hl. m. Praha,Z,50–59,true,75
+2010,CZ020,Středočeský kraj,Z,50–59,true,76
+2010,CZ020,Středočeský kraj,Z,50–59,false,78
+2010,CZ020,Středočeský kraj,M,50–59,false,100
+2010,CZ020,Středočeský kraj,M,50–59,true,59
+2010,CZ031,Jihočeský kraj,M,50–59,false,50
+2010,CZ031,Jihočeský kraj,Z,50–59,true,40
+2010,CZ031,Jihočeský kraj,M,50–59,true,31
+2010,CZ031,Jihočeský kraj,Z,50–59,false,44
+2010,CZ032,Plzeňský kraj,Z,50–59,false,24
+2010,CZ032,Plzeňský kraj,M,50–59,false,35
+2010,CZ032,Plzeňský kraj,M,50–59,true,16
+2010,CZ032,Plzeňský kraj,Z,50–59,true,16
+2010,CZ041,Karlovarský kraj,M,50–59,false,20
+2010,CZ041,Karlovarský kraj,M,50–59,true,14
+2010,CZ041,Karlovarský kraj,Z,50–59,false,15
+2010,CZ041,Karlovarský kraj,Z,50–59,true,8
+2010,CZ042,Ústecký kraj,M,50–59,true,35
+2010,CZ042,Ústecký kraj,M,50–59,false,75
+2010,CZ042,Ústecký kraj,Z,50–59,false,51
+2010,CZ042,Ústecký kraj,Z,50–59,true,44
+2010,CZ051,Liberecký kraj,Z,50–59,false,27
+2010,CZ051,Liberecký kraj,Z,50–59,true,21
+2010,CZ051,Liberecký kraj,M,50–59,true,10
+2010,CZ051,Liberecký kraj,M,50–59,false,35
+2010,CZ052,Královéhradecký kraj,M,50–59,true,22
+2010,CZ052,Královéhradecký kraj,Z,50–59,false,28
+2010,CZ052,Královéhradecký kraj,Z,50–59,true,20
+2010,CZ052,Královéhradecký kraj,M,50–59,false,45
+2010,CZ053,Pardubický kraj,M,50–59,true,25
+2010,CZ053,Pardubický kraj,Z,50–59,true,30
+2010,CZ053,Pardubický kraj,Z,50–59,false,36
+2010,CZ053,Pardubický kraj,M,50–59,false,50
+2010,CZ063,Vysočina,M,50–59,false,33
+2010,CZ063,Vysočina,Z,50–59,false,28
+2010,CZ063,Vysočina,M,50–59,true,19
+2010,CZ063,Vysočina,Z,50–59,true,22
+2010,CZ064,Jihomoravský kraj,M,50–59,false,125
+2010,CZ064,Jihomoravský kraj,M,50–59,true,36
+2010,CZ064,Jihomoravský kraj,Z,50–59,false,85
+2010,CZ064,Jihomoravský kraj,Z,50–59,true,54
+2010,CZ071,Olomoucký kraj,Z,50–59,false,62
+2010,CZ071,Olomoucký kraj,M,50–59,false,60
+2010,CZ071,Olomoucký kraj,M,50–59,true,28
+2010,CZ071,Olomoucký kraj,Z,50–59,true,45
+2010,CZ072,Zlínský kraj,M,50–59,false,38
+2010,CZ072,Zlínský kraj,M,50–59,true,27
+2010,CZ072,Zlínský kraj,Z,50–59,true,32
+2010,CZ072,Zlínský kraj,Z,50–59,false,36
+2010,CZ080,Moravskoslezský kraj,Z,50–59,true,48
+2010,CZ080,Moravskoslezský kraj,M,50–59,false,189
+2010,CZ080,Moravskoslezský kraj,M,50–59,true,46
+2010,CZ080,Moravskoslezský kraj,Z,50–59,false,97
+2010,CZ999,Neznámý,M,50–59,false,35
+2010,CZ999,Neznámý,M,50–59,true,14
+2010,CZ999,Neznámý,Z,50–59,false,19
+2010,CZ999,Neznámý,Z,50–59,true,9
+2010,CZ010,Hl. m. Praha,M,60–69,true,178
+2010,CZ010,Hl. m. Praha,M,60–69,false,240
+2010,CZ010,Hl. m. Praha,Z,60–69,true,239
+2010,CZ010,Hl. m. Praha,Z,60–69,false,171
+2010,CZ020,Středočeský kraj,Z,60–69,false,156
+2010,CZ020,Středočeský kraj,M,60–69,false,226
+2010,CZ020,Středočeský kraj,Z,60–69,true,191
+2010,CZ020,Středočeský kraj,M,60–69,true,179
+2010,CZ031,Jihočeský kraj,M,60–69,false,97
+2010,CZ031,Jihočeský kraj,Z,60–69,true,101
+2010,CZ031,Jihočeský kraj,M,60–69,true,65
+2010,CZ031,Jihočeský kraj,Z,60–69,false,96
+2010,CZ032,Plzeňský kraj,M,60–69,false,82
+2010,CZ032,Plzeňský kraj,Z,60–69,false,61
+2010,CZ032,Plzeňský kraj,Z,60–69,true,78
+2010,CZ032,Plzeňský kraj,M,60–69,true,58
+2010,CZ041,Karlovarský kraj,M,60–69,false,63
+2010,CZ041,Karlovarský kraj,M,60–69,true,39
+2010,CZ041,Karlovarský kraj,Z,60–69,false,44
+2010,CZ041,Karlovarský kraj,Z,60–69,true,51
+2010,CZ042,Ústecký kraj,M,60–69,false,182
+2010,CZ042,Ústecký kraj,Z,60–69,false,121
+2010,CZ042,Ústecký kraj,M,60–69,true,132
+2010,CZ042,Ústecký kraj,Z,60–69,true,174
+2010,CZ051,Liberecký kraj,Z,60–69,false,74
+2010,CZ051,Liberecký kraj,Z,60–69,true,59
+2010,CZ051,Liberecký kraj,M,60–69,false,93
+2010,CZ051,Liberecký kraj,M,60–69,true,45
+2010,CZ052,Královéhradecký kraj,Z,60–69,true,78
+2010,CZ052,Královéhradecký kraj,Z,60–69,false,61
+2010,CZ052,Královéhradecký kraj,M,60–69,false,99
+2010,CZ052,Královéhradecký kraj,M,60–69,true,64
+2010,CZ053,Pardubický kraj,Z,60–69,false,68
+2010,CZ053,Pardubický kraj,Z,60–69,true,93
+2010,CZ053,Pardubický kraj,M,60–69,false,90
+2010,CZ053,Pardubický kraj,M,60–69,true,74
+2010,CZ063,Vysočina,M,60–69,false,69
+2010,CZ063,Vysočina,M,60–69,true,59
+2010,CZ063,Vysočina,Z,60–69,false,59
+2010,CZ063,Vysočina,Z,60–69,true,100
+2010,CZ064,Jihomoravský kraj,Z,60–69,false,190
+2010,CZ064,Jihomoravský kraj,Z,60–69,true,195
+2010,CZ064,Jihomoravský kraj,M,60–69,false,222
+2010,CZ064,Jihomoravský kraj,M,60–69,true,167
+2010,CZ071,Olomoucký kraj,M,60–69,true,82
+2010,CZ071,Olomoucký kraj,Z,60–69,true,127
+2010,CZ071,Olomoucký kraj,M,60–69,false,126
+2010,CZ071,Olomoucký kraj,Z,60–69,false,99
+2010,CZ072,Zlínský kraj,M,60–69,true,97
+2010,CZ072,Zlínský kraj,Z,60–69,false,80
+2010,CZ072,Zlínský kraj,M,60–69,false,105
+2010,CZ072,Zlínský kraj,Z,60–69,true,99
+2010,CZ080,Moravskoslezský kraj,Z,60–69,false,255
+2010,CZ080,Moravskoslezský kraj,Z,60–69,true,177
+2010,CZ080,Moravskoslezský kraj,M,60–69,false,379
+2010,CZ080,Moravskoslezský kraj,M,60–69,true,143
+2010,CZ999,Neznámý,Z,60–69,false,64
+2010,CZ999,Neznámý,M,60–69,true,68
+2010,CZ999,Neznámý,Z,60–69,true,58
+2010,CZ999,Neznámý,M,60–69,false,122
+2010,CZ010,Hl. m. Praha,Z,70–79,true,693
+2010,CZ010,Hl. m. Praha,M,70–79,true,477
+2010,CZ010,Hl. m. Praha,M,70–79,false,343
+2010,CZ010,Hl. m. Praha,Z,70–79,false,468
+2010,CZ020,Středočeský kraj,Z,70–79,true,627
+2010,CZ020,Středočeský kraj,M,70–79,true,313
+2010,CZ020,Středočeský kraj,Z,70–79,false,443
+2010,CZ020,Středočeský kraj,M,70–79,false,311
+2010,CZ031,Jihočeský kraj,Z,70–79,false,295
+2010,CZ031,Jihočeský kraj,M,70–79,true,185
+2010,CZ031,Jihočeský kraj,M,70–79,false,163
+2010,CZ031,Jihočeský kraj,Z,70–79,true,412
+2010,CZ032,Plzeňský kraj,M,70–79,false,147
+2010,CZ032,Plzeňský kraj,M,70–79,true,156
+2010,CZ032,Plzeňský kraj,Z,70–79,false,197
+2010,CZ032,Plzeňský kraj,Z,70–79,true,259
+2010,CZ041,Karlovarský kraj,Z,70–79,false,119
+2010,CZ041,Karlovarský kraj,M,70–79,false,105
+2010,CZ041,Karlovarský kraj,M,70–79,true,78
+2010,CZ041,Karlovarský kraj,Z,70–79,true,186
+2010,CZ042,Ústecký kraj,M,70–79,false,228
+2010,CZ042,Ústecký kraj,M,70–79,true,243
+2010,CZ042,Ústecký kraj,Z,70–79,false,346
+2010,CZ042,Ústecký kraj,Z,70–79,true,513
+2010,CZ051,Liberecký kraj,M,70–79,true,108
+2010,CZ051,Liberecký kraj,Z,70–79,false,196
+2010,CZ051,Liberecký kraj,Z,70–79,true,176
+2010,CZ051,Liberecký kraj,M,70–79,false,149
+2010,CZ052,Královéhradecký kraj,M,70–79,false,141
+2010,CZ052,Královéhradecký kraj,Z,70–79,true,256
+2010,CZ052,Královéhradecký kraj,M,70–79,true,144
+2010,CZ052,Královéhradecký kraj,Z,70–79,false,214
+2010,CZ053,Pardubický kraj,Z,70–79,true,369
+2010,CZ053,Pardubický kraj,Z,70–79,false,208
+2010,CZ053,Pardubický kraj,M,70–79,true,198
+2010,CZ053,Pardubický kraj,M,70–79,false,115
+2010,CZ063,Vysočina,M,70–79,true,182
+2010,CZ063,Vysočina,Z,70–79,false,214
+2010,CZ063,Vysočina,M,70–79,false,176
+2010,CZ063,Vysočina,Z,70–79,true,375
+2010,CZ064,Jihomoravský kraj,Z,70–79,false,572
+2010,CZ064,Jihomoravský kraj,M,70–79,false,408
+2010,CZ064,Jihomoravský kraj,Z,70–79,true,697
+2010,CZ064,Jihomoravský kraj,M,70–79,true,366
+2010,CZ071,Olomoucký kraj,M,70–79,false,206
+2010,CZ071,Olomoucký kraj,Z,70–79,false,293
+2010,CZ071,Olomoucký kraj,Z,70–79,true,388
+2010,CZ071,Olomoucký kraj,M,70–79,true,178
+2010,CZ072,Zlínský kraj,Z,70–79,true,433
+2010,CZ072,Zlínský kraj,M,70–79,true,207
+2010,CZ072,Zlínský kraj,Z,70–79,false,298
+2010,CZ072,Zlínský kraj,M,70–79,false,197
+2010,CZ080,Moravskoslezský kraj,M,70–79,false,498
+2010,CZ080,Moravskoslezský kraj,Z,70–79,false,771
+2010,CZ080,Moravskoslezský kraj,Z,70–79,true,535
+2010,CZ080,Moravskoslezský kraj,M,70–79,true,252
+2010,CZ999,Neznámý,M,70–79,false,247
+2010,CZ999,Neznámý,Z,70–79,false,294
+2010,CZ999,Neznámý,Z,70–79,true,393
+2010,CZ999,Neznámý,M,70–79,true,219
+2010,CZ010,Hl. m. Praha,Z,80–89,true,1497
+2010,CZ010,Hl. m. Praha,Z,80–89,false,1703
+2010,CZ010,Hl. m. Praha,M,80–89,false,675
+2010,CZ010,Hl. m. Praha,M,80–89,true,633
+2010,CZ020,Středočeský kraj,M,80–89,false,440
+2010,CZ020,Středočeský kraj,Z,80–89,true,956
+2010,CZ020,Středočeský kraj,Z,80–89,false,1113
+2010,CZ020,Středočeský kraj,M,80–89,true,349
+2010,CZ031,Jihočeský kraj,Z,80–89,true,537
+2010,CZ031,Jihočeský kraj,M,80–89,false,245
+2010,CZ031,Jihočeský kraj,M,80–89,true,222
+2010,CZ031,Jihočeský kraj,Z,80–89,false,679
+2010,CZ032,Plzeňský kraj,Z,80–89,false,522
+2010,CZ032,Plzeňský kraj,Z,80–89,true,416
+2010,CZ032,Plzeňský kraj,M,80–89,false,213
+2010,CZ032,Plzeňský kraj,M,80–89,true,140
+2010,CZ041,Karlovarský kraj,Z,80–89,false,249
+2010,CZ041,Karlovarský kraj,Z,80–89,true,271
+2010,CZ041,Karlovarský kraj,M,80–89,true,89
+2010,CZ041,Karlovarský kraj,M,80–89,false,108
+2010,CZ042,Ústecký kraj,Z,80–89,true,799
+2010,CZ042,Ústecký kraj,M,80–89,false,255
+2010,CZ042,Ústecký kraj,M,80–89,true,241
+2010,CZ042,Ústecký kraj,Z,80–89,false,708
+2010,CZ051,Liberecký kraj,M,80–89,true,92
+2010,CZ051,Liberecký kraj,M,80–89,false,179
+2010,CZ051,Liberecký kraj,Z,80–89,false,506
+2010,CZ051,Liberecký kraj,Z,80–89,true,319
+2010,CZ052,Královéhradecký kraj,M,80–89,false,201
+2010,CZ052,Královéhradecký kraj,Z,80–89,true,358
+2010,CZ052,Královéhradecký kraj,M,80–89,true,141
+2010,CZ052,Královéhradecký kraj,Z,80–89,false,587
+2010,CZ053,Pardubický kraj,M,80–89,true,216
+2010,CZ053,Pardubický kraj,M,80–89,false,165
+2010,CZ053,Pardubický kraj,Z,80–89,true,576
+2010,CZ053,Pardubický kraj,Z,80–89,false,444
+2010,CZ063,Vysočina,Z,80–89,true,592
+2010,CZ063,Vysočina,Z,80–89,false,582
+2010,CZ063,Vysočina,M,80–89,false,221
+2010,CZ063,Vysočina,M,80–89,true,191
+2010,CZ064,Jihomoravský kraj,Z,80–89,true,1022
+2010,CZ064,Jihomoravský kraj,M,80–89,false,548
+2010,CZ064,Jihomoravský kraj,M,80–89,true,379
+2010,CZ064,Jihomoravský kraj,Z,80–89,false,1525
+2010,CZ071,Olomoucký kraj,M,80–89,true,192
+2010,CZ071,Olomoucký kraj,M,80–89,false,263
+2010,CZ071,Olomoucký kraj,Z,80–89,false,835
+2010,CZ071,Olomoucký kraj,Z,80–89,true,565
+2010,CZ072,Zlínský kraj,M,80–89,true,226
+2010,CZ072,Zlínský kraj,M,80–89,false,228
+2010,CZ072,Zlínský kraj,Z,80–89,false,685
+2010,CZ072,Zlínský kraj,Z,80–89,true,572
+2010,CZ080,Moravskoslezský kraj,M,80–89,true,264
+2010,CZ080,Moravskoslezský kraj,Z,80–89,true,739
+2010,CZ080,Moravskoslezský kraj,Z,80–89,false,1818
+2010,CZ080,Moravskoslezský kraj,M,80–89,false,574
+2010,CZ999,Neznámý,M,80–89,true,231
+2010,CZ999,Neznámý,Z,80–89,false,897
+2010,CZ999,Neznámý,Z,80–89,true,657
+2010,CZ999,Neznámý,M,80–89,false,324
+2010,CZ010,Hl. m. Praha,M,90+,true,58
+2010,CZ010,Hl. m. Praha,Z,90+,false,659
+2010,CZ010,Hl. m. Praha,Z,90+,true,223
+2010,CZ010,Hl. m. Praha,M,90+,false,149
+2010,CZ020,Středočeský kraj,M,90+,false,67
+2010,CZ020,Středočeský kraj,M,90+,true,29
+2010,CZ020,Středočeský kraj,Z,90+,false,291
+2010,CZ020,Středočeský kraj,Z,90+,true,137
+2010,CZ031,Jihočeský kraj,Z,90+,false,165
+2010,CZ031,Jihočeský kraj,Z,90+,true,64
+2010,CZ031,Jihočeský kraj,M,90+,true,17
+2010,CZ031,Jihočeský kraj,M,90+,false,28
+2010,CZ032,Plzeňský kraj,M,90+,false,20
+2010,CZ032,Plzeňský kraj,M,90+,true,15
+2010,CZ032,Plzeňský kraj,Z,90+,false,128
+2010,CZ032,Plzeňský kraj,Z,90+,true,40
+2010,CZ041,Karlovarský kraj,Z,90+,true,30
+2010,CZ041,Karlovarský kraj,Z,90+,false,56
+2010,CZ041,Karlovarský kraj,M,90+,false,19
+2010,CZ041,Karlovarský kraj,M,90+,true,5
+2010,CZ042,Ústecký kraj,Z,90+,false,176
+2010,CZ042,Ústecký kraj,M,90+,true,27
+2010,CZ042,Ústecký kraj,Z,90+,true,124
+2010,CZ042,Ústecký kraj,M,90+,false,38
+2010,CZ051,Liberecký kraj,M,90+,true,8
+2010,CZ051,Liberecký kraj,Z,90+,true,33
+2010,CZ051,Liberecký kraj,M,90+,false,32
+2010,CZ051,Liberecký kraj,Z,90+,false,102
+2010,CZ052,Královéhradecký kraj,M,90+,true,5
+2010,CZ052,Královéhradecký kraj,Z,90+,true,47
+2010,CZ052,Královéhradecký kraj,Z,90+,false,147
+2010,CZ052,Královéhradecký kraj,M,90+,false,36
+2010,CZ053,Pardubický kraj,M,90+,false,23
+2010,CZ053,Pardubický kraj,M,90+,true,23
+2010,CZ053,Pardubický kraj,Z,90+,true,87
+2010,CZ053,Pardubický kraj,Z,90+,false,95
+2010,CZ063,Vysočina,Z,90+,true,97
+2010,CZ063,Vysočina,Z,90+,false,146
+2010,CZ063,Vysočina,M,90+,false,42
+2010,CZ063,Vysočina,M,90+,true,24
+2010,CZ064,Jihomoravský kraj,Z,90+,true,102
+2010,CZ064,Jihomoravský kraj,M,90+,true,37
+2010,CZ064,Jihomoravský kraj,Z,90+,false,434
+2010,CZ064,Jihomoravský kraj,M,90+,false,104
+2010,CZ071,Olomoucký kraj,M,90+,false,52
+2010,CZ071,Olomoucký kraj,Z,90+,false,229
+2010,CZ071,Olomoucký kraj,Z,90+,true,72
+2010,CZ071,Olomoucký kraj,M,90+,true,20
+2010,CZ072,Zlínský kraj,Z,90+,false,188
+2010,CZ072,Zlínský kraj,Z,90+,true,86
+2010,CZ072,Zlínský kraj,M,90+,true,19
+2010,CZ072,Zlínský kraj,M,90+,false,46
+2010,CZ080,Moravskoslezský kraj,M,90+,true,15
+2010,CZ080,Moravskoslezský kraj,Z,90+,true,88
+2010,CZ080,Moravskoslezský kraj,M,90+,false,79
+2010,CZ080,Moravskoslezský kraj,Z,90+,false,502
+2010,CZ999,Neznámý,M,90+,true,15
+2010,CZ999,Neznámý,Z,90+,false,239
+2010,CZ999,Neznámý,M,90+,false,53
+2010,CZ999,Neznámý,Z,90+,true,98
+2011,CZ010,Hl. m. Praha,M,50–59,false,96
+2011,CZ010,Hl. m. Praha,M,50–59,true,53
+2011,CZ010,Hl. m. Praha,Z,50–59,false,86
+2011,CZ010,Hl. m. Praha,Z,50–59,true,67
+2011,CZ020,Středočeský kraj,M,50–59,false,109
+2011,CZ020,Středočeský kraj,Z,50–59,false,78
+2011,CZ020,Středočeský kraj,Z,50–59,true,63
+2011,CZ020,Středočeský kraj,M,50–59,true,47
+2011,CZ031,Jihočeský kraj,M,50–59,false,44
+2011,CZ031,Jihočeský kraj,M,50–59,true,27
+2011,CZ031,Jihočeský kraj,Z,50–59,false,49
+2011,CZ031,Jihočeský kraj,Z,50–59,true,31
+2011,CZ032,Plzeňský kraj,M,50–59,false,33
+2011,CZ032,Plzeňský kraj,Z,50–59,true,22
+2011,CZ032,Plzeňský kraj,M,50–59,true,17
+2011,CZ032,Plzeňský kraj,Z,50–59,false,18
+2011,CZ041,Karlovarský kraj,Z,50–59,true,10
+2011,CZ041,Karlovarský kraj,M,50–59,false,24
+2011,CZ041,Karlovarský kraj,Z,50–59,false,21
+2011,CZ041,Karlovarský kraj,M,50–59,true,13
+2011,CZ042,Ústecký kraj,M,50–59,true,43
+2011,CZ042,Ústecký kraj,Z,50–59,true,56
+2011,CZ042,Ústecký kraj,M,50–59,false,83
+2011,CZ042,Ústecký kraj,Z,50–59,false,56
+2011,CZ051,Liberecký kraj,M,50–59,true,12
+2011,CZ051,Liberecký kraj,Z,50–59,false,38
+2011,CZ051,Liberecký kraj,Z,50–59,true,14
+2011,CZ051,Liberecký kraj,M,50–59,false,50
+2011,CZ052,Královéhradecký kraj,M,50–59,true,24
+2011,CZ052,Královéhradecký kraj,Z,50–59,true,28
+2011,CZ052,Královéhradecký kraj,M,50–59,false,43
+2011,CZ052,Královéhradecký kraj,Z,50–59,false,39
+2011,CZ053,Pardubický kraj,M,50–59,false,54
+2011,CZ053,Pardubický kraj,M,50–59,true,37
+2011,CZ053,Pardubický kraj,Z,50–59,true,33
+2011,CZ053,Pardubický kraj,Z,50–59,false,32
+2011,CZ063,Vysočina,M,50–59,true,18
+2011,CZ063,Vysočina,Z,50–59,false,35
+2011,CZ063,Vysočina,Z,50–59,true,20
+2011,CZ063,Vysočina,M,50–59,false,45
+2011,CZ064,Jihomoravský kraj,Z,50–59,true,71
+2011,CZ064,Jihomoravský kraj,M,50–59,false,103
+2011,CZ064,Jihomoravský kraj,M,50–59,true,41
+2011,CZ064,Jihomoravský kraj,Z,50–59,false,73
+2011,CZ071,Olomoucký kraj,M,50–59,true,22
+2011,CZ071,Olomoucký kraj,Z,50–59,false,53
+2011,CZ071,Olomoucký kraj,Z,50–59,true,40
+2011,CZ071,Olomoucký kraj,M,50–59,false,73
+2011,CZ072,Zlínský kraj,M,50–59,true,21
+2011,CZ072,Zlínský kraj,Z,50–59,false,38
+2011,CZ072,Zlínský kraj,M,50–59,false,55
+2011,CZ072,Zlínský kraj,Z,50–59,true,32
+2011,CZ080,Moravskoslezský kraj,Z,50–59,false,108
+2011,CZ080,Moravskoslezský kraj,M,50–59,true,52
+2011,CZ080,Moravskoslezský kraj,Z,50–59,true,54
+2011,CZ080,Moravskoslezský kraj,M,50–59,false,213
+2011,CZ999,Neznámý,Z,50–59,false,21
+2011,CZ999,Neznámý,Z,50–59,true,10
+2011,CZ999,Neznámý,M,50–59,true,14
+2011,CZ999,Neznámý,M,50–59,false,42
+2011,CZ010,Hl. m. Praha,Z,60–69,true,261
+2011,CZ010,Hl. m. Praha,M,60–69,false,221
+2011,CZ010,Hl. m. Praha,Z,60–69,false,197
+2011,CZ010,Hl. m. Praha,M,60–69,true,201
+2011,CZ020,Středočeský kraj,Z,60–69,false,192
+2011,CZ020,Středočeský kraj,M,60–69,true,208
+2011,CZ020,Středočeský kraj,Z,60–69,true,214
+2011,CZ020,Středočeský kraj,M,60–69,false,221
+2011,CZ031,Jihočeský kraj,M,60–69,false,118
+2011,CZ031,Jihočeský kraj,Z,60–69,false,95
+2011,CZ031,Jihočeský kraj,Z,60–69,true,110
+2011,CZ031,Jihočeský kraj,M,60–69,true,88
+2011,CZ032,Plzeňský kraj,Z,60–69,true,100
+2011,CZ032,Plzeňský kraj,M,60–69,false,78
+2011,CZ032,Plzeňský kraj,M,60–69,true,72
+2011,CZ032,Plzeňský kraj,Z,60–69,false,49
+2011,CZ041,Karlovarský kraj,M,60–69,false,49
+2011,CZ041,Karlovarský kraj,M,60–69,true,39
+2011,CZ041,Karlovarský kraj,Z,60–69,false,32
+2011,CZ041,Karlovarský kraj,Z,60–69,true,44
+2011,CZ042,Ústecký kraj,M,60–69,true,170
+2011,CZ042,Ústecký kraj,M,60–69,false,178
+2011,CZ042,Ústecký kraj,Z,60–69,false,142
+2011,CZ042,Ústecký kraj,Z,60–69,true,184
+2011,CZ051,Liberecký kraj,M,60–69,false,101
+2011,CZ051,Liberecký kraj,Z,60–69,true,65
+2011,CZ051,Liberecký kraj,M,60–69,true,62
+2011,CZ051,Liberecký kraj,Z,60–69,false,85
+2011,CZ052,Královéhradecký kraj,M,60–69,false,124
+2011,CZ052,Královéhradecký kraj,M,60–69,true,84
+2011,CZ052,Královéhradecký kraj,Z,60–69,false,81
+2011,CZ052,Královéhradecký kraj,Z,60–69,true,100
+2011,CZ053,Pardubický kraj,Z,60–69,true,130
+2011,CZ053,Pardubický kraj,M,60–69,false,99
+2011,CZ053,Pardubický kraj,M,60–69,true,93
+2011,CZ053,Pardubický kraj,Z,60–69,false,80
+2011,CZ063,Vysočina,M,60–69,false,91
+2011,CZ063,Vysočina,Z,60–69,true,106
+2011,CZ063,Vysočina,M,60–69,true,77
+2011,CZ063,Vysočina,Z,60–69,false,80
+2011,CZ064,Jihomoravský kraj,Z,60–69,true,208
+2011,CZ064,Jihomoravský kraj,M,60–69,false,230
+2011,CZ064,Jihomoravský kraj,M,60–69,true,197
+2011,CZ064,Jihomoravský kraj,Z,60–69,false,169
+2011,CZ071,Olomoucký kraj,Z,60–69,true,128
+2011,CZ071,Olomoucký kraj,M,60–69,true,103
+2011,CZ071,Olomoucký kraj,M,60–69,false,146
+2011,CZ071,Olomoucký kraj,Z,60–69,false,95
+2011,CZ072,Zlínský kraj,M,60–69,false,102
+2011,CZ072,Zlínský kraj,Z,60–69,false,89
+2011,CZ072,Zlínský kraj,M,60–69,true,85
+2011,CZ072,Zlínský kraj,Z,60–69,true,113
+2011,CZ080,Moravskoslezský kraj,M,60–69,true,153
+2011,CZ080,Moravskoslezský kraj,Z,60–69,true,185
+2011,CZ080,Moravskoslezský kraj,Z,60–69,false,293
+2011,CZ080,Moravskoslezský kraj,M,60–69,false,385
+2011,CZ999,Neznámý,Z,60–69,false,72
+2011,CZ999,Neznámý,Z,60–69,true,70
+2011,CZ999,Neznámý,M,60–69,true,67
+2011,CZ999,Neznámý,M,60–69,false,121
+2011,CZ010,Hl. m. Praha,M,70–79,true,538
+2011,CZ010,Hl. m. Praha,Z,70–79,true,752
+2011,CZ010,Hl. m. Praha,M,70–79,false,348
+2011,CZ010,Hl. m. Praha,Z,70–79,false,460
+2011,CZ020,Středočeský kraj,Z,70–79,false,435
+2011,CZ020,Středočeský kraj,M,70–79,false,348
+2011,CZ020,Středočeský kraj,M,70–79,true,371
+2011,CZ020,Středočeský kraj,Z,70–79,true,692
+2011,CZ031,Jihočeský kraj,Z,70–79,true,434
+2011,CZ031,Jihočeský kraj,Z,70–79,false,250
+2011,CZ031,Jihočeský kraj,M,70–79,false,178
+2011,CZ031,Jihočeský kraj,M,70–79,true,210
+2011,CZ032,Plzeňský kraj,Z,70–79,true,289
+2011,CZ032,Plzeňský kraj,Z,70–79,false,181
+2011,CZ032,Plzeňský kraj,M,70–79,false,119
+2011,CZ032,Plzeňský kraj,M,70–79,true,176
+2011,CZ041,Karlovarský kraj,Z,70–79,true,199
+2011,CZ041,Karlovarský kraj,M,70–79,false,89
+2011,CZ041,Karlovarský kraj,M,70–79,true,93
+2011,CZ041,Karlovarský kraj,Z,70–79,false,114
+2011,CZ042,Ústecký kraj,Z,70–79,false,340
+2011,CZ042,Ústecký kraj,M,70–79,false,244
+2011,CZ042,Ústecký kraj,M,70–79,true,261
+2011,CZ042,Ústecký kraj,Z,70–79,true,572
+2011,CZ051,Liberecký kraj,M,70–79,true,114
+2011,CZ051,Liberecký kraj,M,70–79,false,151
+2011,CZ051,Liberecký kraj,Z,70–79,true,196
+2011,CZ051,Liberecký kraj,Z,70–79,false,202
+2011,CZ052,Královéhradecký kraj,M,70–79,true,171
+2011,CZ052,Královéhradecký kraj,M,70–79,false,163
+2011,CZ052,Královéhradecký kraj,Z,70–79,true,320
+2011,CZ052,Královéhradecký kraj,Z,70–79,false,227
+2011,CZ053,Pardubický kraj,M,70–79,true,240
+2011,CZ053,Pardubický kraj,Z,70–79,false,230
+2011,CZ053,Pardubický kraj,Z,70–79,true,417
+2011,CZ053,Pardubický kraj,M,70–79,false,152
+2011,CZ063,Vysočina,M,70–79,true,194
+2011,CZ063,Vysočina,Z,70–79,true,415
+2011,CZ063,Vysočina,M,70–79,false,162
+2011,CZ063,Vysočina,Z,70–79,false,196
+2011,CZ064,Jihomoravský kraj,Z,70–79,false,548
+2011,CZ064,Jihomoravský kraj,M,70–79,false,390
+2011,CZ064,Jihomoravský kraj,Z,70–79,true,776
+2011,CZ064,Jihomoravský kraj,M,70–79,true,451
+2011,CZ071,Olomoucký kraj,Z,70–79,false,309
+2011,CZ071,Olomoucký kraj,Z,70–79,true,410
+2011,CZ071,Olomoucký kraj,M,70–79,false,232
+2011,CZ071,Olomoucký kraj,M,70–79,true,207
+2011,CZ072,Zlínský kraj,Z,70–79,true,489
+2011,CZ072,Zlínský kraj,M,70–79,false,214
+2011,CZ072,Zlínský kraj,M,70–79,true,244
+2011,CZ072,Zlínský kraj,Z,70–79,false,312
+2011,CZ080,Moravskoslezský kraj,Z,70–79,false,797
+2011,CZ080,Moravskoslezský kraj,M,70–79,false,579
+2011,CZ080,Moravskoslezský kraj,Z,70–79,true,623
+2011,CZ080,Moravskoslezský kraj,M,70–79,true,327
+2011,CZ999,Neznámý,M,70–79,false,227
+2011,CZ999,Neznámý,Z,70–79,true,359
+2011,CZ999,Neznámý,M,70–79,true,209
+2011,CZ999,Neznámý,Z,70–79,false,270
+2011,CZ010,Hl. m. Praha,M,80–89,false,638
+2011,CZ010,Hl. m. Praha,M,80–89,true,746
+2011,CZ010,Hl. m. Praha,Z,80–89,false,1610
+2011,CZ010,Hl. m. Praha,Z,80–89,true,1724
+2011,CZ020,Středočeský kraj,M,80–89,false,447
+2011,CZ020,Středočeský kraj,Z,80–89,false,1222
+2011,CZ020,Středočeský kraj,M,80–89,true,404
+2011,CZ020,Středočeský kraj,Z,80–89,true,1118
+2011,CZ031,Jihočeský kraj,Z,80–89,true,601
+2011,CZ031,Jihočeský kraj,Z,80–89,false,645
+2011,CZ031,Jihočeský kraj,M,80–89,true,242
+2011,CZ031,Jihočeský kraj,M,80–89,false,255
+2011,CZ032,Plzeňský kraj,Z,80–89,false,574
+2011,CZ032,Plzeňský kraj,Z,80–89,true,546
+2011,CZ032,Plzeňský kraj,M,80–89,false,214
+2011,CZ032,Plzeňský kraj,M,80–89,true,200
+2011,CZ041,Karlovarský kraj,Z,80–89,false,268
+2011,CZ041,Karlovarský kraj,M,80–89,false,97
+2011,CZ041,Karlovarský kraj,Z,80–89,true,290
+2011,CZ041,Karlovarský kraj,M,80–89,true,93
+2011,CZ042,Ústecký kraj,Z,80–89,false,737
+2011,CZ042,Ústecký kraj,Z,80–89,true,969
+2011,CZ042,Ústecký kraj,M,80–89,false,267
+2011,CZ042,Ústecký kraj,M,80–89,true,298
+2011,CZ051,Liberecký kraj,Z,80–89,false,501
+2011,CZ051,Liberecký kraj,M,80–89,false,181
+2011,CZ051,Liberecký kraj,M,80–89,true,105
+2011,CZ051,Liberecký kraj,Z,80–89,true,371
+2011,CZ052,Královéhradecký kraj,M,80–89,true,181
+2011,CZ052,Královéhradecký kraj,M,80–89,false,216
+2011,CZ052,Královéhradecký kraj,Z,80–89,true,502
+2011,CZ052,Královéhradecký kraj,Z,80–89,false,619
+2011,CZ053,Pardubický kraj,M,80–89,false,169
+2011,CZ053,Pardubický kraj,Z,80–89,false,512
+2011,CZ053,Pardubický kraj,M,80–89,true,273
+2011,CZ053,Pardubický kraj,Z,80–89,true,696
+2011,CZ063,Vysočina,Z,80–89,false,630
+2011,CZ063,Vysočina,M,80–89,true,246
+2011,CZ063,Vysočina,Z,80–89,true,725
+2011,CZ063,Vysočina,M,80–89,false,221
+2011,CZ064,Jihomoravský kraj,M,80–89,false,547
+2011,CZ064,Jihomoravský kraj,Z,80–89,false,1480
+2011,CZ064,Jihomoravský kraj,Z,80–89,true,1290
+2011,CZ064,Jihomoravský kraj,M,80–89,true,468
+2011,CZ071,Olomoucký kraj,Z,80–89,false,793
+2011,CZ071,Olomoucký kraj,Z,80–89,true,608
+2011,CZ071,Olomoucký kraj,M,80–89,false,282
+2011,CZ071,Olomoucký kraj,M,80–89,true,230
+2011,CZ072,Zlínský kraj,Z,80–89,true,648
+2011,CZ072,Zlínský kraj,M,80–89,true,240
+2011,CZ072,Zlínský kraj,Z,80–89,false,760
+2011,CZ072,Zlínský kraj,M,80–89,false,280
+2011,CZ080,Moravskoslezský kraj,M,80–89,true,324
+2011,CZ080,Moravskoslezský kraj,Z,80–89,true,921
+2011,CZ080,Moravskoslezský kraj,Z,80–89,false,1933
+2011,CZ080,Moravskoslezský kraj,M,80–89,false,571
+2011,CZ999,Neznámý,M,80–89,false,337
+2011,CZ999,Neznámý,M,80–89,true,272
+2011,CZ999,Neznámý,Z,80–89,false,893
+2011,CZ999,Neznámý,Z,80–89,true,744
+2011,CZ010,Hl. m. Praha,Z,90+,false,737
+2011,CZ010,Hl. m. Praha,Z,90+,true,330
+2011,CZ010,Hl. m. Praha,M,90+,true,97
+2011,CZ010,Hl. m. Praha,M,90+,false,171
+2011,CZ020,Středočeský kraj,M,90+,false,77
+2011,CZ020,Středočeský kraj,M,90+,true,30
+2011,CZ020,Středočeský kraj,Z,90+,false,377
+2011,CZ020,Středočeský kraj,Z,90+,true,167
+2011,CZ031,Jihočeský kraj,Z,90+,true,98
+2011,CZ031,Jihočeský kraj,M,90+,true,23
+2011,CZ031,Jihočeský kraj,M,90+,false,46
+2011,CZ031,Jihočeský kraj,Z,90+,false,191
+2011,CZ032,Plzeňský kraj,Z,90+,true,64
+2011,CZ032,Plzeňský kraj,Z,90+,false,134
+2011,CZ032,Plzeňský kraj,M,90+,true,19
+2011,CZ032,Plzeňský kraj,M,90+,false,35
+2011,CZ041,Karlovarský kraj,Z,90+,true,46
+2011,CZ041,Karlovarský kraj,M,90+,true,8
+2011,CZ041,Karlovarský kraj,Z,90+,false,88
+2011,CZ041,Karlovarský kraj,M,90+,false,9
+2011,CZ042,Ústecký kraj,Z,90+,false,201
+2011,CZ042,Ústecký kraj,M,90+,false,44
+2011,CZ042,Ústecký kraj,Z,90+,true,155
+2011,CZ042,Ústecký kraj,M,90+,true,25
+2011,CZ051,Liberecký kraj,Z,90+,true,54
+2011,CZ051,Liberecký kraj,M,90+,false,40
+2011,CZ051,Liberecký kraj,M,90+,true,12
+2011,CZ051,Liberecký kraj,Z,90+,false,138
+2011,CZ052,Královéhradecký kraj,M,90+,true,13
+2011,CZ052,Královéhradecký kraj,M,90+,false,41
+2011,CZ052,Královéhradecký kraj,Z,90+,false,178
+2011,CZ052,Královéhradecký kraj,Z,90+,true,68
+2011,CZ053,Pardubický kraj,M,90+,false,21
+2011,CZ053,Pardubický kraj,M,90+,true,33
+2011,CZ053,Pardubický kraj,Z,90+,true,122
+2011,CZ053,Pardubický kraj,Z,90+,false,106
+2011,CZ063,Vysočina,M,90+,true,35
+2011,CZ063,Vysočina,M,90+,false,35
+2011,CZ063,Vysočina,Z,90+,false,153
+2011,CZ063,Vysočina,Z,90+,true,113
+2011,CZ064,Jihomoravský kraj,M,90+,false,100
+2011,CZ064,Jihomoravský kraj,M,90+,true,45
+2011,CZ064,Jihomoravský kraj,Z,90+,false,499
+2011,CZ064,Jihomoravský kraj,Z,90+,true,165
+2011,CZ071,Olomoucký kraj,Z,90+,true,88
+2011,CZ071,Olomoucký kraj,M,90+,false,47
+2011,CZ071,Olomoucký kraj,Z,90+,false,246
+2011,CZ071,Olomoucký kraj,M,90+,true,26
+2011,CZ072,Zlínský kraj,M,90+,true,22
+2011,CZ072,Zlínský kraj,M,90+,false,49
+2011,CZ072,Zlínský kraj,Z,90+,false,216
+2011,CZ072,Zlínský kraj,Z,90+,true,96
+2011,CZ080,Moravskoslezský kraj,Z,90+,false,578
+2011,CZ080,Moravskoslezský kraj,M,90+,false,100
+2011,CZ080,Moravskoslezský kraj,M,90+,true,30
+2011,CZ080,Moravskoslezský kraj,Z,90+,true,117
+2011,CZ999,Neznámý,M,90+,false,68
+2011,CZ999,Neznámý,M,90+,true,18
+2011,CZ999,Neznámý,Z,90+,false,267
+2011,CZ999,Neznámý,Z,90+,true,115
+2012,CZ010,Hl. m. Praha,M,50–59,false,91
+2012,CZ010,Hl. m. Praha,M,50–59,true,55
+2012,CZ010,Hl. m. Praha,Z,50–59,false,74
+2012,CZ010,Hl. m. Praha,Z,50–59,true,59
+2012,CZ020,Středočeský kraj,Z,50–59,false,79
+2012,CZ020,Středočeský kraj,M,50–59,false,97
+2012,CZ020,Středočeský kraj,M,50–59,true,52
+2012,CZ020,Středočeský kraj,Z,50–59,true,81
+2012,CZ031,Jihočeský kraj,Z,50–59,false,52
+2012,CZ031,Jihočeský kraj,M,50–59,false,45
+2012,CZ031,Jihočeský kraj,M,50–59,true,19
+2012,CZ031,Jihočeský kraj,Z,50–59,true,31
+2012,CZ032,Plzeňský kraj,Z,50–59,false,20
+2012,CZ032,Plzeňský kraj,Z,50–59,true,25
+2012,CZ032,Plzeňský kraj,M,50–59,false,30
+2012,CZ032,Plzeňský kraj,M,50–59,true,19
+2012,CZ041,Karlovarský kraj,Z,50–59,false,23
+2012,CZ041,Karlovarský kraj,M,50–59,true,15
+2012,CZ041,Karlovarský kraj,Z,50–59,true,9
+2012,CZ041,Karlovarský kraj,M,50–59,false,25
+2012,CZ042,Ústecký kraj,M,50–59,false,73
+2012,CZ042,Ústecký kraj,Z,50–59,false,68
+2012,CZ042,Ústecký kraj,Z,50–59,true,67
+2012,CZ042,Ústecký kraj,M,50–59,true,43
+2012,CZ051,Liberecký kraj,M,50–59,true,13
+2012,CZ051,Liberecký kraj,Z,50–59,true,18
+2012,CZ051,Liberecký kraj,M,50–59,false,48
+2012,CZ051,Liberecký kraj,Z,50–59,false,39
+2012,CZ052,Královéhradecký kraj,M,50–59,true,22
+2012,CZ052,Královéhradecký kraj,Z,50–59,true,40
+2012,CZ052,Královéhradecký kraj,Z,50–59,false,46
+2012,CZ052,Královéhradecký kraj,M,50–59,false,53
+2012,CZ053,Pardubický kraj,M,50–59,false,59
+2012,CZ053,Pardubický kraj,M,50–59,true,41
+2012,CZ053,Pardubický kraj,Z,50–59,false,30
+2012,CZ053,Pardubický kraj,Z,50–59,true,36
+2012,CZ063,Vysočina,Z,50–59,false,35
+2012,CZ063,Vysočina,M,50–59,true,22
+2012,CZ063,Vysočina,Z,50–59,true,21
+2012,CZ063,Vysočina,M,50–59,false,47
+2012,CZ064,Jihomoravský kraj,Z,50–59,true,78
+2012,CZ064,Jihomoravský kraj,Z,50–59,false,56
+2012,CZ064,Jihomoravský kraj,M,50–59,false,94
+2012,CZ064,Jihomoravský kraj,M,50–59,true,68
+2012,CZ071,Olomoucký kraj,M,50–59,true,30
+2012,CZ071,Olomoucký kraj,M,50–59,false,51
+2012,CZ071,Olomoucký kraj,Z,50–59,false,52
+2012,CZ071,Olomoucký kraj,Z,50–59,true,37
+2012,CZ072,Zlínský kraj,Z,50–59,false,37
+2012,CZ072,Zlínský kraj,M,50–59,false,44
+2012,CZ072,Zlínský kraj,M,50–59,true,27
+2012,CZ072,Zlínský kraj,Z,50–59,true,41
+2012,CZ080,Moravskoslezský kraj,Z,50–59,false,98
+2012,CZ080,Moravskoslezský kraj,Z,50–59,true,57
+2012,CZ080,Moravskoslezský kraj,M,50–59,false,214
+2012,CZ080,Moravskoslezský kraj,M,50–59,true,43
+2012,CZ999,Neznámý,Z,50–59,true,7
+2012,CZ999,Neznámý,M,50–59,true,14
+2012,CZ999,Neznámý,M,50–59,false,42
+2012,CZ999,Neznámý,Z,50–59,false,10
+2012,CZ010,Hl. m. Praha,M,60–69,false,244
+2012,CZ010,Hl. m. Praha,M,60–69,true,216
+2012,CZ010,Hl. m. Praha,Z,60–69,true,320
+2012,CZ010,Hl. m. Praha,Z,60–69,false,218
+2012,CZ020,Středočeský kraj,M,60–69,false,238
+2012,CZ020,Středočeský kraj,M,60–69,true,210
+2012,CZ020,Středočeský kraj,Z,60–69,true,246
+2012,CZ020,Středočeský kraj,Z,60–69,false,224
+2012,CZ031,Jihočeský kraj,Z,60–69,true,108
+2012,CZ031,Jihočeský kraj,M,60–69,true,94
+2012,CZ031,Jihočeský kraj,Z,60–69,false,89
+2012,CZ031,Jihočeský kraj,M,60–69,false,86
+2012,CZ032,Plzeňský kraj,M,60–69,false,82
+2012,CZ032,Plzeňský kraj,M,60–69,true,68
+2012,CZ032,Plzeňský kraj,Z,60–69,false,60
+2012,CZ032,Plzeňský kraj,Z,60–69,true,105
+2012,CZ041,Karlovarský kraj,Z,60–69,true,62
+2012,CZ041,Karlovarský kraj,Z,60–69,false,44
+2012,CZ041,Karlovarský kraj,M,60–69,true,44
+2012,CZ041,Karlovarský kraj,M,60–69,false,60
+2012,CZ042,Ústecký kraj,M,60–69,false,224
+2012,CZ042,Ústecký kraj,M,60–69,true,191
+2012,CZ042,Ústecký kraj,Z,60–69,false,146
+2012,CZ042,Ústecký kraj,Z,60–69,true,211
+2012,CZ051,Liberecký kraj,M,60–69,false,121
+2012,CZ051,Liberecký kraj,Z,60–69,false,100
+2012,CZ051,Liberecký kraj,M,60–69,true,66
+2012,CZ051,Liberecký kraj,Z,60–69,true,62
+2012,CZ052,Královéhradecký kraj,M,60–69,true,99
+2012,CZ052,Královéhradecký kraj,M,60–69,false,131
+2012,CZ052,Královéhradecký kraj,Z,60–69,true,118
+2012,CZ052,Královéhradecký kraj,Z,60–69,false,93
+2012,CZ053,Pardubický kraj,M,60–69,true,93
+2012,CZ053,Pardubický kraj,Z,60–69,true,139
+2012,CZ053,Pardubický kraj,Z,60–69,false,87
+2012,CZ053,Pardubický kraj,M,60–69,false,126
+2012,CZ063,Vysočina,Z,60–69,true,118
+2012,CZ063,Vysočina,M,60–69,false,108
+2012,CZ063,Vysočina,M,60–69,true,87
+2012,CZ063,Vysočina,Z,60–69,false,80
+2012,CZ064,Jihomoravský kraj,Z,60–69,false,180
+2012,CZ064,Jihomoravský kraj,Z,60–69,true,246
+2012,CZ064,Jihomoravský kraj,M,60–69,false,232
+2012,CZ064,Jihomoravský kraj,M,60–69,true,198
+2012,CZ071,Olomoucký kraj,Z,60–69,true,138
+2012,CZ071,Olomoucký kraj,Z,60–69,false,103
+2012,CZ071,Olomoucký kraj,M,60–69,false,145
+2012,CZ071,Olomoucký kraj,M,60–69,true,113
+2012,CZ072,Zlínský kraj,Z,60–69,true,131
+2012,CZ072,Zlínský kraj,Z,60–69,false,80
+2012,CZ072,Zlínský kraj,M,60–69,false,144
+2012,CZ072,Zlínský kraj,M,60–69,true,110
+2012,CZ080,Moravskoslezský kraj,Z,60–69,false,298
+2012,CZ080,Moravskoslezský kraj,Z,60–69,true,215
+2012,CZ080,Moravskoslezský kraj,M,60–69,false,403
+2012,CZ080,Moravskoslezský kraj,M,60–69,true,173
+2012,CZ999,Neznámý,Z,60–69,false,75
+2012,CZ999,Neznámý,Z,60–69,true,61
+2012,CZ999,Neznámý,M,60–69,false,98
+2012,CZ999,Neznámý,M,60–69,true,68
+2012,CZ010,Hl. m. Praha,M,70–79,true,530
+2012,CZ010,Hl. m. Praha,Z,70–79,false,466
+2012,CZ010,Hl. m. Praha,Z,70–79,true,768
+2012,CZ010,Hl. m. Praha,M,70–79,false,359
+2012,CZ020,Středočeský kraj,Z,70–79,true,807
+2012,CZ020,Středočeský kraj,Z,70–79,false,467
+2012,CZ020,Středočeský kraj,M,70–79,false,328
+2012,CZ020,Středočeský kraj,M,70–79,true,432
+2012,CZ031,Jihočeský kraj,Z,70–79,false,240
+2012,CZ031,Jihočeský kraj,M,70–79,false,181
+2012,CZ031,Jihočeský kraj,M,70–79,true,215
+2012,CZ031,Jihočeský kraj,Z,70–79,true,433
+2012,CZ032,Plzeňský kraj,Z,70–79,false,169
+2012,CZ032,Plzeňský kraj,Z,70–79,true,325
+2012,CZ032,Plzeňský kraj,M,70–79,true,193
+2012,CZ032,Plzeňský kraj,M,70–79,false,117
+2012,CZ041,Karlovarský kraj,Z,70–79,false,112
+2012,CZ041,Karlovarský kraj,Z,70–79,true,207
+2012,CZ041,Karlovarský kraj,M,70–79,true,113
+2012,CZ041,Karlovarský kraj,M,70–79,false,90
+2012,CZ042,Ústecký kraj,Z,70–79,false,336
+2012,CZ042,Ústecký kraj,M,70–79,true,301
+2012,CZ042,Ústecký kraj,M,70–79,false,250
+2012,CZ042,Ústecký kraj,Z,70–79,true,624
+2012,CZ051,Liberecký kraj,M,70–79,false,151
+2012,CZ051,Liberecký kraj,M,70–79,true,121
+2012,CZ051,Liberecký kraj,Z,70–79,true,219
+2012,CZ051,Liberecký kraj,Z,70–79,false,182
+2012,CZ052,Královéhradecký kraj,Z,70–79,true,353
+2012,CZ052,Královéhradecký kraj,Z,70–79,false,231
+2012,CZ052,Královéhradecký kraj,M,70–79,false,218
+2012,CZ052,Královéhradecký kraj,M,70–79,true,189
+2012,CZ053,Pardubický kraj,M,70–79,true,277
+2012,CZ053,Pardubický kraj,M,70–79,false,154
+2012,CZ053,Pardubický kraj,Z,70–79,false,232
+2012,CZ053,Pardubický kraj,Z,70–79,true,465
+2012,CZ063,Vysočina,M,70–79,false,172
+2012,CZ063,Vysočina,M,70–79,true,222
+2012,CZ063,Vysočina,Z,70–79,false,210
+2012,CZ063,Vysočina,Z,70–79,true,414
+2012,CZ064,Jihomoravský kraj,Z,70–79,false,510
+2012,CZ064,Jihomoravský kraj,Z,70–79,true,884
+2012,CZ064,Jihomoravský kraj,M,70–79,true,488
+2012,CZ064,Jihomoravský kraj,M,70–79,false,373
+2012,CZ071,Olomoucký kraj,Z,70–79,true,417
+2012,CZ071,Olomoucký kraj,Z,70–79,false,317
+2012,CZ071,Olomoucký kraj,M,70–79,true,227
+2012,CZ071,Olomoucký kraj,M,70–79,false,190
+2012,CZ072,Zlínský kraj,M,70–79,true,265
+2012,CZ072,Zlínský kraj,Z,70–79,false,313
+2012,CZ072,Zlínský kraj,Z,70–79,true,503
+2012,CZ072,Zlínský kraj,M,70–79,false,226
+2012,CZ080,Moravskoslezský kraj,Z,70–79,false,818
+2012,CZ080,Moravskoslezský kraj,M,70–79,false,607
+2012,CZ080,Moravskoslezský kraj,M,70–79,true,364
+2012,CZ080,Moravskoslezský kraj,Z,70–79,true,713
+2012,CZ999,Neznámý,M,70–79,true,217
+2012,CZ999,Neznámý,Z,70–79,false,276
+2012,CZ999,Neznámý,Z,70–79,true,354
+2012,CZ999,Neznámý,M,70–79,false,238
+2012,CZ010,Hl. m. Praha,Z,80–89,false,1634
+2012,CZ010,Hl. m. Praha,Z,80–89,true,1834
+2012,CZ010,Hl. m. Praha,M,80–89,false,589
+2012,CZ010,Hl. m. Praha,M,80–89,true,875
+2012,CZ020,Středočeský kraj,M,80–89,false,507
+2012,CZ020,Středočeský kraj,Z,80–89,true,1284
+2012,CZ020,Středočeský kraj,M,80–89,true,479
+2012,CZ020,Středočeský kraj,Z,80–89,false,1257
+2012,CZ031,Jihočeský kraj,Z,80–89,false,659
+2012,CZ031,Jihočeský kraj,Z,80–89,true,713
+2012,CZ031,Jihočeský kraj,M,80–89,false,241
+2012,CZ031,Jihočeský kraj,M,80–89,true,271
+2012,CZ032,Plzeňský kraj,Z,80–89,false,523
+2012,CZ032,Plzeňský kraj,M,80–89,false,206
+2012,CZ032,Plzeňský kraj,M,80–89,true,245
+2012,CZ032,Plzeňský kraj,Z,80–89,true,624
+2012,CZ041,Karlovarský kraj,Z,80–89,true,303
+2012,CZ041,Karlovarský kraj,M,80–89,true,107
+2012,CZ041,Karlovarský kraj,M,80–89,false,75
+2012,CZ041,Karlovarský kraj,Z,80–89,false,264
+2012,CZ042,Ústecký kraj,M,80–89,false,280
+2012,CZ042,Ústecký kraj,Z,80–89,false,760
+2012,CZ042,Ústecký kraj,M,80–89,true,308
+2012,CZ042,Ústecký kraj,Z,80–89,true,1086
+2012,CZ051,Liberecký kraj,M,80–89,false,195
+2012,CZ051,Liberecký kraj,Z,80–89,true,402
+2012,CZ051,Liberecký kraj,M,80–89,true,132
+2012,CZ051,Liberecký kraj,Z,80–89,false,499
+2012,CZ052,Královéhradecký kraj,M,80–89,true,234
+2012,CZ052,Královéhradecký kraj,Z,80–89,true,631
+2012,CZ052,Královéhradecký kraj,M,80–89,false,286
+2012,CZ052,Královéhradecký kraj,Z,80–89,false,626
+2012,CZ053,Pardubický kraj,M,80–89,false,195
+2012,CZ053,Pardubický kraj,Z,80–89,false,517
+2012,CZ053,Pardubický kraj,M,80–89,true,338
+2012,CZ053,Pardubický kraj,Z,80–89,true,804
+2012,CZ063,Vysočina,Z,80–89,true,837
+2012,CZ063,Vysočina,M,80–89,false,243
+2012,CZ063,Vysočina,Z,80–89,false,633
+2012,CZ063,Vysočina,M,80–89,true,279
+2012,CZ064,Jihomoravský kraj,M,80–89,false,564
+2012,CZ064,Jihomoravský kraj,M,80–89,true,536
+2012,CZ064,Jihomoravský kraj,Z,80–89,false,1485
+2012,CZ064,Jihomoravský kraj,Z,80–89,true,1482
+2012,CZ071,Olomoucký kraj,Z,80–89,false,746
+2012,CZ071,Olomoucký kraj,Z,80–89,true,727
+2012,CZ071,Olomoucký kraj,M,80–89,true,255
+2012,CZ071,Olomoucký kraj,M,80–89,false,303
+2012,CZ072,Zlínský kraj,Z,80–89,false,783
+2012,CZ072,Zlínský kraj,M,80–89,false,295
+2012,CZ072,Zlínský kraj,Z,80–89,true,799
+2012,CZ072,Zlínský kraj,M,80–89,true,294
+2012,CZ080,Moravskoslezský kraj,Z,80–89,true,1000
+2012,CZ080,Moravskoslezský kraj,M,80–89,false,624
+2012,CZ080,Moravskoslezský kraj,M,80–89,true,369
+2012,CZ080,Moravskoslezský kraj,Z,80–89,false,1944
+2012,CZ999,Neznámý,Z,80–89,true,823
+2012,CZ999,Neznámý,M,80–89,true,268
+2012,CZ999,Neznámý,M,80–89,false,328
+2012,CZ999,Neznámý,Z,80–89,false,838
+2012,CZ010,Hl. m. Praha,Z,90+,false,848
+2012,CZ010,Hl. m. Praha,Z,90+,true,425
+2012,CZ010,Hl. m. Praha,M,90+,false,207
+2012,CZ010,Hl. m. Praha,M,90+,true,109
+2012,CZ020,Středočeský kraj,Z,90+,false,400
+2012,CZ020,Středočeský kraj,M,90+,true,57
+2012,CZ020,Středočeský kraj,M,90+,false,93
+2012,CZ020,Středočeský kraj,Z,90+,true,195
+2012,CZ031,Jihočeský kraj,Z,90+,true,117
+2012,CZ031,Jihočeský kraj,M,90+,true,36
+2012,CZ031,Jihočeský kraj,Z,90+,false,221
+2012,CZ031,Jihočeský kraj,M,90+,false,50
+2012,CZ032,Plzeňský kraj,Z,90+,false,153
+2012,CZ032,Plzeňský kraj,Z,90+,true,107
+2012,CZ032,Plzeňský kraj,M,90+,false,38
+2012,CZ032,Plzeňský kraj,M,90+,true,23
+2012,CZ041,Karlovarský kraj,Z,90+,true,67
+2012,CZ041,Karlovarský kraj,M,90+,false,18
+2012,CZ041,Karlovarský kraj,M,90+,true,13
+2012,CZ041,Karlovarský kraj,Z,90+,false,89
+2012,CZ042,Ústecký kraj,M,90+,false,51
+2012,CZ042,Ústecký kraj,Z,90+,false,234
+2012,CZ042,Ústecký kraj,Z,90+,true,213
+2012,CZ042,Ústecký kraj,M,90+,true,39
+2012,CZ051,Liberecký kraj,M,90+,false,38
+2012,CZ051,Liberecký kraj,Z,90+,false,154
+2012,CZ051,Liberecký kraj,M,90+,true,9
+2012,CZ051,Liberecký kraj,Z,90+,true,71
+2012,CZ052,Královéhradecký kraj,M,90+,false,72
+2012,CZ052,Královéhradecký kraj,M,90+,true,18
+2012,CZ052,Královéhradecký kraj,Z,90+,false,206
+2012,CZ052,Královéhradecký kraj,Z,90+,true,95
+2012,CZ053,Pardubický kraj,M,90+,true,39
+2012,CZ053,Pardubický kraj,M,90+,false,36
+2012,CZ053,Pardubický kraj,Z,90+,false,145
+2012,CZ053,Pardubický kraj,Z,90+,true,160
+2012,CZ063,Vysočina,Z,90+,false,211
+2012,CZ063,Vysočina,Z,90+,true,138
+2012,CZ063,Vysočina,M,90+,true,30
+2012,CZ063,Vysočina,M,90+,false,44
+2012,CZ064,Jihomoravský kraj,M,90+,true,61
+2012,CZ064,Jihomoravský kraj,Z,90+,false,539
+2012,CZ064,Jihomoravský kraj,Z,90+,true,229
+2012,CZ064,Jihomoravský kraj,M,90+,false,98
+2012,CZ071,Olomoucký kraj,M,90+,true,27
+2012,CZ071,Olomoucký kraj,Z,90+,false,306
+2012,CZ071,Olomoucký kraj,Z,90+,true,125
+2012,CZ071,Olomoucký kraj,M,90+,false,63
+2012,CZ072,Zlínský kraj,Z,90+,false,259
+2012,CZ072,Zlínský kraj,M,90+,true,27
+2012,CZ072,Zlínský kraj,Z,90+,true,118
+2012,CZ072,Zlínský kraj,M,90+,false,63
+2012,CZ080,Moravskoslezský kraj,M,90+,false,126
+2012,CZ080,Moravskoslezský kraj,M,90+,true,36
+2012,CZ080,Moravskoslezský kraj,Z,90+,false,683
+2012,CZ080,Moravskoslezský kraj,Z,90+,true,166
+2012,CZ999,Neznámý,M,90+,true,32
+2012,CZ999,Neznámý,M,90+,false,61
+2012,CZ999,Neznámý,Z,90+,true,133
+2012,CZ999,Neznámý,Z,90+,false,320
+2013,CZ010,Hl. m. Praha,Z,50–59,false,83
+2013,CZ010,Hl. m. Praha,M,50–59,true,67
+2013,CZ010,Hl. m. Praha,M,50–59,false,79
+2013,CZ010,Hl. m. Praha,Z,50–59,true,62
+2013,CZ020,Středočeský kraj,M,50–59,true,53
+2013,CZ020,Středočeský kraj,Z,50–59,false,74
+2013,CZ020,Středočeský kraj,Z,50–59,true,75
+2013,CZ020,Středočeský kraj,M,50–59,false,91
+2013,CZ031,Jihočeský kraj,M,50–59,false,46
+2013,CZ031,Jihočeský kraj,M,50–59,true,22
+2013,CZ031,Jihočeský kraj,Z,50–59,false,50
+2013,CZ031,Jihočeský kraj,Z,50–59,true,40
+2013,CZ032,Plzeňský kraj,Z,50–59,false,15
+2013,CZ032,Plzeňský kraj,Z,50–59,true,25
+2013,CZ032,Plzeňský kraj,M,50–59,true,23
+2013,CZ032,Plzeňský kraj,M,50–59,false,27
+2013,CZ041,Karlovarský kraj,M,50–59,false,16
+2013,CZ041,Karlovarský kraj,M,50–59,true,12
+2013,CZ041,Karlovarský kraj,Z,50–59,true,13
+2013,CZ041,Karlovarský kraj,Z,50–59,false,18
+2013,CZ042,Ústecký kraj,M,50–59,false,70
+2013,CZ042,Ústecký kraj,M,50–59,true,56
+2013,CZ042,Ústecký kraj,Z,50–59,false,62
+2013,CZ042,Ústecký kraj,Z,50–59,true,63
+2013,CZ051,Liberecký kraj,Z,50–59,true,15
+2013,CZ051,Liberecký kraj,M,50–59,false,43
+2013,CZ051,Liberecký kraj,M,50–59,true,10
+2013,CZ051,Liberecký kraj,Z,50–59,false,18
+2013,CZ052,Královéhradecký kraj,M,50–59,false,47
+2013,CZ052,Královéhradecký kraj,Z,50–59,true,44
+2013,CZ052,Královéhradecký kraj,Z,50–59,false,43
+2013,CZ052,Královéhradecký kraj,M,50–59,true,23
+2013,CZ053,Pardubický kraj,M,50–59,false,58
+2013,CZ053,Pardubický kraj,Z,50–59,false,35
+2013,CZ053,Pardubický kraj,M,50–59,true,49
+2013,CZ053,Pardubický kraj,Z,50–59,true,30
+2013,CZ063,Vysočina,M,50–59,false,44
+2013,CZ063,Vysočina,M,50–59,true,23
+2013,CZ063,Vysočina,Z,50–59,false,30
+2013,CZ063,Vysočina,Z,50–59,true,24
+2013,CZ064,Jihomoravský kraj,Z,50–59,false,82
+2013,CZ064,Jihomoravský kraj,Z,50–59,true,102
+2013,CZ064,Jihomoravský kraj,M,50–59,false,88
+2013,CZ064,Jihomoravský kraj,M,50–59,true,75
+2013,CZ071,Olomoucký kraj,M,50–59,true,24
+2013,CZ071,Olomoucký kraj,M,50–59,false,65
+2013,CZ071,Olomoucký kraj,Z,50–59,true,38
+2013,CZ071,Olomoucký kraj,Z,50–59,false,41
+2013,CZ072,Zlínský kraj,Z,50–59,true,38
+2013,CZ072,Zlínský kraj,M,50–59,false,38
+2013,CZ072,Zlínský kraj,M,50–59,true,25
+2013,CZ072,Zlínský kraj,Z,50–59,false,36
+2013,CZ080,Moravskoslezský kraj,M,50–59,true,47
+2013,CZ080,Moravskoslezský kraj,Z,50–59,false,99
+2013,CZ080,Moravskoslezský kraj,M,50–59,false,207
+2013,CZ080,Moravskoslezský kraj,Z,50–59,true,53
+2013,CZ999,Neznámý,Z,50–59,true,6
+2013,CZ999,Neznámý,Z,50–59,false,15
+2013,CZ999,Neznámý,M,50–59,false,23
+2013,CZ999,Neznámý,M,50–59,true,15
+2013,CZ010,Hl. m. Praha,M,60–69,false,217
+2013,CZ010,Hl. m. Praha,Z,60–69,false,224
+2013,CZ010,Hl. m. Praha,Z,60–69,true,289
+2013,CZ010,Hl. m. Praha,M,60–69,true,242
+2013,CZ020,Středočeský kraj,M,60–69,false,269
+2013,CZ020,Středočeský kraj,Z,60–69,false,232
+2013,CZ020,Středočeský kraj,Z,60–69,true,262
+2013,CZ020,Středočeský kraj,M,60–69,true,251
+2013,CZ031,Jihočeský kraj,Z,60–69,true,112
+2013,CZ031,Jihočeský kraj,M,60–69,false,97
+2013,CZ031,Jihočeský kraj,M,60–69,true,108
+2013,CZ031,Jihočeský kraj,Z,60–69,false,76
+2013,CZ032,Plzeňský kraj,Z,60–69,true,106
+2013,CZ032,Plzeňský kraj,M,60–69,true,66
+2013,CZ032,Plzeňský kraj,Z,60–69,false,61
+2013,CZ032,Plzeňský kraj,M,60–69,false,89
+2013,CZ041,Karlovarský kraj,Z,60–69,false,38
+2013,CZ041,Karlovarský kraj,M,60–69,false,58
+2013,CZ041,Karlovarský kraj,Z,60–69,true,63
+2013,CZ041,Karlovarský kraj,M,60–69,true,51
+2013,CZ042,Ústecký kraj,Z,60–69,false,141
+2013,CZ042,Ústecký kraj,Z,60–69,true,237
+2013,CZ042,Ústecký kraj,M,60–69,false,209
+2013,CZ042,Ústecký kraj,M,60–69,true,225
+2013,CZ051,Liberecký kraj,M,60–69,false,95
+2013,CZ051,Liberecký kraj,M,60–69,true,78
+2013,CZ051,Liberecký kraj,Z,60–69,false,78
+2013,CZ051,Liberecký kraj,Z,60–69,true,69
+2013,CZ052,Královéhradecký kraj,M,60–69,false,127
+2013,CZ052,Královéhradecký kraj,M,60–69,true,112
+2013,CZ052,Královéhradecký kraj,Z,60–69,true,132
+2013,CZ052,Královéhradecký kraj,Z,60–69,false,79
+2013,CZ053,Pardubický kraj,M,60–69,false,109
+2013,CZ053,Pardubický kraj,Z,60–69,false,73
+2013,CZ053,Pardubický kraj,M,60–69,true,118
+2013,CZ053,Pardubický kraj,Z,60–69,true,149
+2013,CZ063,Vysočina,Z,60–69,true,117
+2013,CZ063,Vysočina,M,60–69,false,95
+2013,CZ063,Vysočina,M,60–69,true,84
+2013,CZ063,Vysočina,Z,60–69,false,73
+2013,CZ064,Jihomoravský kraj,M,60–69,false,227
+2013,CZ064,Jihomoravský kraj,Z,60–69,false,192
+2013,CZ064,Jihomoravský kraj,Z,60–69,true,290
+2013,CZ064,Jihomoravský kraj,M,60–69,true,235
+2013,CZ071,Olomoucký kraj,Z,60–69,false,99
+2013,CZ071,Olomoucký kraj,M,60–69,false,133
+2013,CZ071,Olomoucký kraj,Z,60–69,true,146
+2013,CZ071,Olomoucký kraj,M,60–69,true,129
+2013,CZ072,Zlínský kraj,Z,60–69,false,81
+2013,CZ072,Zlínský kraj,Z,60–69,true,138
+2013,CZ072,Zlínský kraj,M,60–69,false,144
+2013,CZ072,Zlínský kraj,M,60–69,true,111
+2013,CZ080,Moravskoslezský kraj,Z,60–69,false,294
+2013,CZ080,Moravskoslezský kraj,M,60–69,true,197
+2013,CZ080,Moravskoslezský kraj,Z,60–69,true,232
+2013,CZ080,Moravskoslezský kraj,M,60–69,false,405
+2013,CZ999,Neznámý,Z,60–69,true,51
+2013,CZ999,Neznámý,M,60–69,false,101
+2013,CZ999,Neznámý,M,60–69,true,69
+2013,CZ999,Neznámý,Z,60–69,false,73
+2013,CZ010,Hl. m. Praha,Z,70–79,false,463
+2013,CZ010,Hl. m. Praha,Z,70–79,true,868
+2013,CZ010,Hl. m. Praha,M,70–79,false,338
+2013,CZ010,Hl. m. Praha,M,70–79,true,592
+2013,CZ020,Středočeský kraj,M,70–79,false,389
+2013,CZ020,Středočeský kraj,Z,70–79,false,477
+2013,CZ020,Středočeský kraj,M,70–79,true,488
+2013,CZ020,Středočeský kraj,Z,70–79,true,941
+2013,CZ031,Jihočeský kraj,Z,70–79,false,239
+2013,CZ031,Jihočeský kraj,Z,70–79,true,480
+2013,CZ031,Jihočeský kraj,M,70–79,false,170
+2013,CZ031,Jihočeský kraj,M,70–79,true,250
+2013,CZ032,Plzeňský kraj,M,70–79,true,201
+2013,CZ032,Plzeňský kraj,Z,70–79,true,375
+2013,CZ032,Plzeňský kraj,Z,70–79,false,175
+2013,CZ032,Plzeňský kraj,M,70–79,false,132
+2013,CZ041,Karlovarský kraj,Z,70–79,true,241
+2013,CZ041,Karlovarský kraj,Z,70–79,false,96
+2013,CZ041,Karlovarský kraj,M,70–79,false,85
+2013,CZ041,Karlovarský kraj,M,70–79,true,125
+2013,CZ042,Ústecký kraj,Z,70–79,true,673
+2013,CZ042,Ústecký kraj,M,70–79,false,266
+2013,CZ042,Ústecký kraj,Z,70–79,false,321
+2013,CZ042,Ústecký kraj,M,70–79,true,345
+2013,CZ051,Liberecký kraj,M,70–79,true,140
+2013,CZ051,Liberecký kraj,Z,70–79,false,175
+2013,CZ051,Liberecký kraj,M,70–79,false,153
+2013,CZ051,Liberecký kraj,Z,70–79,true,253
+2013,CZ052,Královéhradecký kraj,M,70–79,false,164
+2013,CZ052,Královéhradecký kraj,Z,70–79,true,390
+2013,CZ052,Královéhradecký kraj,M,70–79,true,213
+2013,CZ052,Královéhradecký kraj,Z,70–79,false,233
+2013,CZ053,Pardubický kraj,M,70–79,false,151
+2013,CZ053,Pardubický kraj,M,70–79,true,298
+2013,CZ053,Pardubický kraj,Z,70–79,false,239
+2013,CZ053,Pardubický kraj,Z,70–79,true,501
+2013,CZ063,Vysočina,Z,70–79,false,226
+2013,CZ063,Vysočina,Z,70–79,true,455
+2013,CZ063,Vysočina,M,70–79,false,168
+2013,CZ063,Vysočina,M,70–79,true,241
+2013,CZ064,Jihomoravský kraj,M,70–79,true,552
+2013,CZ064,Jihomoravský kraj,Z,70–79,true,956
+2013,CZ064,Jihomoravský kraj,M,70–79,false,401
+2013,CZ064,Jihomoravský kraj,Z,70–79,false,527
+2013,CZ071,Olomoucký kraj,Z,70–79,false,310
+2013,CZ071,Olomoucký kraj,M,70–79,false,194
+2013,CZ071,Olomoucký kraj,M,70–79,true,242
+2013,CZ071,Olomoucký kraj,Z,70–79,true,484
+2013,CZ072,Zlínský kraj,Z,70–79,false,287
+2013,CZ072,Zlínský kraj,Z,70–79,true,536
+2013,CZ072,Zlínský kraj,M,70–79,false,251
+2013,CZ072,Zlínský kraj,M,70–79,true,284
+2013,CZ080,Moravskoslezský kraj,M,70–79,false,623
+2013,CZ080,Moravskoslezský kraj,M,70–79,true,435
+2013,CZ080,Moravskoslezský kraj,Z,70–79,false,792
+2013,CZ080,Moravskoslezský kraj,Z,70–79,true,783
+2013,CZ999,Neznámý,M,70–79,false,187
+2013,CZ999,Neznámý,M,70–79,true,213
+2013,CZ999,Neznámý,Z,70–79,false,212
+2013,CZ999,Neznámý,Z,70–79,true,327
+2013,CZ010,Hl. m. Praha,Z,80–89,false,1594
+2013,CZ010,Hl. m. Praha,Z,80–89,true,1992
+2013,CZ010,Hl. m. Praha,M,80–89,false,595
+2013,CZ010,Hl. m. Praha,M,80–89,true,961
+2013,CZ020,Středočeský kraj,M,80–89,false,525
+2013,CZ020,Středočeský kraj,M,80–89,true,522
+2013,CZ020,Středočeský kraj,Z,80–89,false,1300
+2013,CZ020,Středočeský kraj,Z,80–89,true,1498
+2013,CZ031,Jihočeský kraj,M,80–89,true,306
+2013,CZ031,Jihočeský kraj,Z,80–89,false,628
+2013,CZ031,Jihočeský kraj,Z,80–89,true,802
+2013,CZ031,Jihočeský kraj,M,80–89,false,254
+2013,CZ032,Plzeňský kraj,M,80–89,false,203
+2013,CZ032,Plzeňský kraj,Z,80–89,true,691
+2013,CZ032,Plzeňský kraj,Z,80–89,false,521
+2013,CZ032,Plzeňský kraj,M,80–89,true,253
+2013,CZ041,Karlovarský kraj,M,80–89,false,119
+2013,CZ041,Karlovarský kraj,Z,80–89,false,269
+2013,CZ041,Karlovarský kraj,Z,80–89,true,328
+2013,CZ041,Karlovarský kraj,M,80–89,true,115
+2013,CZ042,Ústecký kraj,M,80–89,true,357
+2013,CZ042,Ústecký kraj,Z,80–89,false,708
+2013,CZ042,Ústecký kraj,Z,80–89,true,1124
+2013,CZ042,Ústecký kraj,M,80–89,false,277
+2013,CZ051,Liberecký kraj,M,80–89,false,191
+2013,CZ051,Liberecký kraj,M,80–89,true,146
+2013,CZ051,Liberecký kraj,Z,80–89,false,457
+2013,CZ051,Liberecký kraj,Z,80–89,true,436
+2013,CZ052,Královéhradecký kraj,Z,80–89,false,537
+2013,CZ052,Královéhradecký kraj,Z,80–89,true,709
+2013,CZ052,Královéhradecký kraj,M,80–89,false,232
+2013,CZ052,Královéhradecký kraj,M,80–89,true,257
+2013,CZ053,Pardubický kraj,M,80–89,false,226
+2013,CZ053,Pardubický kraj,M,80–89,true,407
+2013,CZ053,Pardubický kraj,Z,80–89,true,950
+2013,CZ053,Pardubický kraj,Z,80–89,false,523
+2013,CZ063,Vysočina,Z,80–89,true,925
+2013,CZ063,Vysočina,M,80–89,false,250
+2013,CZ063,Vysočina,M,80–89,true,314
+2013,CZ063,Vysočina,Z,80–89,false,613
+2013,CZ064,Jihomoravský kraj,M,80–89,false,554
+2013,CZ064,Jihomoravský kraj,M,80–89,true,608
+2013,CZ064,Jihomoravský kraj,Z,80–89,false,1516
+2013,CZ064,Jihomoravský kraj,Z,80–89,true,1620
+2013,CZ071,Olomoucký kraj,M,80–89,false,298
+2013,CZ071,Olomoucký kraj,Z,80–89,false,812
+2013,CZ071,Olomoucký kraj,Z,80–89,true,761
+2013,CZ071,Olomoucký kraj,M,80–89,true,269
+2013,CZ072,Zlínský kraj,Z,80–89,false,790
+2013,CZ072,Zlínský kraj,Z,80–89,true,852
+2013,CZ072,Zlínský kraj,M,80–89,false,275
+2013,CZ072,Zlínský kraj,M,80–89,true,311
+2013,CZ080,Moravskoslezský kraj,Z,80–89,true,1118
+2013,CZ080,Moravskoslezský kraj,M,80–89,true,384
+2013,CZ080,Moravskoslezský kraj,Z,80–89,false,1932
+2013,CZ080,Moravskoslezský kraj,M,80–89,false,656
+2013,CZ999,Neznámý,M,80–89,true,280
+2013,CZ999,Neznámý,M,80–89,false,289
+2013,CZ999,Neznámý,Z,80–89,false,784
+2013,CZ999,Neznámý,Z,80–89,true,760
+2013,CZ010,Hl. m. Praha,Z,90+,false,929
+2013,CZ010,Hl. m. Praha,M,90+,false,198
+2013,CZ010,Hl. m. Praha,M,90+,true,162
+2013,CZ010,Hl. m. Praha,Z,90+,true,501
+2013,CZ020,Středočeský kraj,M,90+,false,109
+2013,CZ020,Středočeský kraj,Z,90+,true,247
+2013,CZ020,Středočeský kraj,M,90+,true,77
+2013,CZ020,Středočeský kraj,Z,90+,false,450
+2013,CZ031,Jihočeský kraj,Z,90+,true,153
+2013,CZ031,Jihočeský kraj,M,90+,false,52
+2013,CZ031,Jihočeský kraj,M,90+,true,32
+2013,CZ031,Jihočeský kraj,Z,90+,false,234
+2013,CZ032,Plzeňský kraj,M,90+,false,36
+2013,CZ032,Plzeňský kraj,M,90+,true,30
+2013,CZ032,Plzeňský kraj,Z,90+,true,132
+2013,CZ032,Plzeňský kraj,Z,90+,false,178
+2013,CZ041,Karlovarský kraj,M,90+,true,11
+2013,CZ041,Karlovarský kraj,Z,90+,false,109
+2013,CZ041,Karlovarský kraj,Z,90+,true,83
+2013,CZ041,Karlovarský kraj,M,90+,false,14
+2013,CZ042,Ústecký kraj,M,90+,false,62
+2013,CZ042,Ústecký kraj,Z,90+,false,264
+2013,CZ042,Ústecký kraj,Z,90+,true,259
+2013,CZ042,Ústecký kraj,M,90+,true,52
+2013,CZ051,Liberecký kraj,Z,90+,true,92
+2013,CZ051,Liberecký kraj,M,90+,false,61
+2013,CZ051,Liberecký kraj,M,90+,true,13
+2013,CZ051,Liberecký kraj,Z,90+,false,178
+2013,CZ052,Královéhradecký kraj,M,90+,false,58
+2013,CZ052,Královéhradecký kraj,M,90+,true,23
+2013,CZ052,Královéhradecký kraj,Z,90+,false,238
+2013,CZ052,Královéhradecký kraj,Z,90+,true,124
+2013,CZ053,Pardubický kraj,Z,90+,false,175
+2013,CZ053,Pardubický kraj,Z,90+,true,200
+2013,CZ053,Pardubický kraj,M,90+,false,35
+2013,CZ053,Pardubický kraj,M,90+,true,51
+2013,CZ063,Vysočina,M,90+,false,47
+2013,CZ063,Vysočina,Z,90+,false,207
+2013,CZ063,Vysočina,M,90+,true,38
+2013,CZ063,Vysočina,Z,90+,true,179
+2013,CZ064,Jihomoravský kraj,M,90+,true,76
+2013,CZ064,Jihomoravský kraj,Z,90+,false,585
+2013,CZ064,Jihomoravský kraj,M,90+,false,138
+2013,CZ064,Jihomoravský kraj,Z,90+,true,303
+2013,CZ071,Olomoucký kraj,Z,90+,true,160
+2013,CZ071,Olomoucký kraj,Z,90+,false,296
+2013,CZ071,Olomoucký kraj,M,90+,false,67
+2013,CZ071,Olomoucký kraj,M,90+,true,40
+2013,CZ072,Zlínský kraj,Z,90+,true,152
+2013,CZ072,Zlínský kraj,Z,90+,false,299
+2013,CZ072,Zlínský kraj,M,90+,false,63
+2013,CZ072,Zlínský kraj,M,90+,true,36
+2013,CZ080,Moravskoslezský kraj,M,90+,false,134
+2013,CZ080,Moravskoslezský kraj,M,90+,true,47
+2013,CZ080,Moravskoslezský kraj,Z,90+,false,805
+2013,CZ080,Moravskoslezský kraj,Z,90+,true,207
+2013,CZ999,Neznámý,Z,90+,true,151
+2013,CZ999,Neznámý,M,90+,false,71
+2013,CZ999,Neznámý,Z,90+,false,314
+2013,CZ999,Neznámý,M,90+,true,40
+2014,CZ010,Hl. m. Praha,M,50–59,true,62
+2014,CZ010,Hl. m. Praha,M,50–59,false,68
+2014,CZ010,Hl. m. Praha,Z,50–59,false,70
+2014,CZ010,Hl. m. Praha,Z,50–59,true,73
+2014,CZ020,Středočeský kraj,M,50–59,false,99
+2014,CZ020,Středočeský kraj,M,50–59,true,63
+2014,CZ020,Středočeský kraj,Z,50–59,false,74
+2014,CZ020,Středočeský kraj,Z,50–59,true,80
+2014,CZ031,Jihočeský kraj,Z,50–59,false,40
+2014,CZ031,Jihočeský kraj,Z,50–59,true,32
+2014,CZ031,Jihočeský kraj,M,50–59,false,60
+2014,CZ031,Jihočeský kraj,M,50–59,true,21
+2014,CZ032,Plzeňský kraj,Z,50–59,true,39
+2014,CZ032,Plzeňský kraj,M,50–59,false,27
+2014,CZ032,Plzeňský kraj,Z,50–59,false,19
+2014,CZ032,Plzeňský kraj,M,50–59,true,26
+2014,CZ041,Karlovarský kraj,Z,50–59,false,17
+2014,CZ041,Karlovarský kraj,Z,50–59,true,15
+2014,CZ041,Karlovarský kraj,M,50–59,false,21
+2014,CZ041,Karlovarský kraj,M,50–59,true,18
+2014,CZ042,Ústecký kraj,Z,50–59,true,78
+2014,CZ042,Ústecký kraj,M,50–59,true,60
+2014,CZ042,Ústecký kraj,M,50–59,false,52
+2014,CZ042,Ústecký kraj,Z,50–59,false,50
+2014,CZ051,Liberecký kraj,M,50–59,true,11
+2014,CZ051,Liberecký kraj,M,50–59,false,30
+2014,CZ051,Liberecký kraj,Z,50–59,false,23
+2014,CZ051,Liberecký kraj,Z,50–59,true,22
+2014,CZ052,Královéhradecký kraj,Z,50–59,true,37
+2014,CZ052,Královéhradecký kraj,M,50–59,true,28
+2014,CZ052,Královéhradecký kraj,Z,50–59,false,30
+2014,CZ052,Královéhradecký kraj,M,50–59,false,45
+2014,CZ053,Pardubický kraj,M,50–59,true,43
+2014,CZ053,Pardubický kraj,Z,50–59,false,25
+2014,CZ053,Pardubický kraj,Z,50–59,true,34
+2014,CZ053,Pardubický kraj,M,50–59,false,54
+2014,CZ063,Vysočina,Z,50–59,false,24
+2014,CZ063,Vysočina,Z,50–59,true,28
+2014,CZ063,Vysočina,M,50–59,false,49
+2014,CZ063,Vysočina,M,50–59,true,25
+2014,CZ064,Jihomoravský kraj,M,50–59,true,75
+2014,CZ064,Jihomoravský kraj,Z,50–59,false,75
+2014,CZ064,Jihomoravský kraj,Z,50–59,true,92
+2014,CZ064,Jihomoravský kraj,M,50–59,false,94
+2014,CZ071,Olomoucký kraj,Z,50–59,false,42
+2014,CZ071,Olomoucký kraj,M,50–59,false,66
+2014,CZ071,Olomoucký kraj,Z,50–59,true,43
+2014,CZ071,Olomoucký kraj,M,50–59,true,28
+2014,CZ072,Zlínský kraj,Z,50–59,true,33
+2014,CZ072,Zlínský kraj,M,50–59,false,41
+2014,CZ072,Zlínský kraj,Z,50–59,false,33
+2014,CZ072,Zlínský kraj,M,50–59,true,32
+2014,CZ080,Moravskoslezský kraj,M,50–59,false,202
+2014,CZ080,Moravskoslezský kraj,Z,50–59,false,130
+2014,CZ080,Moravskoslezský kraj,Z,50–59,true,53
+2014,CZ080,Moravskoslezský kraj,M,50–59,true,44
+2014,CZ999,Neznámý,M,50–59,true,9
+2014,CZ999,Neznámý,Z,50–59,true,8
+2014,CZ999,Neznámý,Z,50–59,false,11
+2014,CZ999,Neznámý,M,50–59,false,26
+2014,CZ010,Hl. m. Praha,Z,60–69,false,201
+2014,CZ010,Hl. m. Praha,Z,60–69,true,294
+2014,CZ010,Hl. m. Praha,M,60–69,false,239
+2014,CZ010,Hl. m. Praha,M,60–69,true,254
+2014,CZ020,Středočeský kraj,M,60–69,false,285
+2014,CZ020,Středočeský kraj,Z,60–69,false,198
+2014,CZ020,Středočeský kraj,M,60–69,true,259
+2014,CZ020,Středočeský kraj,Z,60–69,true,295
+2014,CZ031,Jihočeský kraj,Z,60–69,true,132
+2014,CZ031,Jihočeský kraj,Z,60–69,false,92
+2014,CZ031,Jihočeský kraj,M,60–69,true,107
+2014,CZ031,Jihočeský kraj,M,60–69,false,105
+2014,CZ032,Plzeňský kraj,Z,60–69,false,49
+2014,CZ032,Plzeňský kraj,Z,60–69,true,109
+2014,CZ032,Plzeňský kraj,M,60–69,false,96
+2014,CZ032,Plzeňský kraj,M,60–69,true,85
+2014,CZ041,Karlovarský kraj,M,60–69,true,58
+2014,CZ041,Karlovarský kraj,Z,60–69,false,37
+2014,CZ041,Karlovarský kraj,Z,60–69,true,76
+2014,CZ041,Karlovarský kraj,M,60–69,false,73
+2014,CZ042,Ústecký kraj,Z,60–69,true,256
+2014,CZ042,Ústecký kraj,Z,60–69,false,133
+2014,CZ042,Ústecký kraj,M,60–69,false,183
+2014,CZ042,Ústecký kraj,M,60–69,true,242
+2014,CZ051,Liberecký kraj,M,60–69,false,107
+2014,CZ051,Liberecký kraj,M,60–69,true,71
+2014,CZ051,Liberecký kraj,Z,60–69,false,87
+2014,CZ051,Liberecký kraj,Z,60–69,true,100
+2014,CZ052,Královéhradecký kraj,Z,60–69,false,87
+2014,CZ052,Královéhradecký kraj,M,60–69,true,117
+2014,CZ052,Královéhradecký kraj,M,60–69,false,121
+2014,CZ052,Královéhradecký kraj,Z,60–69,true,132
+2014,CZ053,Pardubický kraj,M,60–69,false,118
+2014,CZ053,Pardubický kraj,M,60–69,true,144
+2014,CZ053,Pardubický kraj,Z,60–69,false,88
+2014,CZ053,Pardubický kraj,Z,60–69,true,155
+2014,CZ063,Vysočina,Z,60–69,false,70
+2014,CZ063,Vysočina,Z,60–69,true,136
+2014,CZ063,Vysočina,M,60–69,false,94
+2014,CZ063,Vysočina,M,60–69,true,100
+2014,CZ064,Jihomoravský kraj,M,60–69,true,244
+2014,CZ064,Jihomoravský kraj,Z,60–69,false,179
+2014,CZ064,Jihomoravský kraj,Z,60–69,true,292
+2014,CZ064,Jihomoravský kraj,M,60–69,false,252
+2014,CZ071,Olomoucký kraj,Z,60–69,false,104
+2014,CZ071,Olomoucký kraj,M,60–69,false,149
+2014,CZ071,Olomoucký kraj,M,60–69,true,139
+2014,CZ071,Olomoucký kraj,Z,60–69,true,155
+2014,CZ072,Zlínský kraj,Z,60–69,false,102
+2014,CZ072,Zlínský kraj,Z,60–69,true,126
+2014,CZ072,Zlínský kraj,M,60–69,true,125
+2014,CZ072,Zlínský kraj,M,60–69,false,128
+2014,CZ080,Moravskoslezský kraj,Z,60–69,true,258
+2014,CZ080,Moravskoslezský kraj,M,60–69,false,428
+2014,CZ080,Moravskoslezský kraj,M,60–69,true,199
+2014,CZ080,Moravskoslezský kraj,Z,60–69,false,291
+2014,CZ999,Neznámý,Z,60–69,true,51
+2014,CZ999,Neznámý,M,60–69,true,73
+2014,CZ999,Neznámý,M,60–69,false,106
+2014,CZ999,Neznámý,Z,60–69,false,61
+2014,CZ010,Hl. m. Praha,Z,70–79,true,972
+2014,CZ010,Hl. m. Praha,Z,70–79,false,473
+2014,CZ010,Hl. m. Praha,M,70–79,false,362
+2014,CZ010,Hl. m. Praha,M,70–79,true,672
+2014,CZ020,Středočeský kraj,Z,70–79,false,496
+2014,CZ020,Středočeský kraj,Z,70–79,true,1037
+2014,CZ020,Středočeský kraj,M,70–79,false,406
+2014,CZ020,Středočeský kraj,M,70–79,true,545
+2014,CZ031,Jihočeský kraj,Z,70–79,false,244
+2014,CZ031,Jihočeský kraj,Z,70–79,true,539
+2014,CZ031,Jihočeský kraj,M,70–79,false,192
+2014,CZ031,Jihočeský kraj,M,70–79,true,284
+2014,CZ032,Plzeňský kraj,Z,70–79,false,200
+2014,CZ032,Plzeňský kraj,Z,70–79,true,440
+2014,CZ032,Plzeňský kraj,M,70–79,true,231
+2014,CZ032,Plzeňský kraj,M,70–79,false,144
+2014,CZ041,Karlovarský kraj,Z,70–79,true,269
+2014,CZ041,Karlovarský kraj,M,70–79,true,136
+2014,CZ041,Karlovarský kraj,Z,70–79,false,102
+2014,CZ041,Karlovarský kraj,M,70–79,false,100
+2014,CZ042,Ústecký kraj,Z,70–79,false,303
+2014,CZ042,Ústecký kraj,M,70–79,true,402
+2014,CZ042,Ústecký kraj,M,70–79,false,254
+2014,CZ042,Ústecký kraj,Z,70–79,true,720
+2014,CZ051,Liberecký kraj,Z,70–79,true,289
+2014,CZ051,Liberecký kraj,M,70–79,false,143
+2014,CZ051,Liberecký kraj,Z,70–79,false,196
+2014,CZ051,Liberecký kraj,M,70–79,true,187
+2014,CZ052,Královéhradecký kraj,M,70–79,false,152
+2014,CZ052,Královéhradecký kraj,Z,70–79,true,521
+2014,CZ052,Královéhradecký kraj,M,70–79,true,264
+2014,CZ052,Královéhradecký kraj,Z,70–79,false,207
+2014,CZ053,Pardubický kraj,Z,70–79,false,219
+2014,CZ053,Pardubický kraj,Z,70–79,true,592
+2014,CZ053,Pardubický kraj,M,70–79,false,156
+2014,CZ053,Pardubický kraj,M,70–79,true,347
+2014,CZ063,Vysočina,M,70–79,false,199
+2014,CZ063,Vysočina,Z,70–79,true,517
+2014,CZ063,Vysočina,M,70–79,true,284
+2014,CZ063,Vysočina,Z,70–79,false,209
+2014,CZ064,Jihomoravský kraj,Z,70–79,false,554
+2014,CZ064,Jihomoravský kraj,Z,70–79,true,1051
+2014,CZ064,Jihomoravský kraj,M,70–79,false,417
+2014,CZ064,Jihomoravský kraj,M,70–79,true,626
+2014,CZ071,Olomoucký kraj,M,70–79,false,243
+2014,CZ071,Olomoucký kraj,M,70–79,true,284
+2014,CZ071,Olomoucký kraj,Z,70–79,true,549
+2014,CZ071,Olomoucký kraj,Z,70–79,false,318
+2014,CZ072,Zlínský kraj,Z,70–79,true,597
+2014,CZ072,Zlínský kraj,M,70–79,false,211
+2014,CZ072,Zlínský kraj,M,70–79,true,311
+2014,CZ072,Zlínský kraj,Z,70–79,false,285
+2014,CZ080,Moravskoslezský kraj,Z,70–79,true,941
+2014,CZ080,Moravskoslezský kraj,M,70–79,false,653
+2014,CZ080,Moravskoslezský kraj,Z,70–79,false,855
+2014,CZ080,Moravskoslezský kraj,M,70–79,true,516
+2014,CZ999,Neznámý,Z,70–79,true,340
+2014,CZ999,Neznámý,M,70–79,false,190
+2014,CZ999,Neznámý,Z,70–79,false,220
+2014,CZ999,Neznámý,M,70–79,true,228
+2014,CZ010,Hl. m. Praha,M,80–89,true,989
+2014,CZ010,Hl. m. Praha,Z,80–89,false,1507
+2014,CZ010,Hl. m. Praha,Z,80–89,true,2165
+2014,CZ010,Hl. m. Praha,M,80–89,false,568
+2014,CZ020,Středočeský kraj,M,80–89,false,522
+2014,CZ020,Středočeský kraj,M,80–89,true,654
+2014,CZ020,Středočeský kraj,Z,80–89,false,1339
+2014,CZ020,Středočeský kraj,Z,80–89,true,1672
+2014,CZ031,Jihočeský kraj,M,80–89,false,235
+2014,CZ031,Jihočeský kraj,M,80–89,true,347
+2014,CZ031,Jihočeský kraj,Z,80–89,false,587
+2014,CZ031,Jihočeský kraj,Z,80–89,true,915
+2014,CZ032,Plzeňský kraj,Z,80–89,true,774
+2014,CZ032,Plzeňský kraj,Z,80–89,false,505
+2014,CZ032,Plzeňský kraj,M,80–89,true,313
+2014,CZ032,Plzeňský kraj,M,80–89,false,239
+2014,CZ041,Karlovarský kraj,M,80–89,false,117
+2014,CZ041,Karlovarský kraj,M,80–89,true,147
+2014,CZ041,Karlovarský kraj,Z,80–89,false,289
+2014,CZ041,Karlovarský kraj,Z,80–89,true,381
+2014,CZ042,Ústecký kraj,Z,80–89,false,634
+2014,CZ042,Ústecký kraj,M,80–89,true,373
+2014,CZ042,Ústecký kraj,Z,80–89,true,1237
+2014,CZ042,Ústecký kraj,M,80–89,false,266
+2014,CZ051,Liberecký kraj,Z,80–89,true,475
+2014,CZ051,Liberecký kraj,M,80–89,true,185
+2014,CZ051,Liberecký kraj,Z,80–89,false,434
+2014,CZ051,Liberecký kraj,M,80–89,false,208
+2014,CZ052,Královéhradecký kraj,M,80–89,false,212
+2014,CZ052,Královéhradecký kraj,M,80–89,true,303
+2014,CZ052,Královéhradecký kraj,Z,80–89,false,497
+2014,CZ052,Královéhradecký kraj,Z,80–89,true,807
+2014,CZ053,Pardubický kraj,Z,80–89,true,1094
+2014,CZ053,Pardubický kraj,M,80–89,false,215
+2014,CZ053,Pardubický kraj,M,80–89,true,431
+2014,CZ053,Pardubický kraj,Z,80–89,false,509
+2014,CZ063,Vysočina,M,80–89,true,353
+2014,CZ063,Vysočina,M,80–89,false,224
+2014,CZ063,Vysočina,Z,80–89,false,609
+2014,CZ063,Vysočina,Z,80–89,true,1035
+2014,CZ064,Jihomoravský kraj,Z,80–89,false,1505
+2014,CZ064,Jihomoravský kraj,Z,80–89,true,1846
+2014,CZ064,Jihomoravský kraj,M,80–89,false,559
+2014,CZ064,Jihomoravský kraj,M,80–89,true,702
+2014,CZ071,Olomoucký kraj,M,80–89,false,295
+2014,CZ071,Olomoucký kraj,M,80–89,true,335
+2014,CZ071,Olomoucký kraj,Z,80–89,false,813
+2014,CZ071,Olomoucký kraj,Z,80–89,true,922
+2014,CZ072,Zlínský kraj,M,80–89,true,331
+2014,CZ072,Zlínský kraj,M,80–89,false,279
+2014,CZ072,Zlínský kraj,Z,80–89,false,817
+2014,CZ072,Zlínský kraj,Z,80–89,true,944
+2014,CZ080,Moravskoslezský kraj,M,80–89,false,668
+2014,CZ080,Moravskoslezský kraj,M,80–89,true,423
+2014,CZ080,Moravskoslezský kraj,Z,80–89,false,1994
+2014,CZ080,Moravskoslezský kraj,Z,80–89,true,1292
+2014,CZ999,Neznámý,Z,80–89,false,747
+2014,CZ999,Neznámý,M,80–89,true,316
+2014,CZ999,Neznámý,Z,80–89,true,825
+2014,CZ999,Neznámý,M,80–89,false,312
+2014,CZ010,Hl. m. Praha,M,90+,true,193
+2014,CZ010,Hl. m. Praha,Z,90+,true,625
+2014,CZ010,Hl. m. Praha,M,90+,false,225
+2014,CZ010,Hl. m. Praha,Z,90+,false,976
+2014,CZ020,Středočeský kraj,M,90+,true,90
+2014,CZ020,Středočeský kraj,M,90+,false,122
+2014,CZ020,Středočeský kraj,Z,90+,false,523
+2014,CZ020,Středočeský kraj,Z,90+,true,341
+2014,CZ031,Jihočeský kraj,M,90+,true,51
+2014,CZ031,Jihočeský kraj,Z,90+,true,198
+2014,CZ031,Jihočeský kraj,M,90+,false,59
+2014,CZ031,Jihočeský kraj,Z,90+,false,286
+2014,CZ032,Plzeňský kraj,M,90+,false,55
+2014,CZ032,Plzeňský kraj,M,90+,true,33
+2014,CZ032,Plzeňský kraj,Z,90+,false,195
+2014,CZ032,Plzeňský kraj,Z,90+,true,167
+2014,CZ041,Karlovarský kraj,M,90+,true,19
+2014,CZ041,Karlovarský kraj,Z,90+,false,115
+2014,CZ041,Karlovarský kraj,M,90+,false,20
+2014,CZ041,Karlovarský kraj,Z,90+,true,85
+2014,CZ042,Ústecký kraj,M,90+,true,50
+2014,CZ042,Ústecký kraj,M,90+,false,60
+2014,CZ042,Ústecký kraj,Z,90+,false,305
+2014,CZ042,Ústecký kraj,Z,90+,true,300
+2014,CZ051,Liberecký kraj,M,90+,false,48
+2014,CZ051,Liberecký kraj,Z,90+,false,181
+2014,CZ051,Liberecký kraj,Z,90+,true,116
+2014,CZ051,Liberecký kraj,M,90+,true,19
+2014,CZ052,Královéhradecký kraj,M,90+,false,52
+2014,CZ052,Královéhradecký kraj,M,90+,true,45
+2014,CZ052,Královéhradecký kraj,Z,90+,false,263
+2014,CZ052,Královéhradecký kraj,Z,90+,true,165
+2014,CZ053,Pardubický kraj,Z,90+,false,180
+2014,CZ053,Pardubický kraj,Z,90+,true,272
+2014,CZ053,Pardubický kraj,M,90+,false,49
+2014,CZ053,Pardubický kraj,M,90+,true,66
+2014,CZ063,Vysočina,M,90+,true,46
+2014,CZ063,Vysočina,Z,90+,false,231
+2014,CZ063,Vysočina,M,90+,false,62
+2014,CZ063,Vysočina,Z,90+,true,217
+2014,CZ064,Jihomoravský kraj,Z,90+,true,390
+2014,CZ064,Jihomoravský kraj,M,90+,true,100
+2014,CZ064,Jihomoravský kraj,M,90+,false,135
+2014,CZ064,Jihomoravský kraj,Z,90+,false,714
+2014,CZ071,Olomoucký kraj,M,90+,true,52
+2014,CZ071,Olomoucký kraj,M,90+,false,85
+2014,CZ071,Olomoucký kraj,Z,90+,false,318
+2014,CZ071,Olomoucký kraj,Z,90+,true,187
+2014,CZ072,Zlínský kraj,M,90+,false,73
+2014,CZ072,Zlínský kraj,M,90+,true,37
+2014,CZ072,Zlínský kraj,Z,90+,true,166
+2014,CZ072,Zlínský kraj,Z,90+,false,275
+2014,CZ080,Moravskoslezský kraj,Z,90+,true,212
+2014,CZ080,Moravskoslezský kraj,M,90+,false,140
+2014,CZ080,Moravskoslezský kraj,Z,90+,false,925
+2014,CZ080,Moravskoslezský kraj,M,90+,true,59
+2014,CZ999,Neznámý,M,90+,true,49
+2014,CZ999,Neznámý,M,90+,false,84
+2014,CZ999,Neznámý,Z,90+,true,218
+2014,CZ999,Neznámý,Z,90+,false,327
+2015,CZ010,Hl. m. Praha,M,50–59,true,72
+2015,CZ010,Hl. m. Praha,Z,50–59,false,46
+2015,CZ010,Hl. m. Praha,Z,50–59,true,67
+2015,CZ010,Hl. m. Praha,M,50–59,false,64
+2015,CZ020,Středočeský kraj,M,50–59,true,68
+2015,CZ020,Středočeský kraj,Z,50–59,true,99
+2015,CZ020,Středočeský kraj,M,50–59,false,94
+2015,CZ020,Středočeský kraj,Z,50–59,false,67
+2015,CZ031,Jihočeský kraj,M,50–59,false,44
+2015,CZ031,Jihočeský kraj,Z,50–59,true,42
+2015,CZ031,Jihočeský kraj,Z,50–59,false,39
+2015,CZ031,Jihočeský kraj,M,50–59,true,32
+2015,CZ032,Plzeňský kraj,Z,50–59,true,40
+2015,CZ032,Plzeňský kraj,M,50–59,false,23
+2015,CZ032,Plzeňský kraj,Z,50–59,false,26
+2015,CZ032,Plzeňský kraj,M,50–59,true,28
+2015,CZ041,Karlovarský kraj,Z,50–59,true,18
+2015,CZ041,Karlovarský kraj,Z,50–59,false,20
+2015,CZ041,Karlovarský kraj,M,50–59,false,21
+2015,CZ041,Karlovarský kraj,M,50–59,true,13
+2015,CZ042,Ústecký kraj,Z,50–59,true,61
+2015,CZ042,Ústecký kraj,Z,50–59,false,45
+2015,CZ042,Ústecký kraj,M,50–59,false,67
+2015,CZ042,Ústecký kraj,M,50–59,true,52
+2015,CZ051,Liberecký kraj,Z,50–59,false,29
+2015,CZ051,Liberecký kraj,Z,50–59,true,34
+2015,CZ051,Liberecký kraj,M,50–59,true,18
+2015,CZ051,Liberecký kraj,M,50–59,false,32
+2015,CZ052,Královéhradecký kraj,M,50–59,true,35
+2015,CZ052,Královéhradecký kraj,Z,50–59,false,35
+2015,CZ052,Královéhradecký kraj,M,50–59,false,45
+2015,CZ052,Královéhradecký kraj,Z,50–59,true,45
+2015,CZ053,Pardubický kraj,M,50–59,true,34
+2015,CZ053,Pardubický kraj,Z,50–59,false,36
+2015,CZ053,Pardubický kraj,M,50–59,false,54
+2015,CZ053,Pardubický kraj,Z,50–59,true,40
+2015,CZ063,Vysočina,Z,50–59,true,22
+2015,CZ063,Vysočina,Z,50–59,false,18
+2015,CZ063,Vysočina,M,50–59,false,36
+2015,CZ063,Vysočina,M,50–59,true,26
+2015,CZ064,Jihomoravský kraj,M,50–59,true,69
+2015,CZ064,Jihomoravský kraj,Z,50–59,false,83
+2015,CZ064,Jihomoravský kraj,M,50–59,false,96
+2015,CZ064,Jihomoravský kraj,Z,50–59,true,108
+2015,CZ071,Olomoucký kraj,Z,50–59,true,39
+2015,CZ071,Olomoucký kraj,Z,50–59,false,56
+2015,CZ071,Olomoucký kraj,M,50–59,false,60
+2015,CZ071,Olomoucký kraj,M,50–59,true,24
+2015,CZ072,Zlínský kraj,Z,50–59,false,32
+2015,CZ072,Zlínský kraj,Z,50–59,true,36
+2015,CZ072,Zlínský kraj,M,50–59,false,54
+2015,CZ072,Zlínský kraj,M,50–59,true,30
+2015,CZ080,Moravskoslezský kraj,Z,50–59,false,117
+2015,CZ080,Moravskoslezský kraj,M,50–59,false,188
+2015,CZ080,Moravskoslezský kraj,M,50–59,true,58
+2015,CZ080,Moravskoslezský kraj,Z,50–59,true,51
+2015,CZ999,Neznámý,Z,50–59,false,15
+2015,CZ999,Neznámý,M,50–59,true,14
+2015,CZ999,Neznámý,M,50–59,false,30
+2015,CZ999,Neznámý,Z,50–59,true,5
+2015,CZ010,Hl. m. Praha,Z,60–69,false,186
+2015,CZ010,Hl. m. Praha,Z,60–69,true,320
+2015,CZ010,Hl. m. Praha,M,60–69,false,247
+2015,CZ010,Hl. m. Praha,M,60–69,true,263
+2015,CZ020,Středočeský kraj,Z,60–69,true,334
+2015,CZ020,Středočeský kraj,M,60–69,false,276
+2015,CZ020,Středočeský kraj,M,60–69,true,287
+2015,CZ020,Středočeský kraj,Z,60–69,false,222
+2015,CZ031,Jihočeský kraj,Z,60–69,false,98
+2015,CZ031,Jihočeský kraj,M,60–69,true,104
+2015,CZ031,Jihočeský kraj,Z,60–69,true,136
+2015,CZ031,Jihočeský kraj,M,60–69,false,111
+2015,CZ032,Plzeňský kraj,Z,60–69,false,63
+2015,CZ032,Plzeňský kraj,M,60–69,true,81
+2015,CZ032,Plzeňský kraj,M,60–69,false,87
+2015,CZ032,Plzeňský kraj,Z,60–69,true,121
+2015,CZ041,Karlovarský kraj,Z,60–69,true,74
+2015,CZ041,Karlovarský kraj,Z,60–69,false,43
+2015,CZ041,Karlovarský kraj,M,60–69,false,72
+2015,CZ041,Karlovarský kraj,M,60–69,true,72
+2015,CZ042,Ústecký kraj,Z,60–69,true,277
+2015,CZ042,Ústecký kraj,Z,60–69,false,159
+2015,CZ042,Ústecký kraj,M,60–69,true,264
+2015,CZ042,Ústecký kraj,M,60–69,false,203
+2015,CZ051,Liberecký kraj,Z,60–69,true,118
+2015,CZ051,Liberecký kraj,Z,60–69,false,77
+2015,CZ051,Liberecký kraj,M,60–69,false,105
+2015,CZ051,Liberecký kraj,M,60–69,true,88
+2015,CZ052,Královéhradecký kraj,M,60–69,true,151
+2015,CZ052,Královéhradecký kraj,Z,60–69,true,154
+2015,CZ052,Královéhradecký kraj,M,60–69,false,124
+2015,CZ052,Královéhradecký kraj,Z,60–69,false,99
+2015,CZ053,Pardubický kraj,Z,60–69,false,98
+2015,CZ053,Pardubický kraj,M,60–69,false,120
+2015,CZ053,Pardubický kraj,M,60–69,true,169
+2015,CZ053,Pardubický kraj,Z,60–69,true,163
+2015,CZ063,Vysočina,Z,60–69,true,136
+2015,CZ063,Vysočina,M,60–69,true,114
+2015,CZ063,Vysočina,Z,60–69,false,73
+2015,CZ063,Vysočina,M,60–69,false,89
+2015,CZ064,Jihomoravský kraj,M,60–69,false,245
+2015,CZ064,Jihomoravský kraj,M,60–69,true,263
+2015,CZ064,Jihomoravský kraj,Z,60–69,false,194
+2015,CZ064,Jihomoravský kraj,Z,60–69,true,342
+2015,CZ071,Olomoucký kraj,Z,60–69,true,172
+2015,CZ071,Olomoucký kraj,Z,60–69,false,107
+2015,CZ071,Olomoucký kraj,M,60–69,false,174
+2015,CZ071,Olomoucký kraj,M,60–69,true,147
+2015,CZ072,Zlínský kraj,M,60–69,true,137
+2015,CZ072,Zlínský kraj,Z,60–69,false,89
+2015,CZ072,Zlínský kraj,Z,60–69,true,137
+2015,CZ072,Zlínský kraj,M,60–69,false,153
+2015,CZ080,Moravskoslezský kraj,Z,60–69,true,274
+2015,CZ080,Moravskoslezský kraj,M,60–69,true,208
+2015,CZ080,Moravskoslezský kraj,M,60–69,false,469
+2015,CZ080,Moravskoslezský kraj,Z,60–69,false,326
+2015,CZ999,Neznámý,M,60–69,false,119
+2015,CZ999,Neznámý,M,60–69,true,73
+2015,CZ999,Neznámý,Z,60–69,false,61
+2015,CZ999,Neznámý,Z,60–69,true,62
+2015,CZ010,Hl. m. Praha,Z,70–79,true,1125
+2015,CZ010,Hl. m. Praha,M,70–79,false,398
+2015,CZ010,Hl. m. Praha,Z,70–79,false,504
+2015,CZ010,Hl. m. Praha,M,70–79,true,748
+2015,CZ020,Středočeský kraj,Z,70–79,true,1216
+2015,CZ020,Středočeský kraj,Z,70–79,false,590
+2015,CZ020,Středočeský kraj,M,70–79,true,688
+2015,CZ020,Středočeský kraj,M,70–79,false,462
+2015,CZ031,Jihočeský kraj,M,70–79,false,212
+2015,CZ031,Jihočeský kraj,M,70–79,true,310
+2015,CZ031,Jihočeský kraj,Z,70–79,false,256
+2015,CZ031,Jihočeský kraj,Z,70–79,true,574
+2015,CZ032,Plzeňský kraj,M,70–79,true,268
+2015,CZ032,Plzeňský kraj,M,70–79,false,143
+2015,CZ032,Plzeňský kraj,Z,70–79,true,477
+2015,CZ032,Plzeňský kraj,Z,70–79,false,175
+2015,CZ041,Karlovarský kraj,M,70–79,true,129
+2015,CZ041,Karlovarský kraj,Z,70–79,false,133
+2015,CZ041,Karlovarský kraj,M,70–79,false,118
+2015,CZ041,Karlovarský kraj,Z,70–79,true,285
+2015,CZ042,Ústecký kraj,M,70–79,true,424
+2015,CZ042,Ústecký kraj,Z,70–79,true,753
+2015,CZ042,Ústecký kraj,M,70–79,false,279
+2015,CZ042,Ústecký kraj,Z,70–79,false,360
+2015,CZ051,Liberecký kraj,Z,70–79,true,342
+2015,CZ051,Liberecký kraj,Z,70–79,false,192
+2015,CZ051,Liberecký kraj,M,70–79,true,209
+2015,CZ051,Liberecký kraj,M,70–79,false,155
+2015,CZ052,Královéhradecký kraj,Z,70–79,false,215
+2015,CZ052,Královéhradecký kraj,Z,70–79,true,603
+2015,CZ052,Královéhradecký kraj,M,70–79,false,180
+2015,CZ052,Královéhradecký kraj,M,70–79,true,354
+2015,CZ053,Pardubický kraj,M,70–79,false,162
+2015,CZ053,Pardubický kraj,M,70–79,true,374
+2015,CZ053,Pardubický kraj,Z,70–79,false,218
+2015,CZ053,Pardubický kraj,Z,70–79,true,650
+2015,CZ063,Vysočina,M,70–79,false,209
+2015,CZ063,Vysočina,Z,70–79,false,200
+2015,CZ063,Vysočina,M,70–79,true,331
+2015,CZ063,Vysočina,Z,70–79,true,580
+2015,CZ064,Jihomoravský kraj,M,70–79,false,449
+2015,CZ064,Jihomoravský kraj,M,70–79,true,726
+2015,CZ064,Jihomoravský kraj,Z,70–79,false,552
+2015,CZ064,Jihomoravský kraj,Z,70–79,true,1185
+2015,CZ071,Olomoucký kraj,M,70–79,true,333
+2015,CZ071,Olomoucký kraj,M,70–79,false,252
+2015,CZ071,Olomoucký kraj,Z,70–79,false,355
+2015,CZ071,Olomoucký kraj,Z,70–79,true,658
+2015,CZ072,Zlínský kraj,Z,70–79,false,306
+2015,CZ072,Zlínský kraj,M,70–79,true,363
+2015,CZ072,Zlínský kraj,Z,70–79,true,659
+2015,CZ072,Zlínský kraj,M,70–79,false,230
+2015,CZ080,Moravskoslezský kraj,M,70–79,true,579
+2015,CZ080,Moravskoslezský kraj,Z,70–79,false,893
+2015,CZ080,Moravskoslezský kraj,M,70–79,false,703
+2015,CZ080,Moravskoslezský kraj,Z,70–79,true,1056
+2015,CZ999,Neznámý,Z,70–79,true,367
+2015,CZ999,Neznámý,Z,70–79,false,195
+2015,CZ999,Neznámý,M,70–79,false,206
+2015,CZ999,Neznámý,M,70–79,true,250
+2015,CZ010,Hl. m. Praha,M,80–89,false,558
+2015,CZ010,Hl. m. Praha,M,80–89,true,1106
+2015,CZ010,Hl. m. Praha,Z,80–89,true,2315
+2015,CZ010,Hl. m. Praha,Z,80–89,false,1532
+2015,CZ020,Středočeský kraj,Z,80–89,false,1439
+2015,CZ020,Středočeský kraj,Z,80–89,true,1918
+2015,CZ020,Středočeský kraj,M,80–89,true,740
+2015,CZ020,Středočeský kraj,M,80–89,false,590
+2015,CZ031,Jihočeský kraj,M,80–89,false,273
+2015,CZ031,Jihočeský kraj,M,80–89,true,360
+2015,CZ031,Jihočeský kraj,Z,80–89,false,644
+2015,CZ031,Jihočeský kraj,Z,80–89,true,1021
+2015,CZ032,Plzeňský kraj,M,80–89,false,236
+2015,CZ032,Plzeňský kraj,Z,80–89,true,851
+2015,CZ032,Plzeňský kraj,Z,80–89,false,514
+2015,CZ032,Plzeňský kraj,M,80–89,true,345
+2015,CZ041,Karlovarský kraj,M,80–89,true,168
+2015,CZ041,Karlovarský kraj,M,80–89,false,134
+2015,CZ041,Karlovarský kraj,Z,80–89,false,281
+2015,CZ041,Karlovarský kraj,Z,80–89,true,411
+2015,CZ042,Ústecký kraj,M,80–89,true,401
+2015,CZ042,Ústecký kraj,Z,80–89,false,728
+2015,CZ042,Ústecký kraj,Z,80–89,true,1233
+2015,CZ042,Ústecký kraj,M,80–89,false,284
+2015,CZ051,Liberecký kraj,Z,80–89,true,560
+2015,CZ051,Liberecký kraj,Z,80–89,false,421
+2015,CZ051,Liberecký kraj,M,80–89,false,192
+2015,CZ051,Liberecký kraj,M,80–89,true,238
+2015,CZ052,Královéhradecký kraj,Z,80–89,false,578
+2015,CZ052,Královéhradecký kraj,M,80–89,false,227
+2015,CZ052,Královéhradecký kraj,Z,80–89,true,921
+2015,CZ052,Královéhradecký kraj,M,80–89,true,376
+2015,CZ053,Pardubický kraj,Z,80–89,true,1222
+2015,CZ053,Pardubický kraj,M,80–89,false,219
+2015,CZ053,Pardubický kraj,Z,80–89,false,492
+2015,CZ053,Pardubický kraj,M,80–89,true,503
+2015,CZ063,Vysočina,M,80–89,false,248
+2015,CZ063,Vysočina,Z,80–89,false,657
+2015,CZ063,Vysočina,M,80–89,true,420
+2015,CZ063,Vysočina,Z,80–89,true,1125
+2015,CZ064,Jihomoravský kraj,M,80–89,true,819
+2015,CZ064,Jihomoravský kraj,M,80–89,false,576
+2015,CZ064,Jihomoravský kraj,Z,80–89,false,1471
+2015,CZ064,Jihomoravský kraj,Z,80–89,true,2033
+2015,CZ071,Olomoucký kraj,M,80–89,false,317
+2015,CZ071,Olomoucký kraj,Z,80–89,false,857
+2015,CZ071,Olomoucký kraj,M,80–89,true,333
+2015,CZ071,Olomoucký kraj,Z,80–89,true,1055
+2015,CZ072,Zlínský kraj,M,80–89,true,381
+2015,CZ072,Zlínský kraj,Z,80–89,true,1090
+2015,CZ072,Zlínský kraj,Z,80–89,false,800
+2015,CZ072,Zlínský kraj,M,80–89,false,311
+2015,CZ080,Moravskoslezský kraj,Z,80–89,false,2014
+2015,CZ080,Moravskoslezský kraj,Z,80–89,true,1429
+2015,CZ080,Moravskoslezský kraj,M,80–89,false,701
+2015,CZ080,Moravskoslezský kraj,M,80–89,true,518
+2015,CZ999,Neznámý,M,80–89,false,347
+2015,CZ999,Neznámý,Z,80–89,false,794
+2015,CZ999,Neznámý,Z,80–89,true,904
+2015,CZ999,Neznámý,M,80–89,true,393
+2015,CZ010,Hl. m. Praha,M,90+,true,211
+2015,CZ010,Hl. m. Praha,Z,90+,false,1007
+2015,CZ010,Hl. m. Praha,M,90+,false,233
+2015,CZ010,Hl. m. Praha,Z,90+,true,766
+2015,CZ020,Středočeský kraj,Z,90+,false,596
+2015,CZ020,Středočeský kraj,Z,90+,true,439
+2015,CZ020,Středočeský kraj,M,90+,true,111
+2015,CZ020,Středočeský kraj,M,90+,false,139
+2015,CZ031,Jihočeský kraj,Z,90+,true,252
+2015,CZ031,Jihočeský kraj,M,90+,false,66
+2015,CZ031,Jihočeský kraj,M,90+,true,48
+2015,CZ031,Jihočeský kraj,Z,90+,false,309
+2015,CZ032,Plzeňský kraj,Z,90+,false,256
+2015,CZ032,Plzeňský kraj,M,90+,false,60
+2015,CZ032,Plzeňský kraj,Z,90+,true,175
+2015,CZ032,Plzeňský kraj,M,90+,true,39
+2015,CZ041,Karlovarský kraj,M,90+,false,33
+2015,CZ041,Karlovarský kraj,M,90+,true,22
+2015,CZ041,Karlovarský kraj,Z,90+,false,135
+2015,CZ041,Karlovarský kraj,Z,90+,true,88
+2015,CZ042,Ústecký kraj,M,90+,false,61
+2015,CZ042,Ústecký kraj,Z,90+,true,333
+2015,CZ042,Ústecký kraj,M,90+,true,60
+2015,CZ042,Ústecký kraj,Z,90+,false,336
+2015,CZ051,Liberecký kraj,M,90+,true,28
+2015,CZ051,Liberecký kraj,Z,90+,false,195
+2015,CZ051,Liberecký kraj,Z,90+,true,132
+2015,CZ051,Liberecký kraj,M,90+,false,48
+2015,CZ052,Královéhradecký kraj,Z,90+,true,204
+2015,CZ052,Královéhradecký kraj,M,90+,false,75
+2015,CZ052,Královéhradecký kraj,Z,90+,false,277
+2015,CZ052,Královéhradecký kraj,M,90+,true,47
+2015,CZ053,Pardubický kraj,M,90+,false,46
+2015,CZ053,Pardubický kraj,Z,90+,false,196
+2015,CZ053,Pardubický kraj,Z,90+,true,296
+2015,CZ053,Pardubický kraj,M,90+,true,77
+2015,CZ063,Vysočina,M,90+,true,51
+2015,CZ063,Vysočina,M,90+,false,80
+2015,CZ063,Vysočina,Z,90+,false,269
+2015,CZ063,Vysočina,Z,90+,true,283
+2015,CZ064,Jihomoravský kraj,M,90+,true,114
+2015,CZ064,Jihomoravský kraj,M,90+,false,159
+2015,CZ064,Jihomoravský kraj,Z,90+,false,785
+2015,CZ064,Jihomoravský kraj,Z,90+,true,438
+2015,CZ071,Olomoucký kraj,M,90+,true,56
+2015,CZ071,Olomoucký kraj,M,90+,false,99
+2015,CZ071,Olomoucký kraj,Z,90+,false,396
+2015,CZ071,Olomoucký kraj,Z,90+,true,226
+2015,CZ072,Zlínský kraj,M,90+,true,53
+2015,CZ072,Zlínský kraj,Z,90+,false,338
+2015,CZ072,Zlínský kraj,M,90+,false,77
+2015,CZ072,Zlínský kraj,Z,90+,true,208
+2015,CZ080,Moravskoslezský kraj,M,90+,false,160
+2015,CZ080,Moravskoslezský kraj,M,90+,true,73
+2015,CZ080,Moravskoslezský kraj,Z,90+,false,920
+2015,CZ080,Moravskoslezský kraj,Z,90+,true,281
+2015,CZ999,Neznámý,Z,90+,false,397
+2015,CZ999,Neznámý,M,90+,true,80
+2015,CZ999,Neznámý,Z,90+,true,250
+2015,CZ999,Neznámý,M,90+,false,121
+2016,CZ010,Hl. m. Praha,M,50–59,true,60
+2016,CZ010,Hl. m. Praha,Z,50–59,true,59
+2016,CZ010,Hl. m. Praha,M,50–59,false,67
+2016,CZ010,Hl. m. Praha,Z,50–59,false,64
+2016,CZ020,Středočeský kraj,Z,50–59,false,63
+2016,CZ020,Středočeský kraj,Z,50–59,true,83
+2016,CZ020,Středočeský kraj,M,50–59,false,92
+2016,CZ020,Středočeský kraj,M,50–59,true,54
+2016,CZ031,Jihočeský kraj,M,50–59,true,37
+2016,CZ031,Jihočeský kraj,Z,50–59,true,30
+2016,CZ031,Jihočeský kraj,Z,50–59,false,33
+2016,CZ031,Jihočeský kraj,M,50–59,false,35
+2016,CZ032,Plzeňský kraj,Z,50–59,false,18
+2016,CZ032,Plzeňský kraj,Z,50–59,true,40
+2016,CZ032,Plzeňský kraj,M,50–59,false,29
+2016,CZ032,Plzeňský kraj,M,50–59,true,24
+2016,CZ041,Karlovarský kraj,Z,50–59,false,23
+2016,CZ041,Karlovarský kraj,Z,50–59,true,21
+2016,CZ041,Karlovarský kraj,M,50–59,true,8
+2016,CZ041,Karlovarský kraj,M,50–59,false,17
+2016,CZ042,Ústecký kraj,M,50–59,false,63
+2016,CZ042,Ústecký kraj,Z,50–59,false,42
+2016,CZ042,Ústecký kraj,Z,50–59,true,52
+2016,CZ042,Ústecký kraj,M,50–59,true,41
+2016,CZ051,Liberecký kraj,M,50–59,true,16
+2016,CZ051,Liberecký kraj,Z,50–59,false,33
+2016,CZ051,Liberecký kraj,M,50–59,false,36
+2016,CZ051,Liberecký kraj,Z,50–59,true,24
+2016,CZ052,Královéhradecký kraj,Z,50–59,true,42
+2016,CZ052,Královéhradecký kraj,Z,50–59,false,35
+2016,CZ052,Královéhradecký kraj,M,50–59,false,35
+2016,CZ052,Královéhradecký kraj,M,50–59,true,42
+2016,CZ053,Pardubický kraj,M,50–59,false,60
+2016,CZ053,Pardubický kraj,M,50–59,true,35
+2016,CZ053,Pardubický kraj,Z,50–59,false,28
+2016,CZ053,Pardubický kraj,Z,50–59,true,33
+2016,CZ063,Vysočina,Z,50–59,false,28
+2016,CZ063,Vysočina,M,50–59,true,34
+2016,CZ063,Vysočina,Z,50–59,true,33
+2016,CZ063,Vysočina,M,50–59,false,38
+2016,CZ064,Jihomoravský kraj,M,50–59,false,112
+2016,CZ064,Jihomoravský kraj,M,50–59,true,70
+2016,CZ064,Jihomoravský kraj,Z,50–59,true,96
+2016,CZ064,Jihomoravský kraj,Z,50–59,false,81
+2016,CZ071,Olomoucký kraj,M,50–59,false,66
+2016,CZ071,Olomoucký kraj,M,50–59,true,16
+2016,CZ071,Olomoucký kraj,Z,50–59,false,47
+2016,CZ071,Olomoucký kraj,Z,50–59,true,37
+2016,CZ072,Zlínský kraj,Z,50–59,false,43
+2016,CZ072,Zlínský kraj,Z,50–59,true,29
+2016,CZ072,Zlínský kraj,M,50–59,false,54
+2016,CZ072,Zlínský kraj,M,50–59,true,28
+2016,CZ080,Moravskoslezský kraj,M,50–59,false,195
+2016,CZ080,Moravskoslezský kraj,M,50–59,true,43
+2016,CZ080,Moravskoslezský kraj,Z,50–59,false,122
+2016,CZ080,Moravskoslezský kraj,Z,50–59,true,58
+2016,CZ999,Neznámý,M,50–59,false,25
+2016,CZ999,Neznámý,M,50–59,true,10
+2016,CZ999,Neznámý,Z,50–59,true,4
+2016,CZ999,Neznámý,Z,50–59,false,11
+2016,CZ010,Hl. m. Praha,Z,60–69,false,170
+2016,CZ010,Hl. m. Praha,Z,60–69,true,330
+2016,CZ010,Hl. m. Praha,M,60–69,false,246
+2016,CZ010,Hl. m. Praha,M,60–69,true,274
+2016,CZ020,Středočeský kraj,Z,60–69,false,219
+2016,CZ020,Středočeský kraj,M,60–69,true,285
+2016,CZ020,Středočeský kraj,Z,60–69,true,342
+2016,CZ020,Středočeský kraj,M,60–69,false,282
+2016,CZ031,Jihočeský kraj,M,60–69,true,115
+2016,CZ031,Jihočeský kraj,M,60–69,false,128
+2016,CZ031,Jihočeský kraj,Z,60–69,false,91
+2016,CZ031,Jihočeský kraj,Z,60–69,true,158
+2016,CZ032,Plzeňský kraj,M,60–69,true,97
+2016,CZ032,Plzeňský kraj,Z,60–69,false,59
+2016,CZ032,Plzeňský kraj,Z,60–69,true,144
+2016,CZ032,Plzeňský kraj,M,60–69,false,101
+2016,CZ041,Karlovarský kraj,M,60–69,false,82
+2016,CZ041,Karlovarský kraj,Z,60–69,true,79
+2016,CZ041,Karlovarský kraj,Z,60–69,false,51
+2016,CZ041,Karlovarský kraj,M,60–69,true,80
+2016,CZ042,Ústecký kraj,M,60–69,true,231
+2016,CZ042,Ústecký kraj,M,60–69,false,201
+2016,CZ042,Ústecký kraj,Z,60–69,false,157
+2016,CZ042,Ústecký kraj,Z,60–69,true,258
+2016,CZ051,Liberecký kraj,Z,60–69,true,116
+2016,CZ051,Liberecký kraj,Z,60–69,false,96
+2016,CZ051,Liberecký kraj,M,60–69,false,112
+2016,CZ051,Liberecký kraj,M,60–69,true,83
+2016,CZ052,Královéhradecký kraj,Z,60–69,true,151
+2016,CZ052,Královéhradecký kraj,M,60–69,false,125
+2016,CZ052,Královéhradecký kraj,Z,60–69,false,101
+2016,CZ052,Královéhradecký kraj,M,60–69,true,143
+2016,CZ053,Pardubický kraj,Z,60–69,true,166
+2016,CZ053,Pardubický kraj,Z,60–69,false,94
+2016,CZ053,Pardubický kraj,M,60–69,true,148
+2016,CZ053,Pardubický kraj,M,60–69,false,124
+2016,CZ063,Vysočina,M,60–69,false,113
+2016,CZ063,Vysočina,Z,60–69,false,92
+2016,CZ063,Vysočina,M,60–69,true,119
+2016,CZ063,Vysočina,Z,60–69,true,133
+2016,CZ064,Jihomoravský kraj,M,60–69,false,277
+2016,CZ064,Jihomoravský kraj,M,60–69,true,248
+2016,CZ064,Jihomoravský kraj,Z,60–69,false,197
+2016,CZ064,Jihomoravský kraj,Z,60–69,true,354
+2016,CZ071,Olomoucký kraj,M,60–69,false,155
+2016,CZ071,Olomoucký kraj,Z,60–69,true,155
+2016,CZ071,Olomoucký kraj,M,60–69,true,140
+2016,CZ071,Olomoucký kraj,Z,60–69,false,117
+2016,CZ072,Zlínský kraj,Z,60–69,true,150
+2016,CZ072,Zlínský kraj,M,60–69,false,166
+2016,CZ072,Zlínský kraj,M,60–69,true,135
+2016,CZ072,Zlínský kraj,Z,60–69,false,96
+2016,CZ080,Moravskoslezský kraj,M,60–69,false,469
+2016,CZ080,Moravskoslezský kraj,M,60–69,true,226
+2016,CZ080,Moravskoslezský kraj,Z,60–69,true,293
+2016,CZ080,Moravskoslezský kraj,Z,60–69,false,318
+2016,CZ999,Neznámý,M,60–69,true,61
+2016,CZ999,Neznámý,M,60–69,false,118
+2016,CZ999,Neznámý,Z,60–69,false,50
+2016,CZ999,Neznámý,Z,60–69,true,44
+2016,CZ010,Hl. m. Praha,M,70–79,true,846
+2016,CZ010,Hl. m. Praha,Z,70–79,false,525
+2016,CZ010,Hl. m. Praha,M,70–79,false,431
+2016,CZ010,Hl. m. Praha,Z,70–79,true,1189
+2016,CZ020,Středočeský kraj,M,70–79,true,799
+2016,CZ020,Středočeský kraj,M,70–79,false,534
+2016,CZ020,Středočeský kraj,Z,70–79,false,618
+2016,CZ020,Středočeský kraj,Z,70–79,true,1306
+2016,CZ031,Jihočeský kraj,M,70–79,false,218
+2016,CZ031,Jihočeský kraj,M,70–79,true,338
+2016,CZ031,Jihočeský kraj,Z,70–79,false,261
+2016,CZ031,Jihočeský kraj,Z,70–79,true,641
+2016,CZ032,Plzeňský kraj,M,70–79,true,298
+2016,CZ032,Plzeňský kraj,Z,70–79,false,205
+2016,CZ032,Plzeňský kraj,Z,70–79,true,523
+2016,CZ032,Plzeňský kraj,M,70–79,false,166
+2016,CZ041,Karlovarský kraj,M,70–79,false,142
+2016,CZ041,Karlovarský kraj,M,70–79,true,146
+2016,CZ041,Karlovarský kraj,Z,70–79,false,149
+2016,CZ041,Karlovarský kraj,Z,70–79,true,318
+2016,CZ042,Ústecký kraj,M,70–79,true,505
+2016,CZ042,Ústecký kraj,Z,70–79,false,356
+2016,CZ042,Ústecký kraj,M,70–79,false,285
+2016,CZ042,Ústecký kraj,Z,70–79,true,824
+2016,CZ051,Liberecký kraj,Z,70–79,false,189
+2016,CZ051,Liberecký kraj,M,70–79,true,212
+2016,CZ051,Liberecký kraj,Z,70–79,true,366
+2016,CZ051,Liberecký kraj,M,70–79,false,203
+2016,CZ052,Královéhradecký kraj,Z,70–79,false,236
+2016,CZ052,Královéhradecký kraj,Z,70–79,true,669
+2016,CZ052,Královéhradecký kraj,M,70–79,false,178
+2016,CZ052,Královéhradecký kraj,M,70–79,true,383
+2016,CZ053,Pardubický kraj,Z,70–79,true,686
+2016,CZ053,Pardubický kraj,Z,70–79,false,185
+2016,CZ053,Pardubický kraj,M,70–79,false,148
+2016,CZ053,Pardubický kraj,M,70–79,true,432
+2016,CZ063,Vysočina,Z,70–79,false,227
+2016,CZ063,Vysočina,M,70–79,false,209
+2016,CZ063,Vysočina,Z,70–79,true,667
+2016,CZ063,Vysočina,M,70–79,true,372
+2016,CZ064,Jihomoravský kraj,Z,70–79,false,566
+2016,CZ064,Jihomoravský kraj,M,70–79,false,510
+2016,CZ064,Jihomoravský kraj,M,70–79,true,816
+2016,CZ064,Jihomoravský kraj,Z,70–79,true,1320
+2016,CZ071,Olomoucký kraj,M,70–79,true,346
+2016,CZ071,Olomoucký kraj,M,70–79,false,302
+2016,CZ071,Olomoucký kraj,Z,70–79,false,353
+2016,CZ071,Olomoucký kraj,Z,70–79,true,727
+2016,CZ072,Zlínský kraj,M,70–79,true,453
+2016,CZ072,Zlínský kraj,M,70–79,false,236
+2016,CZ072,Zlínský kraj,Z,70–79,false,299
+2016,CZ072,Zlínský kraj,Z,70–79,true,679
+2016,CZ080,Moravskoslezský kraj,Z,70–79,false,961
+2016,CZ080,Moravskoslezský kraj,M,70–79,false,801
+2016,CZ080,Moravskoslezský kraj,M,70–79,true,624
+2016,CZ080,Moravskoslezský kraj,Z,70–79,true,1179
+2016,CZ999,Neznámý,Z,70–79,false,184
+2016,CZ999,Neznámý,Z,70–79,true,360
+2016,CZ999,Neznámý,M,70–79,true,251
+2016,CZ999,Neznámý,M,70–79,false,215
+2016,CZ010,Hl. m. Praha,Z,80–89,false,1473
+2016,CZ010,Hl. m. Praha,Z,80–89,true,2448
+2016,CZ010,Hl. m. Praha,M,80–89,false,551
+2016,CZ010,Hl. m. Praha,M,80–89,true,1072
+2016,CZ020,Středočeský kraj,M,80–89,true,792
+2016,CZ020,Středočeský kraj,M,80–89,false,554
+2016,CZ020,Středočeský kraj,Z,80–89,false,1402
+2016,CZ020,Středočeský kraj,Z,80–89,true,2015
+2016,CZ031,Jihočeský kraj,Z,80–89,false,650
+2016,CZ031,Jihočeský kraj,M,80–89,false,267
+2016,CZ031,Jihočeský kraj,M,80–89,true,405
+2016,CZ031,Jihočeský kraj,Z,80–89,true,1140
+2016,CZ032,Plzeňský kraj,M,80–89,false,218
+2016,CZ032,Plzeňský kraj,Z,80–89,false,521
+2016,CZ032,Plzeňský kraj,M,80–89,true,375
+2016,CZ032,Plzeňský kraj,Z,80–89,true,977
+2016,CZ041,Karlovarský kraj,M,80–89,true,174
+2016,CZ041,Karlovarský kraj,M,80–89,false,133
+2016,CZ041,Karlovarský kraj,Z,80–89,false,274
+2016,CZ041,Karlovarský kraj,Z,80–89,true,484
+2016,CZ042,Ústecký kraj,M,80–89,false,271
+2016,CZ042,Ústecký kraj,Z,80–89,true,1284
+2016,CZ042,Ústecký kraj,Z,80–89,false,747
+2016,CZ042,Ústecký kraj,M,80–89,true,438
+2016,CZ051,Liberecký kraj,M,80–89,true,236
+2016,CZ051,Liberecký kraj,Z,80–89,false,365
+2016,CZ051,Liberecký kraj,Z,80–89,true,563
+2016,CZ051,Liberecký kraj,M,80–89,false,154
+2016,CZ052,Královéhradecký kraj,M,80–89,true,425
+2016,CZ052,Královéhradecký kraj,Z,80–89,true,1054
+2016,CZ052,Královéhradecký kraj,Z,80–89,false,581
+2016,CZ052,Královéhradecký kraj,M,80–89,false,273
+2016,CZ053,Pardubický kraj,M,80–89,true,537
+2016,CZ053,Pardubický kraj,Z,80–89,false,441
+2016,CZ053,Pardubický kraj,M,80–89,false,183
+2016,CZ053,Pardubický kraj,Z,80–89,true,1310
+2016,CZ063,Vysočina,M,80–89,false,241
+2016,CZ063,Vysočina,M,80–89,true,434
+2016,CZ063,Vysočina,Z,80–89,true,1213
+2016,CZ063,Vysočina,Z,80–89,false,599
+2016,CZ064,Jihomoravský kraj,M,80–89,false,581
+2016,CZ064,Jihomoravský kraj,M,80–89,true,912
+2016,CZ064,Jihomoravský kraj,Z,80–89,false,1472
+2016,CZ064,Jihomoravský kraj,Z,80–89,true,2264
+2016,CZ071,Olomoucký kraj,M,80–89,false,328
+2016,CZ071,Olomoucký kraj,Z,80–89,false,833
+2016,CZ071,Olomoucký kraj,M,80–89,true,363
+2016,CZ071,Olomoucký kraj,Z,80–89,true,1116
+2016,CZ072,Zlínský kraj,M,80–89,true,443
+2016,CZ072,Zlínský kraj,Z,80–89,false,773
+2016,CZ072,Zlínský kraj,M,80–89,false,310
+2016,CZ072,Zlínský kraj,Z,80–89,true,1205
+2016,CZ080,Moravskoslezský kraj,Z,80–89,true,1572
+2016,CZ080,Moravskoslezský kraj,Z,80–89,false,2091
+2016,CZ080,Moravskoslezský kraj,M,80–89,false,701
+2016,CZ080,Moravskoslezský kraj,M,80–89,true,560
+2016,CZ999,Neznámý,Z,80–89,true,850
+2016,CZ999,Neznámý,Z,80–89,false,685
+2016,CZ999,Neznámý,M,80–89,false,354
+2016,CZ999,Neznámý,M,80–89,true,393
+2016,CZ010,Hl. m. Praha,M,90+,false,241
+2016,CZ010,Hl. m. Praha,M,90+,true,268
+2016,CZ010,Hl. m. Praha,Z,90+,true,808
+2016,CZ010,Hl. m. Praha,Z,90+,false,1042
+2016,CZ020,Středočeský kraj,M,90+,true,138
+2016,CZ020,Středočeský kraj,Z,90+,false,649
+2016,CZ020,Středočeský kraj,Z,90+,true,478
+2016,CZ020,Středočeský kraj,M,90+,false,143
+2016,CZ031,Jihočeský kraj,M,90+,false,88
+2016,CZ031,Jihočeský kraj,M,90+,true,45
+2016,CZ031,Jihočeský kraj,Z,90+,false,338
+2016,CZ031,Jihočeský kraj,Z,90+,true,262
+2016,CZ032,Plzeňský kraj,M,90+,true,60
+2016,CZ032,Plzeňský kraj,M,90+,false,72
+2016,CZ032,Plzeňský kraj,Z,90+,false,245
+2016,CZ032,Plzeňský kraj,Z,90+,true,203
+2016,CZ041,Karlovarský kraj,M,90+,false,26
+2016,CZ041,Karlovarský kraj,Z,90+,false,134
+2016,CZ041,Karlovarský kraj,M,90+,true,21
+2016,CZ041,Karlovarský kraj,Z,90+,true,101
+2016,CZ042,Ústecký kraj,M,90+,false,71
+2016,CZ042,Ústecký kraj,Z,90+,false,387
+2016,CZ042,Ústecký kraj,M,90+,true,70
+2016,CZ042,Ústecký kraj,Z,90+,true,367
+2016,CZ051,Liberecký kraj,Z,90+,false,199
+2016,CZ051,Liberecký kraj,M,90+,false,38
+2016,CZ051,Liberecký kraj,M,90+,true,27
+2016,CZ051,Liberecký kraj,Z,90+,true,170
+2016,CZ052,Královéhradecký kraj,M,90+,true,67
+2016,CZ052,Královéhradecký kraj,Z,90+,false,287
+2016,CZ052,Královéhradecký kraj,M,90+,false,70
+2016,CZ052,Královéhradecký kraj,Z,90+,true,232
+2016,CZ053,Pardubický kraj,Z,90+,false,225
+2016,CZ053,Pardubický kraj,Z,90+,true,325
+2016,CZ053,Pardubický kraj,M,90+,false,43
+2016,CZ053,Pardubický kraj,M,90+,true,102
+2016,CZ063,Vysočina,M,90+,false,74
+2016,CZ063,Vysočina,Z,90+,true,300
+2016,CZ063,Vysočina,M,90+,true,57
+2016,CZ063,Vysočina,Z,90+,false,294
+2016,CZ064,Jihomoravský kraj,Z,90+,false,783
+2016,CZ064,Jihomoravský kraj,M,90+,true,141
+2016,CZ064,Jihomoravský kraj,M,90+,false,178
+2016,CZ064,Jihomoravský kraj,Z,90+,true,513
+2016,CZ071,Olomoucký kraj,Z,90+,false,422
+2016,CZ071,Olomoucký kraj,M,90+,true,66
+2016,CZ071,Olomoucký kraj,M,90+,false,106
+2016,CZ071,Olomoucký kraj,Z,90+,true,265
+2016,CZ072,Zlínský kraj,M,90+,false,100
+2016,CZ072,Zlínský kraj,Z,90+,true,263
+2016,CZ072,Zlínský kraj,Z,90+,false,342
+2016,CZ072,Zlínský kraj,M,90+,true,57
+2016,CZ080,Moravskoslezský kraj,Z,90+,true,309
+2016,CZ080,Moravskoslezský kraj,Z,90+,false,961
+2016,CZ080,Moravskoslezský kraj,M,90+,true,89
+2016,CZ080,Moravskoslezský kraj,M,90+,false,161
+2016,CZ999,Neznámý,Z,90+,false,394
+2016,CZ999,Neznámý,Z,90+,true,298
+2016,CZ999,Neznámý,M,90+,false,125
+2016,CZ999,Neznámý,M,90+,true,84
+2017,CZ010,Hl. m. Praha,Z,50–59,true,71
+2017,CZ010,Hl. m. Praha,Z,50–59,false,62
+2017,CZ010,Hl. m. Praha,M,50–59,false,63
+2017,CZ010,Hl. m. Praha,M,50–59,true,54
+2017,CZ020,Středočeský kraj,Z,50–59,true,99
+2017,CZ020,Středočeský kraj,M,50–59,false,98
+2017,CZ020,Středočeský kraj,M,50–59,true,60
+2017,CZ020,Středočeský kraj,Z,50–59,false,64
+2017,CZ031,Jihočeský kraj,M,50–59,false,44
+2017,CZ031,Jihočeský kraj,M,50–59,true,38
+2017,CZ031,Jihočeský kraj,Z,50–59,true,32
+2017,CZ031,Jihočeský kraj,Z,50–59,false,42
+2017,CZ032,Plzeňský kraj,M,50–59,true,21
+2017,CZ032,Plzeňský kraj,Z,50–59,false,21
+2017,CZ032,Plzeňský kraj,Z,50–59,true,39
+2017,CZ032,Plzeňský kraj,M,50–59,false,34
+2017,CZ041,Karlovarský kraj,M,50–59,false,16
+2017,CZ041,Karlovarský kraj,Z,50–59,true,22
+2017,CZ041,Karlovarský kraj,M,50–59,true,10
+2017,CZ041,Karlovarský kraj,Z,50–59,false,23
+2017,CZ042,Ústecký kraj,M,50–59,false,72
+2017,CZ042,Ústecký kraj,Z,50–59,false,46
+2017,CZ042,Ústecký kraj,Z,50–59,true,68
+2017,CZ042,Ústecký kraj,M,50–59,true,30
+2017,CZ051,Liberecký kraj,Z,50–59,false,42
+2017,CZ051,Liberecký kraj,M,50–59,false,49
+2017,CZ051,Liberecký kraj,Z,50–59,true,30
+2017,CZ051,Liberecký kraj,M,50–59,true,22
+2017,CZ052,Královéhradecký kraj,Z,50–59,true,47
+2017,CZ052,Královéhradecký kraj,M,50–59,true,34
+2017,CZ052,Královéhradecký kraj,Z,50–59,false,28
+2017,CZ052,Královéhradecký kraj,M,50–59,false,34
+2017,CZ053,Pardubický kraj,Z,50–59,false,28
+2017,CZ053,Pardubický kraj,Z,50–59,true,33
+2017,CZ053,Pardubický kraj,M,50–59,true,28
+2017,CZ053,Pardubický kraj,M,50–59,false,43
+2017,CZ063,Vysočina,M,50–59,false,46
+2017,CZ063,Vysočina,Z,50–59,false,28
+2017,CZ063,Vysočina,M,50–59,true,31
+2017,CZ063,Vysočina,Z,50–59,true,34
+2017,CZ064,Jihomoravský kraj,M,50–59,true,58
+2017,CZ064,Jihomoravský kraj,Z,50–59,true,96
+2017,CZ064,Jihomoravský kraj,M,50–59,false,84
+2017,CZ064,Jihomoravský kraj,Z,50–59,false,79
+2017,CZ071,Olomoucký kraj,M,50–59,false,69
+2017,CZ071,Olomoucký kraj,M,50–59,true,17
+2017,CZ071,Olomoucký kraj,Z,50–59,true,47
+2017,CZ071,Olomoucký kraj,Z,50–59,false,45
+2017,CZ072,Zlínský kraj,M,50–59,true,23
+2017,CZ072,Zlínský kraj,Z,50–59,false,35
+2017,CZ072,Zlínský kraj,Z,50–59,true,35
+2017,CZ072,Zlínský kraj,M,50–59,false,53
+2017,CZ080,Moravskoslezský kraj,M,50–59,true,43
+2017,CZ080,Moravskoslezský kraj,M,50–59,false,185
+2017,CZ080,Moravskoslezský kraj,Z,50–59,false,116
+2017,CZ080,Moravskoslezský kraj,Z,50–59,true,65
+2017,CZ999,Neznámý,M,50–59,true,8
+2017,CZ999,Neznámý,Z,50–59,false,7
+2017,CZ999,Neznámý,M,50–59,false,18
+2017,CZ999,Neznámý,Z,50–59,true,8
+2017,CZ010,Hl. m. Praha,M,60–69,true,272
+2017,CZ010,Hl. m. Praha,M,60–69,false,249
+2017,CZ010,Hl. m. Praha,Z,60–69,false,189
+2017,CZ010,Hl. m. Praha,Z,60–69,true,335
+2017,CZ020,Středočeský kraj,Z,60–69,false,203
+2017,CZ020,Středočeský kraj,Z,60–69,true,355
+2017,CZ020,Středočeský kraj,M,60–69,true,322
+2017,CZ020,Středočeský kraj,M,60–69,false,280
+2017,CZ031,Jihočeský kraj,M,60–69,false,136
+2017,CZ031,Jihočeský kraj,M,60–69,true,110
+2017,CZ031,Jihočeský kraj,Z,60–69,false,98
+2017,CZ031,Jihočeský kraj,Z,60–69,true,133
+2017,CZ032,Plzeňský kraj,M,60–69,false,94
+2017,CZ032,Plzeňský kraj,M,60–69,true,95
+2017,CZ032,Plzeňský kraj,Z,60–69,false,64
+2017,CZ032,Plzeňský kraj,Z,60–69,true,141
+2017,CZ041,Karlovarský kraj,M,60–69,false,86
+2017,CZ041,Karlovarský kraj,M,60–69,true,82
+2017,CZ041,Karlovarský kraj,Z,60–69,false,48
+2017,CZ041,Karlovarský kraj,Z,60–69,true,78
+2017,CZ042,Ústecký kraj,M,60–69,true,248
+2017,CZ042,Ústecký kraj,Z,60–69,false,162
+2017,CZ042,Ústecký kraj,Z,60–69,true,249
+2017,CZ042,Ústecký kraj,M,60–69,false,209
+2017,CZ051,Liberecký kraj,M,60–69,true,88
+2017,CZ051,Liberecký kraj,Z,60–69,true,120
+2017,CZ051,Liberecký kraj,Z,60–69,false,86
+2017,CZ051,Liberecký kraj,M,60–69,false,108
+2017,CZ052,Královéhradecký kraj,M,60–69,false,124
+2017,CZ052,Královéhradecký kraj,Z,60–69,false,96
+2017,CZ052,Královéhradecký kraj,Z,60–69,true,162
+2017,CZ052,Královéhradecký kraj,M,60–69,true,163
+2017,CZ053,Pardubický kraj,Z,60–69,true,155
+2017,CZ053,Pardubický kraj,M,60–69,true,159
+2017,CZ053,Pardubický kraj,M,60–69,false,103
+2017,CZ053,Pardubický kraj,Z,60–69,false,91
+2017,CZ063,Vysočina,M,60–69,true,117
+2017,CZ063,Vysočina,Z,60–69,false,63
+2017,CZ063,Vysočina,Z,60–69,true,130
+2017,CZ063,Vysočina,M,60–69,false,109
+2017,CZ064,Jihomoravský kraj,M,60–69,true,258
+2017,CZ064,Jihomoravský kraj,M,60–69,false,248
+2017,CZ064,Jihomoravský kraj,Z,60–69,true,343
+2017,CZ064,Jihomoravský kraj,Z,60–69,false,171
+2017,CZ071,Olomoucký kraj,M,60–69,true,136
+2017,CZ071,Olomoucký kraj,Z,60–69,true,141
+2017,CZ071,Olomoucký kraj,M,60–69,false,179
+2017,CZ071,Olomoucký kraj,Z,60–69,false,128
+2017,CZ072,Zlínský kraj,M,60–69,false,150
+2017,CZ072,Zlínský kraj,Z,60–69,true,165
+2017,CZ072,Zlínský kraj,M,60–69,true,146
+2017,CZ072,Zlínský kraj,Z,60–69,false,94
+2017,CZ080,Moravskoslezský kraj,Z,60–69,false,317
+2017,CZ080,Moravskoslezský kraj,M,60–69,true,246
+2017,CZ080,Moravskoslezský kraj,M,60–69,false,501
+2017,CZ080,Moravskoslezský kraj,Z,60–69,true,304
+2017,CZ999,Neznámý,Z,60–69,true,48
+2017,CZ999,Neznámý,M,60–69,true,45
+2017,CZ999,Neznámý,M,60–69,false,111
+2017,CZ999,Neznámý,Z,60–69,false,50
+2017,CZ010,Hl. m. Praha,M,70–79,false,492
+2017,CZ010,Hl. m. Praha,M,70–79,true,901
+2017,CZ010,Hl. m. Praha,Z,70–79,false,588
+2017,CZ010,Hl. m. Praha,Z,70–79,true,1381
+2017,CZ020,Středočeský kraj,Z,70–79,true,1374
+2017,CZ020,Středočeský kraj,Z,70–79,false,692
+2017,CZ020,Středočeský kraj,M,70–79,false,566
+2017,CZ020,Středočeský kraj,M,70–79,true,838
+2017,CZ031,Jihočeský kraj,M,70–79,false,212
+2017,CZ031,Jihočeský kraj,Z,70–79,false,292
+2017,CZ031,Jihočeský kraj,M,70–79,true,381
+2017,CZ031,Jihočeský kraj,Z,70–79,true,693
+2017,CZ032,Plzeňský kraj,Z,70–79,true,628
+2017,CZ032,Plzeňský kraj,M,70–79,false,189
+2017,CZ032,Plzeňský kraj,M,70–79,true,351
+2017,CZ032,Plzeňský kraj,Z,70–79,false,234
+2017,CZ041,Karlovarský kraj,M,70–79,false,135
+2017,CZ041,Karlovarský kraj,Z,70–79,true,363
+2017,CZ041,Karlovarský kraj,M,70–79,true,191
+2017,CZ041,Karlovarský kraj,Z,70–79,false,145
+2017,CZ042,Ústecký kraj,Z,70–79,false,386
+2017,CZ042,Ústecký kraj,M,70–79,true,512
+2017,CZ042,Ústecký kraj,M,70–79,false,338
+2017,CZ042,Ústecký kraj,Z,70–79,true,959
+2017,CZ051,Liberecký kraj,M,70–79,true,253
+2017,CZ051,Liberecký kraj,Z,70–79,false,238
+2017,CZ051,Liberecký kraj,Z,70–79,true,409
+2017,CZ051,Liberecký kraj,M,70–79,false,231
+2017,CZ052,Královéhradecký kraj,Z,70–79,false,248
+2017,CZ052,Královéhradecký kraj,Z,70–79,true,711
+2017,CZ052,Královéhradecký kraj,M,70–79,false,216
+2017,CZ052,Královéhradecký kraj,M,70–79,true,423
+2017,CZ053,Pardubický kraj,Z,70–79,false,193
+2017,CZ053,Pardubický kraj,Z,70–79,true,749
+2017,CZ053,Pardubický kraj,M,70–79,false,161
+2017,CZ053,Pardubický kraj,M,70–79,true,438
+2017,CZ063,Vysočina,M,70–79,true,411
+2017,CZ063,Vysočina,Z,70–79,false,230
+2017,CZ063,Vysočina,Z,70–79,true,712
+2017,CZ063,Vysočina,M,70–79,false,202
+2017,CZ064,Jihomoravský kraj,M,70–79,true,846
+2017,CZ064,Jihomoravský kraj,M,70–79,false,533
+2017,CZ064,Jihomoravský kraj,Z,70–79,false,601
+2017,CZ064,Jihomoravský kraj,Z,70–79,true,1393
+2017,CZ071,Olomoucký kraj,Z,70–79,false,334
+2017,CZ071,Olomoucký kraj,M,70–79,true,401
+2017,CZ071,Olomoucký kraj,Z,70–79,true,785
+2017,CZ071,Olomoucký kraj,M,70–79,false,282
+2017,CZ072,Zlínský kraj,M,70–79,false,283
+2017,CZ072,Zlínský kraj,M,70–79,true,465
+2017,CZ072,Zlínský kraj,Z,70–79,false,288
+2017,CZ072,Zlínský kraj,Z,70–79,true,714
+2017,CZ080,Moravskoslezský kraj,Z,70–79,false,1019
+2017,CZ080,Moravskoslezský kraj,Z,70–79,true,1306
+2017,CZ080,Moravskoslezský kraj,M,70–79,false,814
+2017,CZ080,Moravskoslezský kraj,M,70–79,true,672
+2017,CZ999,Neznámý,Z,70–79,false,189
+2017,CZ999,Neznámý,Z,70–79,true,308
+2017,CZ999,Neznámý,M,70–79,false,206
+2017,CZ999,Neznámý,M,70–79,true,239
+2017,CZ010,Hl. m. Praha,M,80–89,true,1119
+2017,CZ010,Hl. m. Praha,Z,80–89,true,2497
+2017,CZ010,Hl. m. Praha,M,80–89,false,572
+2017,CZ010,Hl. m. Praha,Z,80–89,false,1479
+2017,CZ020,Středočeský kraj,Z,80–89,true,2180
+2017,CZ020,Středočeský kraj,M,80–89,true,797
+2017,CZ020,Středočeský kraj,M,80–89,false,570
+2017,CZ020,Středočeský kraj,Z,80–89,false,1429
+2017,CZ031,Jihočeský kraj,M,80–89,true,422
+2017,CZ031,Jihočeský kraj,M,80–89,false,311
+2017,CZ031,Jihočeský kraj,Z,80–89,true,1186
+2017,CZ031,Jihočeský kraj,Z,80–89,false,687
+2017,CZ032,Plzeňský kraj,M,80–89,true,403
+2017,CZ032,Plzeňský kraj,M,80–89,false,235
+2017,CZ032,Plzeňský kraj,Z,80–89,false,568
+2017,CZ032,Plzeňský kraj,Z,80–89,true,1037
+2017,CZ041,Karlovarský kraj,M,80–89,true,188
+2017,CZ041,Karlovarský kraj,Z,80–89,true,494
+2017,CZ041,Karlovarský kraj,M,80–89,false,117
+2017,CZ041,Karlovarský kraj,Z,80–89,false,310
+2017,CZ042,Ústecký kraj,Z,80–89,false,734
+2017,CZ042,Ústecký kraj,Z,80–89,true,1306
+2017,CZ042,Ústecký kraj,M,80–89,false,300
+2017,CZ042,Ústecký kraj,M,80–89,true,435
+2017,CZ051,Liberecký kraj,M,80–89,false,180
+2017,CZ051,Liberecký kraj,Z,80–89,true,589
+2017,CZ051,Liberecký kraj,M,80–89,true,268
+2017,CZ051,Liberecký kraj,Z,80–89,false,413
+2017,CZ052,Královéhradecký kraj,M,80–89,false,306
+2017,CZ052,Královéhradecký kraj,Z,80–89,false,607
+2017,CZ052,Královéhradecký kraj,M,80–89,true,447
+2017,CZ052,Královéhradecký kraj,Z,80–89,true,1109
+2017,CZ053,Pardubický kraj,Z,80–89,false,479
+2017,CZ053,Pardubický kraj,M,80–89,false,179
+2017,CZ053,Pardubický kraj,M,80–89,true,588
+2017,CZ053,Pardubický kraj,Z,80–89,true,1388
+2017,CZ063,Vysočina,Z,80–89,true,1308
+2017,CZ063,Vysočina,Z,80–89,false,624
+2017,CZ063,Vysočina,M,80–89,false,284
+2017,CZ063,Vysočina,M,80–89,true,458
+2017,CZ064,Jihomoravský kraj,Z,80–89,true,2314
+2017,CZ064,Jihomoravský kraj,M,80–89,false,618
+2017,CZ064,Jihomoravský kraj,M,80–89,true,936
+2017,CZ064,Jihomoravský kraj,Z,80–89,false,1412
+2017,CZ071,Olomoucký kraj,M,80–89,true,409
+2017,CZ071,Olomoucký kraj,Z,80–89,false,833
+2017,CZ071,Olomoucký kraj,M,80–89,false,333
+2017,CZ071,Olomoucký kraj,Z,80–89,true,1182
+2017,CZ072,Zlínský kraj,M,80–89,false,298
+2017,CZ072,Zlínský kraj,Z,80–89,true,1317
+2017,CZ072,Zlínský kraj,M,80–89,true,469
+2017,CZ072,Zlínský kraj,Z,80–89,false,832
+2017,CZ080,Moravskoslezský kraj,Z,80–89,true,1722
+2017,CZ080,Moravskoslezský kraj,M,80–89,true,604
+2017,CZ080,Moravskoslezský kraj,Z,80–89,false,2073
+2017,CZ080,Moravskoslezský kraj,M,80–89,false,784
+2017,CZ999,Neznámý,Z,80–89,false,580
+2017,CZ999,Neznámý,Z,80–89,true,803
+2017,CZ999,Neznámý,M,80–89,false,326
+2017,CZ999,Neznámý,M,80–89,true,362
+2017,CZ010,Hl. m. Praha,Z,90+,true,895
+2017,CZ010,Hl. m. Praha,M,90+,false,262
+2017,CZ010,Hl. m. Praha,M,90+,true,259
+2017,CZ010,Hl. m. Praha,Z,90+,false,1139
+2017,CZ020,Středočeský kraj,Z,90+,true,557
+2017,CZ020,Středočeský kraj,Z,90+,false,714
+2017,CZ020,Středočeský kraj,M,90+,false,184
+2017,CZ020,Středočeský kraj,M,90+,true,139
+2017,CZ031,Jihočeský kraj,M,90+,false,90
+2017,CZ031,Jihočeský kraj,M,90+,true,62
+2017,CZ031,Jihočeský kraj,Z,90+,false,344
+2017,CZ031,Jihočeský kraj,Z,90+,true,297
+2017,CZ032,Plzeňský kraj,Z,90+,false,302
+2017,CZ032,Plzeňský kraj,M,90+,false,67
+2017,CZ032,Plzeňský kraj,M,90+,true,58
+2017,CZ032,Plzeňský kraj,Z,90+,true,251
+2017,CZ041,Karlovarský kraj,M,90+,false,35
+2017,CZ041,Karlovarský kraj,M,90+,true,30
+2017,CZ041,Karlovarský kraj,Z,90+,false,137
+2017,CZ041,Karlovarský kraj,Z,90+,true,111
+2017,CZ042,Ústecký kraj,M,90+,false,85
+2017,CZ042,Ústecký kraj,M,90+,true,73
+2017,CZ042,Ústecký kraj,Z,90+,false,411
+2017,CZ042,Ústecký kraj,Z,90+,true,375
+2017,CZ051,Liberecký kraj,Z,90+,false,199
+2017,CZ051,Liberecký kraj,Z,90+,true,203
+2017,CZ051,Liberecký kraj,M,90+,false,45
+2017,CZ051,Liberecký kraj,M,90+,true,32
+2017,CZ052,Královéhradecký kraj,M,90+,true,83
+2017,CZ052,Královéhradecký kraj,M,90+,false,88
+2017,CZ052,Královéhradecký kraj,Z,90+,true,271
+2017,CZ052,Královéhradecký kraj,Z,90+,false,334
+2017,CZ053,Pardubický kraj,M,90+,false,42
+2017,CZ053,Pardubický kraj,Z,90+,true,378
+2017,CZ053,Pardubický kraj,M,90+,true,103
+2017,CZ053,Pardubický kraj,Z,90+,false,207
+2017,CZ063,Vysočina,Z,90+,false,308
+2017,CZ063,Vysočina,M,90+,false,81
+2017,CZ063,Vysočina,M,90+,true,65
+2017,CZ063,Vysočina,Z,90+,true,329
+2017,CZ064,Jihomoravský kraj,M,90+,false,175
+2017,CZ064,Jihomoravský kraj,M,90+,true,140
+2017,CZ064,Jihomoravský kraj,Z,90+,false,791
+2017,CZ064,Jihomoravský kraj,Z,90+,true,585
+2017,CZ071,Olomoucký kraj,M,90+,false,108
+2017,CZ071,Olomoucký kraj,M,90+,true,72
+2017,CZ071,Olomoucký kraj,Z,90+,true,271
+2017,CZ071,Olomoucký kraj,Z,90+,false,458
+2017,CZ072,Zlínský kraj,M,90+,false,99
+2017,CZ072,Zlínský kraj,M,90+,true,64
+2017,CZ072,Zlínský kraj,Z,90+,false,351
+2017,CZ072,Zlínský kraj,Z,90+,true,324
+2017,CZ080,Moravskoslezský kraj,Z,90+,false,1025
+2017,CZ080,Moravskoslezský kraj,Z,90+,true,362
+2017,CZ080,Moravskoslezský kraj,M,90+,false,177
+2017,CZ080,Moravskoslezský kraj,M,90+,true,93
+2017,CZ999,Neznámý,M,90+,true,90
+2017,CZ999,Neznámý,Z,90+,true,298
+2017,CZ999,Neznámý,M,90+,false,122
+2017,CZ999,Neznámý,Z,90+,false,406
+2018,CZ010,Hl. m. Praha,M,50–59,false,60
+2018,CZ010,Hl. m. Praha,Z,50–59,false,57
+2018,CZ010,Hl. m. Praha,M,50–59,true,51
+2018,CZ010,Hl. m. Praha,Z,50–59,true,59
+2018,CZ020,Středočeský kraj,Z,50–59,false,56
+2018,CZ020,Středočeský kraj,M,50–59,true,60
+2018,CZ020,Středočeský kraj,Z,50–59,true,88
+2018,CZ020,Středočeský kraj,M,50–59,false,99
+2018,CZ031,Jihočeský kraj,M,50–59,false,38
+2018,CZ031,Jihočeský kraj,Z,50–59,false,37
+2018,CZ031,Jihočeský kraj,M,50–59,true,35
+2018,CZ031,Jihočeský kraj,Z,50–59,true,39
+2018,CZ032,Plzeňský kraj,Z,50–59,false,22
+2018,CZ032,Plzeňský kraj,M,50–59,true,17
+2018,CZ032,Plzeňský kraj,Z,50–59,true,38
+2018,CZ032,Plzeňský kraj,M,50–59,false,33
+2018,CZ041,Karlovarský kraj,M,50–59,false,21
+2018,CZ041,Karlovarský kraj,M,50–59,true,11
+2018,CZ041,Karlovarský kraj,Z,50–59,false,24
+2018,CZ041,Karlovarský kraj,Z,50–59,true,24
+2018,CZ042,Ústecký kraj,M,50–59,true,31
+2018,CZ042,Ústecký kraj,M,50–59,false,59
+2018,CZ042,Ústecký kraj,Z,50–59,false,49
+2018,CZ042,Ústecký kraj,Z,50–59,true,50
+2018,CZ051,Liberecký kraj,Z,50–59,true,33
+2018,CZ051,Liberecký kraj,Z,50–59,false,38
+2018,CZ051,Liberecký kraj,M,50–59,false,34
+2018,CZ051,Liberecký kraj,M,50–59,true,22
+2018,CZ052,Královéhradecký kraj,Z,50–59,false,33
+2018,CZ052,Královéhradecký kraj,M,50–59,true,32
+2018,CZ052,Královéhradecký kraj,Z,50–59,true,42
+2018,CZ052,Královéhradecký kraj,M,50–59,false,29
+2018,CZ053,Pardubický kraj,Z,50–59,false,33
+2018,CZ053,Pardubický kraj,Z,50–59,true,47
+2018,CZ053,Pardubický kraj,M,50–59,true,37
+2018,CZ053,Pardubický kraj,M,50–59,false,47
+2018,CZ063,Vysočina,M,50–59,false,44
+2018,CZ063,Vysočina,M,50–59,true,25
+2018,CZ063,Vysočina,Z,50–59,false,27
+2018,CZ063,Vysočina,Z,50–59,true,35
+2018,CZ064,Jihomoravský kraj,Z,50–59,true,93
+2018,CZ064,Jihomoravský kraj,M,50–59,true,60
+2018,CZ064,Jihomoravský kraj,Z,50–59,false,76
+2018,CZ064,Jihomoravský kraj,M,50–59,false,88
+2018,CZ071,Olomoucký kraj,M,50–59,false,56
+2018,CZ071,Olomoucký kraj,M,50–59,true,17
+2018,CZ071,Olomoucký kraj,Z,50–59,true,43
+2018,CZ071,Olomoucký kraj,Z,50–59,false,42
+2018,CZ072,Zlínský kraj,M,50–59,true,21
+2018,CZ072,Zlínský kraj,M,50–59,false,54
+2018,CZ072,Zlínský kraj,Z,50–59,false,32
+2018,CZ072,Zlínský kraj,Z,50–59,true,30
+2018,CZ080,Moravskoslezský kraj,Z,50–59,true,57
+2018,CZ080,Moravskoslezský kraj,Z,50–59,false,116
+2018,CZ080,Moravskoslezský kraj,M,50–59,false,172
+2018,CZ080,Moravskoslezský kraj,M,50–59,true,48
+2018,CZ999,Neznámý,Z,50–59,true,4
+2018,CZ999,Neznámý,M,50–59,false,19
+2018,CZ999,Neznámý,M,50–59,true,7
+2018,CZ999,Neznámý,Z,50–59,false,10
+2018,CZ010,Hl. m. Praha,M,60–69,true,274
+2018,CZ010,Hl. m. Praha,Z,60–69,true,302
+2018,CZ010,Hl. m. Praha,M,60–69,false,229
+2018,CZ010,Hl. m. Praha,Z,60–69,false,201
+2018,CZ020,Středočeský kraj,M,60–69,false,285
+2018,CZ020,Středočeský kraj,Z,60–69,false,215
+2018,CZ020,Středočeský kraj,Z,60–69,true,332
+2018,CZ020,Středočeský kraj,M,60–69,true,278
+2018,CZ031,Jihočeský kraj,M,60–69,false,138
+2018,CZ031,Jihočeský kraj,M,60–69,true,123
+2018,CZ031,Jihočeský kraj,Z,60–69,false,95
+2018,CZ031,Jihočeský kraj,Z,60–69,true,129
+2018,CZ032,Plzeňský kraj,M,60–69,false,114
+2018,CZ032,Plzeňský kraj,M,60–69,true,113
+2018,CZ032,Plzeňský kraj,Z,60–69,false,70
+2018,CZ032,Plzeňský kraj,Z,60–69,true,135
+2018,CZ041,Karlovarský kraj,M,60–69,true,70
+2018,CZ041,Karlovarský kraj,M,60–69,false,67
+2018,CZ041,Karlovarský kraj,Z,60–69,false,48
+2018,CZ041,Karlovarský kraj,Z,60–69,true,72
+2018,CZ042,Ústecký kraj,Z,60–69,true,229
+2018,CZ042,Ústecký kraj,Z,60–69,false,151
+2018,CZ042,Ústecký kraj,M,60–69,false,179
+2018,CZ042,Ústecký kraj,M,60–69,true,235
+2018,CZ051,Liberecký kraj,Z,60–69,true,105
+2018,CZ051,Liberecký kraj,M,60–69,false,104
+2018,CZ051,Liberecký kraj,Z,60–69,false,73
+2018,CZ051,Liberecký kraj,M,60–69,true,79
+2018,CZ052,Královéhradecký kraj,Z,60–69,false,103
+2018,CZ052,Královéhradecký kraj,M,60–69,false,138
+2018,CZ052,Královéhradecký kraj,M,60–69,true,152
+2018,CZ052,Královéhradecký kraj,Z,60–69,true,147
+2018,CZ053,Pardubický kraj,Z,60–69,false,93
+2018,CZ053,Pardubický kraj,Z,60–69,true,150
+2018,CZ053,Pardubický kraj,M,60–69,false,108
+2018,CZ053,Pardubický kraj,M,60–69,true,140
+2018,CZ063,Vysočina,M,60–69,true,103
+2018,CZ063,Vysočina,Z,60–69,true,143
+2018,CZ063,Vysočina,M,60–69,false,96
+2018,CZ063,Vysočina,Z,60–69,false,50
+2018,CZ064,Jihomoravský kraj,Z,60–69,false,185
+2018,CZ064,Jihomoravský kraj,Z,60–69,true,342
+2018,CZ064,Jihomoravský kraj,M,60–69,true,268
+2018,CZ064,Jihomoravský kraj,M,60–69,false,255
+2018,CZ071,Olomoucký kraj,M,60–69,true,148
+2018,CZ071,Olomoucký kraj,M,60–69,false,186
+2018,CZ071,Olomoucký kraj,Z,60–69,true,132
+2018,CZ071,Olomoucký kraj,Z,60–69,false,127
+2018,CZ072,Zlínský kraj,M,60–69,true,133
+2018,CZ072,Zlínský kraj,Z,60–69,false,97
+2018,CZ072,Zlínský kraj,M,60–69,false,165
+2018,CZ072,Zlínský kraj,Z,60–69,true,162
+2018,CZ080,Moravskoslezský kraj,Z,60–69,true,300
+2018,CZ080,Moravskoslezský kraj,M,60–69,true,244
+2018,CZ080,Moravskoslezský kraj,Z,60–69,false,324
+2018,CZ080,Moravskoslezský kraj,M,60–69,false,500
+2018,CZ999,Neznámý,M,60–69,false,82
+2018,CZ999,Neznámý,Z,60–69,false,34
+2018,CZ999,Neznámý,Z,60–69,true,24
+2018,CZ999,Neznámý,M,60–69,true,40
+2018,CZ010,Hl. m. Praha,Z,70–79,true,1482
+2018,CZ010,Hl. m. Praha,M,70–79,false,483
+2018,CZ010,Hl. m. Praha,Z,70–79,false,546
+2018,CZ010,Hl. m. Praha,M,70–79,true,970
+2018,CZ020,Středočeský kraj,Z,70–79,true,1538
+2018,CZ020,Středočeský kraj,M,70–79,true,944
+2018,CZ020,Středočeský kraj,Z,70–79,false,667
+2018,CZ020,Středočeský kraj,M,70–79,false,575
+2018,CZ031,Jihočeský kraj,M,70–79,true,415
+2018,CZ031,Jihočeský kraj,M,70–79,false,260
+2018,CZ031,Jihočeský kraj,Z,70–79,false,268
+2018,CZ031,Jihočeský kraj,Z,70–79,true,755
+2018,CZ032,Plzeňský kraj,M,70–79,false,215
+2018,CZ032,Plzeňský kraj,M,70–79,true,397
+2018,CZ032,Plzeňský kraj,Z,70–79,false,275
+2018,CZ032,Plzeňský kraj,Z,70–79,true,663
+2018,CZ041,Karlovarský kraj,M,70–79,false,146
+2018,CZ041,Karlovarský kraj,Z,70–79,false,154
+2018,CZ041,Karlovarský kraj,M,70–79,true,222
+2018,CZ041,Karlovarský kraj,Z,70–79,true,384
+2018,CZ042,Ústecký kraj,M,70–79,false,345
+2018,CZ042,Ústecký kraj,Z,70–79,false,420
+2018,CZ042,Ústecký kraj,M,70–79,true,569
+2018,CZ042,Ústecký kraj,Z,70–79,true,1009
+2018,CZ051,Liberecký kraj,Z,70–79,true,434
+2018,CZ051,Liberecký kraj,M,70–79,true,288
+2018,CZ051,Liberecký kraj,Z,70–79,false,224
+2018,CZ051,Liberecký kraj,M,70–79,false,233
+2018,CZ052,Královéhradecký kraj,Z,70–79,false,275
+2018,CZ052,Královéhradecký kraj,M,70–79,true,492
+2018,CZ052,Královéhradecký kraj,M,70–79,false,267
+2018,CZ052,Královéhradecký kraj,Z,70–79,true,764
+2018,CZ053,Pardubický kraj,M,70–79,true,469
+2018,CZ053,Pardubický kraj,Z,70–79,false,239
+2018,CZ053,Pardubický kraj,Z,70–79,true,787
+2018,CZ053,Pardubický kraj,M,70–79,false,207
+2018,CZ063,Vysočina,M,70–79,false,204
+2018,CZ063,Vysočina,Z,70–79,false,245
+2018,CZ063,Vysočina,M,70–79,true,443
+2018,CZ063,Vysočina,Z,70–79,true,742
+2018,CZ064,Jihomoravský kraj,Z,70–79,true,1507
+2018,CZ064,Jihomoravský kraj,Z,70–79,false,621
+2018,CZ064,Jihomoravský kraj,M,70–79,true,884
+2018,CZ064,Jihomoravský kraj,M,70–79,false,557
+2018,CZ071,Olomoucký kraj,M,70–79,false,315
+2018,CZ071,Olomoucký kraj,M,70–79,true,465
+2018,CZ071,Olomoucký kraj,Z,70–79,false,349
+2018,CZ071,Olomoucký kraj,Z,70–79,true,852
+2018,CZ072,Zlínský kraj,M,70–79,false,321
+2018,CZ072,Zlínský kraj,M,70–79,true,504
+2018,CZ072,Zlínský kraj,Z,70–79,false,289
+2018,CZ072,Zlínský kraj,Z,70–79,true,763
+2018,CZ080,Moravskoslezský kraj,M,70–79,true,748
+2018,CZ080,Moravskoslezský kraj,M,70–79,false,868
+2018,CZ080,Moravskoslezský kraj,Z,70–79,false,1081
+2018,CZ080,Moravskoslezský kraj,Z,70–79,true,1346
+2018,CZ999,Neznámý,Z,70–79,true,224
+2018,CZ999,Neznámý,M,70–79,false,175
+2018,CZ999,Neznámý,Z,70–79,false,151
+2018,CZ999,Neznámý,M,70–79,true,165
+2018,CZ010,Hl. m. Praha,M,80–89,true,1157
+2018,CZ010,Hl. m. Praha,M,80–89,false,600
+2018,CZ010,Hl. m. Praha,Z,80–89,false,1302
+2018,CZ010,Hl. m. Praha,Z,80–89,true,2535
+2018,CZ020,Středočeský kraj,Z,80–89,true,2281
+2018,CZ020,Středočeský kraj,Z,80–89,false,1479
+2018,CZ020,Středočeský kraj,M,80–89,true,828
+2018,CZ020,Středočeský kraj,M,80–89,false,618
+2018,CZ031,Jihočeský kraj,M,80–89,false,324
+2018,CZ031,Jihočeský kraj,M,80–89,true,467
+2018,CZ031,Jihočeský kraj,Z,80–89,false,754
+2018,CZ031,Jihočeský kraj,Z,80–89,true,1264
+2018,CZ032,Plzeňský kraj,M,80–89,true,416
+2018,CZ032,Plzeňský kraj,Z,80–89,false,565
+2018,CZ032,Plzeňský kraj,Z,80–89,true,1073
+2018,CZ032,Plzeňský kraj,M,80–89,false,256
+2018,CZ041,Karlovarský kraj,M,80–89,true,191
+2018,CZ041,Karlovarský kraj,M,80–89,false,128
+2018,CZ041,Karlovarský kraj,Z,80–89,false,298
+2018,CZ041,Karlovarský kraj,Z,80–89,true,531
+2018,CZ042,Ústecký kraj,M,80–89,false,293
+2018,CZ042,Ústecký kraj,M,80–89,true,443
+2018,CZ042,Ústecký kraj,Z,80–89,false,731
+2018,CZ042,Ústecký kraj,Z,80–89,true,1326
+2018,CZ051,Liberecký kraj,M,80–89,true,277
+2018,CZ051,Liberecký kraj,Z,80–89,false,412
+2018,CZ051,Liberecký kraj,Z,80–89,true,628
+2018,CZ051,Liberecký kraj,M,80–89,false,178
+2018,CZ052,Královéhradecký kraj,M,80–89,true,500
+2018,CZ052,Královéhradecký kraj,Z,80–89,true,1107
+2018,CZ052,Královéhradecký kraj,M,80–89,false,296
+2018,CZ052,Královéhradecký kraj,Z,80–89,false,625
+2018,CZ053,Pardubický kraj,Z,80–89,true,1382
+2018,CZ053,Pardubický kraj,M,80–89,false,227
+2018,CZ053,Pardubický kraj,M,80–89,true,559
+2018,CZ053,Pardubický kraj,Z,80–89,false,488
+2018,CZ063,Vysočina,M,80–89,true,484
+2018,CZ063,Vysočina,M,80–89,false,252
+2018,CZ063,Vysočina,Z,80–89,true,1385
+2018,CZ063,Vysočina,Z,80–89,false,581
+2018,CZ064,Jihomoravský kraj,Z,80–89,true,2390
+2018,CZ064,Jihomoravský kraj,M,80–89,true,904
+2018,CZ064,Jihomoravský kraj,Z,80–89,false,1476
+2018,CZ064,Jihomoravský kraj,M,80–89,false,599
+2018,CZ071,Olomoucký kraj,M,80–89,true,443
+2018,CZ071,Olomoucký kraj,Z,80–89,false,819
+2018,CZ071,Olomoucký kraj,Z,80–89,true,1317
+2018,CZ071,Olomoucký kraj,M,80–89,false,333
+2018,CZ072,Zlínský kraj,M,80–89,true,525
+2018,CZ072,Zlínský kraj,Z,80–89,false,745
+2018,CZ072,Zlínský kraj,M,80–89,false,301
+2018,CZ072,Zlínský kraj,Z,80–89,true,1428
+2018,CZ080,Moravskoslezský kraj,Z,80–89,true,1775
+2018,CZ080,Moravskoslezský kraj,M,80–89,false,766
+2018,CZ080,Moravskoslezský kraj,M,80–89,true,708
+2018,CZ080,Moravskoslezský kraj,Z,80–89,false,2007
+2018,CZ999,Neznámý,M,80–89,true,268
+2018,CZ999,Neznámý,Z,80–89,false,477
+2018,CZ999,Neznámý,Z,80–89,true,577
+2018,CZ999,Neznámý,M,80–89,false,290
+2018,CZ010,Hl. m. Praha,M,90+,false,267
+2018,CZ010,Hl. m. Praha,M,90+,true,299
+2018,CZ010,Hl. m. Praha,Z,90+,false,1047
+2018,CZ010,Hl. m. Praha,Z,90+,true,1005
+2018,CZ020,Středočeský kraj,M,90+,false,224
+2018,CZ020,Středočeský kraj,M,90+,true,163
+2018,CZ020,Středočeský kraj,Z,90+,false,800
+2018,CZ020,Středočeský kraj,Z,90+,true,634
+2018,CZ031,Jihočeský kraj,M,90+,true,74
+2018,CZ031,Jihočeský kraj,M,90+,false,96
+2018,CZ031,Jihočeský kraj,Z,90+,false,410
+2018,CZ031,Jihočeský kraj,Z,90+,true,355
+2018,CZ032,Plzeňský kraj,M,90+,false,60
+2018,CZ032,Plzeňský kraj,M,90+,true,68
+2018,CZ032,Plzeňský kraj,Z,90+,false,310
+2018,CZ032,Plzeňský kraj,Z,90+,true,294
+2018,CZ041,Karlovarský kraj,Z,90+,true,128
+2018,CZ041,Karlovarský kraj,M,90+,false,32
+2018,CZ041,Karlovarský kraj,Z,90+,false,129
+2018,CZ041,Karlovarský kraj,M,90+,true,31
+2018,CZ042,Ústecký kraj,M,90+,true,63
+2018,CZ042,Ústecký kraj,Z,90+,false,388
+2018,CZ042,Ústecký kraj,M,90+,false,75
+2018,CZ042,Ústecký kraj,Z,90+,true,392
+2018,CZ051,Liberecký kraj,M,90+,true,42
+2018,CZ051,Liberecký kraj,M,90+,false,51
+2018,CZ051,Liberecký kraj,Z,90+,false,207
+2018,CZ051,Liberecký kraj,Z,90+,true,232
+2018,CZ052,Královéhradecký kraj,M,90+,false,98
+2018,CZ052,Královéhradecký kraj,M,90+,true,90
+2018,CZ052,Královéhradecký kraj,Z,90+,false,369
+2018,CZ052,Královéhradecký kraj,Z,90+,true,335
+2018,CZ053,Pardubický kraj,M,90+,true,116
+2018,CZ053,Pardubický kraj,M,90+,false,54
+2018,CZ053,Pardubický kraj,Z,90+,false,229
+2018,CZ053,Pardubický kraj,Z,90+,true,373
+2018,CZ063,Vysočina,Z,90+,false,333
+2018,CZ063,Vysočina,Z,90+,true,411
+2018,CZ063,Vysočina,M,90+,false,67
+2018,CZ063,Vysočina,M,90+,true,73
+2018,CZ064,Jihomoravský kraj,Z,90+,true,655
+2018,CZ064,Jihomoravský kraj,Z,90+,false,872
+2018,CZ064,Jihomoravský kraj,M,90+,false,185
+2018,CZ064,Jihomoravský kraj,M,90+,true,147
+2018,CZ071,Olomoucký kraj,Z,90+,false,465
+2018,CZ071,Olomoucký kraj,Z,90+,true,319
+2018,CZ071,Olomoucký kraj,M,90+,false,112
+2018,CZ071,Olomoucký kraj,M,90+,true,93
+2018,CZ072,Zlínský kraj,Z,90+,false,364
+2018,CZ072,Zlínský kraj,Z,90+,true,368
+2018,CZ072,Zlínský kraj,M,90+,false,83
+2018,CZ072,Zlínský kraj,M,90+,true,87
+2018,CZ080,Moravskoslezský kraj,Z,90+,false,1110
+2018,CZ080,Moravskoslezský kraj,M,90+,false,203
+2018,CZ080,Moravskoslezský kraj,M,90+,true,93
+2018,CZ080,Moravskoslezský kraj,Z,90+,true,400
+2018,CZ999,Neznámý,M,90+,false,98
+2018,CZ999,Neznámý,M,90+,true,54
+2018,CZ999,Neznámý,Z,90+,false,329
+2018,CZ999,Neznámý,Z,90+,true,222
+2019,CZ010,Hl. m. Praha,M,50–59,false,77
+2019,CZ010,Hl. m. Praha,Z,50–59,false,66
+2019,CZ010,Hl. m. Praha,M,50–59,true,40
+2019,CZ010,Hl. m. Praha,Z,50–59,true,66
+2019,CZ020,Středočeský kraj,Z,50–59,true,98
+2019,CZ020,Středočeský kraj,M,50–59,true,67
+2019,CZ020,Středočeský kraj,Z,50–59,false,65
+2019,CZ020,Středočeský kraj,M,50–59,false,112
+2019,CZ031,Jihočeský kraj,M,50–59,false,31
+2019,CZ031,Jihočeský kraj,M,50–59,true,31
+2019,CZ031,Jihočeský kraj,Z,50–59,false,30
+2019,CZ031,Jihočeský kraj,Z,50–59,true,44
+2019,CZ032,Plzeňský kraj,Z,50–59,false,20
+2019,CZ032,Plzeňský kraj,M,50–59,true,24
+2019,CZ032,Plzeňský kraj,Z,50–59,true,36
+2019,CZ032,Plzeňský kraj,M,50–59,false,24
+2019,CZ041,Karlovarský kraj,M,50–59,true,11
+2019,CZ041,Karlovarský kraj,M,50–59,false,19
+2019,CZ041,Karlovarský kraj,Z,50–59,false,24
+2019,CZ041,Karlovarský kraj,Z,50–59,true,29
+2019,CZ042,Ústecký kraj,Z,50–59,false,57
+2019,CZ042,Ústecký kraj,M,50–59,false,61
+2019,CZ042,Ústecký kraj,M,50–59,true,34
+2019,CZ042,Ústecký kraj,Z,50–59,true,49
+2019,CZ051,Liberecký kraj,M,50–59,true,24
+2019,CZ051,Liberecký kraj,Z,50–59,false,36
+2019,CZ051,Liberecký kraj,Z,50–59,true,33
+2019,CZ051,Liberecký kraj,M,50–59,false,44
+2019,CZ052,Královéhradecký kraj,Z,50–59,false,39
+2019,CZ052,Královéhradecký kraj,Z,50–59,true,39
+2019,CZ052,Královéhradecký kraj,M,50–59,true,34
+2019,CZ052,Královéhradecký kraj,M,50–59,false,35
+2019,CZ053,Pardubický kraj,M,50–59,true,37
+2019,CZ053,Pardubický kraj,Z,50–59,false,30
+2019,CZ053,Pardubický kraj,M,50–59,false,53
+2019,CZ053,Pardubický kraj,Z,50–59,true,31
+2019,CZ063,Vysočina,Z,50–59,false,31
+2019,CZ063,Vysočina,M,50–59,true,25
+2019,CZ063,Vysočina,M,50–59,false,32
+2019,CZ063,Vysočina,Z,50–59,true,30
+2019,CZ064,Jihomoravský kraj,M,50–59,true,57
+2019,CZ064,Jihomoravský kraj,Z,50–59,true,95
+2019,CZ064,Jihomoravský kraj,M,50–59,false,100
+2019,CZ064,Jihomoravský kraj,Z,50–59,false,79
+2019,CZ071,Olomoucký kraj,M,50–59,false,49
+2019,CZ071,Olomoucký kraj,M,50–59,true,22
+2019,CZ071,Olomoucký kraj,Z,50–59,false,45
+2019,CZ071,Olomoucký kraj,Z,50–59,true,35
+2019,CZ072,Zlínský kraj,M,50–59,false,49
+2019,CZ072,Zlínský kraj,M,50–59,true,18
+2019,CZ072,Zlínský kraj,Z,50–59,false,25
+2019,CZ072,Zlínský kraj,Z,50–59,true,33
+2019,CZ080,Moravskoslezský kraj,M,50–59,true,47
+2019,CZ080,Moravskoslezský kraj,M,50–59,false,175
+2019,CZ080,Moravskoslezský kraj,Z,50–59,false,102
+2019,CZ080,Moravskoslezský kraj,Z,50–59,true,62
+2019,CZ999,Neznámý,M,50–59,true,6
+2019,CZ999,Neznámý,Z,50–59,false,12
+2019,CZ999,Neznámý,Z,50–59,true,4
+2019,CZ999,Neznámý,M,50–59,false,23
+2019,CZ010,Hl. m. Praha,M,60–69,false,216
+2019,CZ010,Hl. m. Praha,M,60–69,true,260
+2019,CZ010,Hl. m. Praha,Z,60–69,false,176
+2019,CZ010,Hl. m. Praha,Z,60–69,true,265
+2019,CZ020,Středočeský kraj,Z,60–69,false,213
+2019,CZ020,Středočeský kraj,Z,60–69,true,329
+2019,CZ020,Středočeský kraj,M,60–69,false,316
+2019,CZ020,Středočeský kraj,M,60–69,true,291
+2019,CZ031,Jihočeský kraj,M,60–69,true,127
+2019,CZ031,Jihočeský kraj,Z,60–69,false,93
+2019,CZ031,Jihočeský kraj,M,60–69,false,139
+2019,CZ031,Jihočeský kraj,Z,60–69,true,142
+2019,CZ032,Plzeňský kraj,M,60–69,true,105
+2019,CZ032,Plzeňský kraj,M,60–69,false,106
+2019,CZ032,Plzeňský kraj,Z,60–69,false,83
+2019,CZ032,Plzeňský kraj,Z,60–69,true,128
+2019,CZ041,Karlovarský kraj,M,60–69,false,76
+2019,CZ041,Karlovarský kraj,Z,60–69,true,77
+2019,CZ041,Karlovarský kraj,M,60–69,true,67
+2019,CZ041,Karlovarský kraj,Z,60–69,false,46
+2019,CZ042,Ústecký kraj,Z,60–69,false,133
+2019,CZ042,Ústecký kraj,M,60–69,false,187
+2019,CZ042,Ústecký kraj,M,60–69,true,208
+2019,CZ042,Ústecký kraj,Z,60–69,true,210
+2019,CZ051,Liberecký kraj,M,60–69,true,80
+2019,CZ051,Liberecký kraj,Z,60–69,true,105
+2019,CZ051,Liberecký kraj,M,60–69,false,128
+2019,CZ051,Liberecký kraj,Z,60–69,false,81
+2019,CZ052,Královéhradecký kraj,Z,60–69,true,143
+2019,CZ052,Královéhradecký kraj,Z,60–69,false,117
+2019,CZ052,Královéhradecký kraj,M,60–69,false,120
+2019,CZ052,Královéhradecký kraj,M,60–69,true,159
+2019,CZ053,Pardubický kraj,M,60–69,false,120
+2019,CZ053,Pardubický kraj,Z,60–69,true,134
+2019,CZ053,Pardubický kraj,M,60–69,true,138
+2019,CZ053,Pardubický kraj,Z,60–69,false,76
+2019,CZ063,Vysočina,M,60–69,false,96
+2019,CZ063,Vysočina,Z,60–69,true,139
+2019,CZ063,Vysočina,M,60–69,true,112
+2019,CZ063,Vysočina,Z,60–69,false,49
+2019,CZ064,Jihomoravský kraj,M,60–69,true,287
+2019,CZ064,Jihomoravský kraj,M,60–69,false,247
+2019,CZ064,Jihomoravský kraj,Z,60–69,false,196
+2019,CZ064,Jihomoravský kraj,Z,60–69,true,345
+2019,CZ071,Olomoucký kraj,M,60–69,false,163
+2019,CZ071,Olomoucký kraj,Z,60–69,true,149
+2019,CZ071,Olomoucký kraj,M,60–69,true,149
+2019,CZ071,Olomoucký kraj,Z,60–69,false,131
+2019,CZ072,Zlínský kraj,M,60–69,false,169
+2019,CZ072,Zlínský kraj,Z,60–69,false,89
+2019,CZ072,Zlínský kraj,M,60–69,true,132
+2019,CZ072,Zlínský kraj,Z,60–69,true,156
+2019,CZ080,Moravskoslezský kraj,M,60–69,true,253
+2019,CZ080,Moravskoslezský kraj,Z,60–69,false,312
+2019,CZ080,Moravskoslezský kraj,Z,60–69,true,285
+2019,CZ080,Moravskoslezský kraj,M,60–69,false,464
+2019,CZ999,Neznámý,M,60–69,false,71
+2019,CZ999,Neznámý,Z,60–69,true,26
+2019,CZ999,Neznámý,M,60–69,true,34
+2019,CZ999,Neznámý,Z,60–69,false,33
+2019,CZ010,Hl. m. Praha,Z,70–79,true,1583
+2019,CZ010,Hl. m. Praha,M,70–79,false,526
+2019,CZ010,Hl. m. Praha,M,70–79,true,1079
+2019,CZ010,Hl. m. Praha,Z,70–79,false,567
+2019,CZ020,Středočeský kraj,Z,70–79,true,1664
+2019,CZ020,Středočeský kraj,M,70–79,false,633
+2019,CZ020,Středočeský kraj,M,70–79,true,991
+2019,CZ020,Středočeský kraj,Z,70–79,false,725
+2019,CZ031,Jihočeský kraj,Z,70–79,true,782
+2019,CZ031,Jihočeský kraj,Z,70–79,false,325
+2019,CZ031,Jihočeský kraj,M,70–79,true,458
+2019,CZ031,Jihočeský kraj,M,70–79,false,281
+2019,CZ032,Plzeňský kraj,M,70–79,true,410
+2019,CZ032,Plzeňský kraj,M,70–79,false,241
+2019,CZ032,Plzeňský kraj,Z,70–79,true,662
+2019,CZ032,Plzeňský kraj,Z,70–79,false,303
+2019,CZ041,Karlovarský kraj,Z,70–79,true,380
+2019,CZ041,Karlovarský kraj,M,70–79,false,144
+2019,CZ041,Karlovarský kraj,M,70–79,true,206
+2019,CZ041,Karlovarský kraj,Z,70–79,false,168
+2019,CZ042,Ústecký kraj,M,70–79,true,609
+2019,CZ042,Ústecký kraj,Z,70–79,true,1055
+2019,CZ042,Ústecký kraj,M,70–79,false,355
+2019,CZ042,Ústecký kraj,Z,70–79,false,446
+2019,CZ051,Liberecký kraj,Z,70–79,false,258
+2019,CZ051,Liberecký kraj,Z,70–79,true,472
+2019,CZ051,Liberecký kraj,M,70–79,false,241
+2019,CZ051,Liberecký kraj,M,70–79,true,300
+2019,CZ052,Královéhradecký kraj,M,70–79,true,522
+2019,CZ052,Královéhradecký kraj,Z,70–79,false,294
+2019,CZ052,Královéhradecký kraj,M,70–79,false,267
+2019,CZ052,Královéhradecký kraj,Z,70–79,true,830
+2019,CZ053,Pardubický kraj,Z,70–79,true,820
+2019,CZ053,Pardubický kraj,M,70–79,true,478
+2019,CZ053,Pardubický kraj,M,70–79,false,250
+2019,CZ053,Pardubický kraj,Z,70–79,false,238
+2019,CZ063,Vysočina,M,70–79,false,202
+2019,CZ063,Vysočina,Z,70–79,false,218
+2019,CZ063,Vysočina,M,70–79,true,462
+2019,CZ063,Vysočina,Z,70–79,true,788
+2019,CZ064,Jihomoravský kraj,Z,70–79,true,1606
+2019,CZ064,Jihomoravský kraj,M,70–79,false,558
+2019,CZ064,Jihomoravský kraj,Z,70–79,false,682
+2019,CZ064,Jihomoravský kraj,M,70–79,true,907
+2019,CZ071,Olomoucký kraj,Z,70–79,false,389
+2019,CZ071,Olomoucký kraj,Z,70–79,true,938
+2019,CZ071,Olomoucký kraj,M,70–79,false,312
+2019,CZ071,Olomoucký kraj,M,70–79,true,532
+2019,CZ072,Zlínský kraj,M,70–79,true,519
+2019,CZ072,Zlínský kraj,Z,70–79,false,310
+2019,CZ072,Zlínský kraj,M,70–79,false,324
+2019,CZ072,Zlínský kraj,Z,70–79,true,791
+2019,CZ080,Moravskoslezský kraj,Z,70–79,false,1084
+2019,CZ080,Moravskoslezský kraj,M,70–79,true,810
+2019,CZ080,Moravskoslezský kraj,Z,70–79,true,1428
+2019,CZ080,Moravskoslezský kraj,M,70–79,false,861
+2019,CZ999,Neznámý,M,70–79,true,125
+2019,CZ999,Neznámý,M,70–79,false,158
+2019,CZ999,Neznámý,Z,70–79,true,169
+2019,CZ999,Neznámý,Z,70–79,false,133
+2019,CZ010,Hl. m. Praha,M,80–89,false,585
+2019,CZ010,Hl. m. Praha,M,80–89,true,1167
+2019,CZ010,Hl. m. Praha,Z,80–89,true,2503
+2019,CZ010,Hl. m. Praha,Z,80–89,false,1339
+2019,CZ020,Středočeský kraj,M,80–89,false,667
+2019,CZ020,Středočeský kraj,Z,80–89,true,2381
+2019,CZ020,Středočeský kraj,M,80–89,true,884
+2019,CZ020,Středočeský kraj,Z,80–89,false,1515
+2019,CZ031,Jihočeský kraj,Z,80–89,true,1325
+2019,CZ031,Jihočeský kraj,Z,80–89,false,750
+2019,CZ031,Jihočeský kraj,M,80–89,false,350
+2019,CZ031,Jihočeský kraj,M,80–89,true,467
+2019,CZ032,Plzeňský kraj,M,80–89,false,269
+2019,CZ032,Plzeňský kraj,M,80–89,true,432
+2019,CZ032,Plzeňský kraj,Z,80–89,true,1109
+2019,CZ032,Plzeňský kraj,Z,80–89,false,594
+2019,CZ041,Karlovarský kraj,Z,80–89,true,562
+2019,CZ041,Karlovarský kraj,M,80–89,true,202
+2019,CZ041,Karlovarský kraj,Z,80–89,false,350
+2019,CZ041,Karlovarský kraj,M,80–89,false,157
+2019,CZ042,Ústecký kraj,Z,80–89,false,716
+2019,CZ042,Ústecký kraj,Z,80–89,true,1354
+2019,CZ042,Ústecký kraj,M,80–89,false,294
+2019,CZ042,Ústecký kraj,M,80–89,true,489
+2019,CZ051,Liberecký kraj,M,80–89,false,195
+2019,CZ051,Liberecký kraj,M,80–89,true,261
+2019,CZ051,Liberecký kraj,Z,80–89,false,435
+2019,CZ051,Liberecký kraj,Z,80–89,true,630
+2019,CZ052,Královéhradecký kraj,M,80–89,false,316
+2019,CZ052,Královéhradecký kraj,M,80–89,true,517
+2019,CZ052,Královéhradecký kraj,Z,80–89,false,677
+2019,CZ052,Královéhradecký kraj,Z,80–89,true,1192
+2019,CZ053,Pardubický kraj,M,80–89,true,599
+2019,CZ053,Pardubický kraj,Z,80–89,true,1472
+2019,CZ053,Pardubický kraj,Z,80–89,false,512
+2019,CZ053,Pardubický kraj,M,80–89,false,211
+2019,CZ063,Vysočina,Z,80–89,true,1432
+2019,CZ063,Vysočina,Z,80–89,false,543
+2019,CZ063,Vysočina,M,80–89,false,258
+2019,CZ063,Vysočina,M,80–89,true,544
+2019,CZ064,Jihomoravský kraj,M,80–89,false,611
+2019,CZ064,Jihomoravský kraj,Z,80–89,false,1451
+2019,CZ064,Jihomoravský kraj,Z,80–89,true,2455
+2019,CZ064,Jihomoravský kraj,M,80–89,true,983
+2019,CZ071,Olomoucký kraj,Z,80–89,true,1357
+2019,CZ071,Olomoucký kraj,M,80–89,true,496
+2019,CZ071,Olomoucký kraj,Z,80–89,false,870
+2019,CZ071,Olomoucký kraj,M,80–89,false,319
+2019,CZ072,Zlínský kraj,Z,80–89,true,1533
+2019,CZ072,Zlínský kraj,Z,80–89,false,730
+2019,CZ072,Zlínský kraj,M,80–89,false,348
+2019,CZ072,Zlínský kraj,M,80–89,true,580
+2019,CZ080,Moravskoslezský kraj,M,80–89,true,773
+2019,CZ080,Moravskoslezský kraj,Z,80–89,false,1968
+2019,CZ080,Moravskoslezský kraj,Z,80–89,true,1866
+2019,CZ080,Moravskoslezský kraj,M,80–89,false,841
+2019,CZ999,Neznámý,M,80–89,false,234
+2019,CZ999,Neznámý,Z,80–89,false,367
+2019,CZ999,Neznámý,M,80–89,true,215
+2019,CZ999,Neznámý,Z,80–89,true,401
+2019,CZ010,Hl. m. Praha,Z,90+,false,1117
+2019,CZ010,Hl. m. Praha,Z,90+,true,1053
+2019,CZ010,Hl. m. Praha,M,90+,false,282
+2019,CZ010,Hl. m. Praha,M,90+,true,326
+2019,CZ020,Středočeský kraj,M,90+,true,184
+2019,CZ020,Středočeský kraj,Z,90+,false,863
+2019,CZ020,Středočeský kraj,M,90+,false,210
+2019,CZ020,Středočeský kraj,Z,90+,true,706
+2019,CZ031,Jihočeský kraj,Z,90+,true,384
+2019,CZ031,Jihočeský kraj,M,90+,false,111
+2019,CZ031,Jihočeský kraj,M,90+,true,89
+2019,CZ031,Jihočeský kraj,Z,90+,false,452
+2019,CZ032,Plzeňský kraj,Z,90+,false,332
+2019,CZ032,Plzeňský kraj,M,90+,true,86
+2019,CZ032,Plzeňský kraj,M,90+,false,82
+2019,CZ032,Plzeňský kraj,Z,90+,true,275
+2019,CZ041,Karlovarský kraj,Z,90+,false,145
+2019,CZ041,Karlovarský kraj,Z,90+,true,132
+2019,CZ041,Karlovarský kraj,M,90+,false,34
+2019,CZ041,Karlovarský kraj,M,90+,true,37
+2019,CZ042,Ústecký kraj,Z,90+,true,420
+2019,CZ042,Ústecký kraj,Z,90+,false,406
+2019,CZ042,Ústecký kraj,M,90+,true,72
+2019,CZ042,Ústecký kraj,M,90+,false,90
+2019,CZ051,Liberecký kraj,M,90+,true,55
+2019,CZ051,Liberecký kraj,Z,90+,true,222
+2019,CZ051,Liberecký kraj,Z,90+,false,231
+2019,CZ051,Liberecký kraj,M,90+,false,51
+2019,CZ052,Královéhradecký kraj,M,90+,true,109
+2019,CZ052,Královéhradecký kraj,M,90+,false,109
+2019,CZ052,Královéhradecký kraj,Z,90+,false,432
+2019,CZ052,Královéhradecký kraj,Z,90+,true,362
+2019,CZ053,Pardubický kraj,M,90+,false,76
+2019,CZ053,Pardubický kraj,M,90+,true,117
+2019,CZ053,Pardubický kraj,Z,90+,true,436
+2019,CZ053,Pardubický kraj,Z,90+,false,251
+2019,CZ063,Vysočina,Z,90+,false,328
+2019,CZ063,Vysočina,M,90+,false,66
+2019,CZ063,Vysočina,M,90+,true,94
+2019,CZ063,Vysočina,Z,90+,true,439
+2019,CZ064,Jihomoravský kraj,M,90+,false,182
+2019,CZ064,Jihomoravský kraj,Z,90+,false,878
+2019,CZ064,Jihomoravský kraj,M,90+,true,169
+2019,CZ064,Jihomoravský kraj,Z,90+,true,706
+2019,CZ071,Olomoucký kraj,M,90+,false,118
+2019,CZ071,Olomoucký kraj,Z,90+,false,515
+2019,CZ071,Olomoucký kraj,M,90+,true,96
+2019,CZ071,Olomoucký kraj,Z,90+,true,384
+2019,CZ072,Zlínský kraj,M,90+,true,92
+2019,CZ072,Zlínský kraj,Z,90+,false,387
+2019,CZ072,Zlínský kraj,M,90+,false,97
+2019,CZ072,Zlínský kraj,Z,90+,true,420
+2019,CZ080,Moravskoslezský kraj,Z,90+,false,1169
+2019,CZ080,Moravskoslezský kraj,M,90+,false,240
+2019,CZ080,Moravskoslezský kraj,M,90+,true,117
+2019,CZ080,Moravskoslezský kraj,Z,90+,true,430
+2019,CZ999,Neznámý,M,90+,true,51
+2019,CZ999,Neznámý,M,90+,false,101
+2019,CZ999,Neznámý,Z,90+,true,213
+2019,CZ999,Neznámý,Z,90+,false,315
+2020,CZ010,Hl. m. Praha,M,50–59,false,77
+2020,CZ010,Hl. m. Praha,M,50–59,true,47
+2020,CZ010,Hl. m. Praha,Z,50–59,true,69
+2020,CZ010,Hl. m. Praha,Z,50–59,false,60
+2020,CZ020,Středočeský kraj,M,50–59,false,116
+2020,CZ020,Středočeský kraj,M,50–59,true,60
+2020,CZ020,Středočeský kraj,Z,50–59,true,84
+2020,CZ020,Středočeský kraj,Z,50–59,false,73
+2020,CZ031,Jihočeský kraj,Z,50–59,false,40
+2020,CZ031,Jihočeský kraj,M,50–59,false,40
+2020,CZ031,Jihočeský kraj,M,50–59,true,29
+2020,CZ031,Jihočeský kraj,Z,50–59,true,39
+2020,CZ032,Plzeňský kraj,Z,50–59,false,19
+2020,CZ032,Plzeňský kraj,Z,50–59,true,28
+2020,CZ032,Plzeňský kraj,M,50–59,false,26
+2020,CZ032,Plzeňský kraj,M,50–59,true,28
+2020,CZ041,Karlovarský kraj,Z,50–59,false,17
+2020,CZ041,Karlovarský kraj,Z,50–59,true,29
+2020,CZ041,Karlovarský kraj,M,50–59,false,23
+2020,CZ041,Karlovarský kraj,M,50–59,true,9
+2020,CZ042,Ústecký kraj,Z,50–59,true,54
+2020,CZ042,Ústecký kraj,M,50–59,true,29
+2020,CZ042,Ústecký kraj,M,50–59,false,55
+2020,CZ042,Ústecký kraj,Z,50–59,false,37
+2020,CZ051,Liberecký kraj,Z,50–59,false,23
+2020,CZ051,Liberecký kraj,Z,50–59,true,26
+2020,CZ051,Liberecký kraj,M,50–59,false,44
+2020,CZ051,Liberecký kraj,M,50–59,true,18
+2020,CZ052,Královéhradecký kraj,M,50–59,false,38
+2020,CZ052,Královéhradecký kraj,Z,50–59,false,39
+2020,CZ052,Královéhradecký kraj,M,50–59,true,28
+2020,CZ052,Královéhradecký kraj,Z,50–59,true,44
+2020,CZ053,Pardubický kraj,M,50–59,true,35
+2020,CZ053,Pardubický kraj,Z,50–59,false,34
+2020,CZ053,Pardubický kraj,Z,50–59,true,39
+2020,CZ053,Pardubický kraj,M,50–59,false,48
+2020,CZ063,Vysočina,M,50–59,false,33
+2020,CZ063,Vysočina,M,50–59,true,26
+2020,CZ063,Vysočina,Z,50–59,false,22
+2020,CZ063,Vysočina,Z,50–59,true,32
+2020,CZ064,Jihomoravský kraj,Z,50–59,true,80
+2020,CZ064,Jihomoravský kraj,Z,50–59,false,62
+2020,CZ064,Jihomoravský kraj,M,50–59,true,53
+2020,CZ064,Jihomoravský kraj,M,50–59,false,78
+2020,CZ071,Olomoucký kraj,M,50–59,true,21
+2020,CZ071,Olomoucký kraj,M,50–59,false,45
+2020,CZ071,Olomoucký kraj,Z,50–59,false,42
+2020,CZ071,Olomoucký kraj,Z,50–59,true,40
+2020,CZ072,Zlínský kraj,M,50–59,false,49
+2020,CZ072,Zlínský kraj,M,50–59,true,19
+2020,CZ072,Zlínský kraj,Z,50–59,true,25
+2020,CZ072,Zlínský kraj,Z,50–59,false,35
+2020,CZ080,Moravskoslezský kraj,Z,50–59,true,62
+2020,CZ080,Moravskoslezský kraj,Z,50–59,false,101
+2020,CZ080,Moravskoslezský kraj,M,50–59,false,177
+2020,CZ080,Moravskoslezský kraj,M,50–59,true,40
+2020,CZ999,Neznámý,Z,50–59,true,2
+2020,CZ999,Neznámý,Z,50–59,false,6
+2020,CZ999,Neznámý,M,50–59,false,16
+2020,CZ999,Neznámý,M,50–59,true,3
+2020,CZ010,Hl. m. Praha,M,60–69,true,235
+2020,CZ010,Hl. m. Praha,M,60–69,false,217
+2020,CZ010,Hl. m. Praha,Z,60–69,false,188
+2020,CZ010,Hl. m. Praha,Z,60–69,true,262
+2020,CZ020,Středočeský kraj,M,60–69,false,286
+2020,CZ020,Středočeský kraj,Z,60–69,true,310
+2020,CZ020,Středočeský kraj,M,60–69,true,279
+2020,CZ020,Středočeský kraj,Z,60–69,false,215
+2020,CZ031,Jihočeský kraj,Z,60–69,false,108
+2020,CZ031,Jihočeský kraj,M,60–69,true,125
+2020,CZ031,Jihočeský kraj,M,60–69,false,168
+2020,CZ031,Jihočeský kraj,Z,60–69,true,148
+2020,CZ032,Plzeňský kraj,M,60–69,false,114
+2020,CZ032,Plzeňský kraj,Z,60–69,false,80
+2020,CZ032,Plzeňský kraj,M,60–69,true,118
+2020,CZ032,Plzeňský kraj,Z,60–69,true,122
+2020,CZ041,Karlovarský kraj,Z,60–69,false,50
+2020,CZ041,Karlovarský kraj,Z,60–69,true,68
+2020,CZ041,Karlovarský kraj,M,60–69,false,64
+2020,CZ041,Karlovarský kraj,M,60–69,true,66
+2020,CZ042,Ústecký kraj,M,60–69,true,200
+2020,CZ042,Ústecký kraj,M,60–69,false,205
+2020,CZ042,Ústecký kraj,Z,60–69,false,132
+2020,CZ042,Ústecký kraj,Z,60–69,true,200
+2020,CZ051,Liberecký kraj,M,60–69,false,92
+2020,CZ051,Liberecký kraj,Z,60–69,true,104
+2020,CZ051,Liberecký kraj,M,60–69,true,85
+2020,CZ051,Liberecký kraj,Z,60–69,false,73
+2020,CZ052,Královéhradecký kraj,M,60–69,false,123
+2020,CZ052,Královéhradecký kraj,M,60–69,true,153
+2020,CZ052,Královéhradecký kraj,Z,60–69,false,139
+2020,CZ052,Královéhradecký kraj,Z,60–69,true,151
+2020,CZ053,Pardubický kraj,M,60–69,true,125
+2020,CZ053,Pardubický kraj,Z,60–69,true,139
+2020,CZ053,Pardubický kraj,Z,60–69,false,95
+2020,CZ053,Pardubický kraj,M,60–69,false,134
+2020,CZ063,Vysočina,M,60–69,false,96
+2020,CZ063,Vysočina,M,60–69,true,116
+2020,CZ063,Vysočina,Z,60–69,false,60
+2020,CZ063,Vysočina,Z,60–69,true,143
+2020,CZ064,Jihomoravský kraj,Z,60–69,false,173
+2020,CZ064,Jihomoravský kraj,M,60–69,false,216
+2020,CZ064,Jihomoravský kraj,Z,60–69,true,300
+2020,CZ064,Jihomoravský kraj,M,60–69,true,272
+2020,CZ071,Olomoucký kraj,Z,60–69,true,149
+2020,CZ071,Olomoucký kraj,M,60–69,true,148
+2020,CZ071,Olomoucký kraj,M,60–69,false,158
+2020,CZ071,Olomoucký kraj,Z,60–69,false,116
+2020,CZ072,Zlínský kraj,M,60–69,true,126
+2020,CZ072,Zlínský kraj,M,60–69,false,169
+2020,CZ072,Zlínský kraj,Z,60–69,true,155
+2020,CZ072,Zlínský kraj,Z,60–69,false,78
+2020,CZ080,Moravskoslezský kraj,M,60–69,false,483
+2020,CZ080,Moravskoslezský kraj,Z,60–69,false,307
+2020,CZ080,Moravskoslezský kraj,M,60–69,true,252
+2020,CZ080,Moravskoslezský kraj,Z,60–69,true,273
+2020,CZ999,Neznámý,Z,60–69,false,11
+2020,CZ999,Neznámý,M,60–69,true,21
+2020,CZ999,Neznámý,Z,60–69,true,20
+2020,CZ999,Neznámý,M,60–69,false,43
+2020,CZ010,Hl. m. Praha,Z,70–79,false,665
+2020,CZ010,Hl. m. Praha,Z,70–79,true,1556
+2020,CZ010,Hl. m. Praha,M,70–79,false,553
+2020,CZ010,Hl. m. Praha,M,70–79,true,1054
+2020,CZ020,Středočeský kraj,M,70–79,true,1000
+2020,CZ020,Středočeský kraj,Z,70–79,true,1648
+2020,CZ020,Středočeský kraj,M,70–79,false,646
+2020,CZ020,Středočeský kraj,Z,70–79,false,757
+2020,CZ031,Jihočeský kraj,Z,70–79,false,385
+2020,CZ031,Jihočeský kraj,M,70–79,false,310
+2020,CZ031,Jihočeský kraj,Z,70–79,true,771
+2020,CZ031,Jihočeský kraj,M,70–79,true,484
+2020,CZ032,Plzeňský kraj,Z,70–79,false,313
+2020,CZ032,Plzeňský kraj,Z,70–79,true,705
+2020,CZ032,Plzeňský kraj,M,70–79,false,258
+2020,CZ032,Plzeňský kraj,M,70–79,true,406
+2020,CZ041,Karlovarský kraj,Z,70–79,false,163
+2020,CZ041,Karlovarský kraj,M,70–79,true,222
+2020,CZ041,Karlovarský kraj,Z,70–79,true,361
+2020,CZ041,Karlovarský kraj,M,70–79,false,139
+2020,CZ042,Ústecký kraj,M,70–79,true,628
+2020,CZ042,Ústecký kraj,M,70–79,false,433
+2020,CZ042,Ústecký kraj,Z,70–79,false,490
+2020,CZ042,Ústecký kraj,Z,70–79,true,1076
+2020,CZ051,Liberecký kraj,M,70–79,false,213
+2020,CZ051,Liberecký kraj,M,70–79,true,290
+2020,CZ051,Liberecký kraj,Z,70–79,false,211
+2020,CZ051,Liberecký kraj,Z,70–79,true,504
+2020,CZ052,Královéhradecký kraj,M,70–79,true,540
+2020,CZ052,Královéhradecký kraj,M,70–79,false,331
+2020,CZ052,Královéhradecký kraj,Z,70–79,true,836
+2020,CZ052,Královéhradecký kraj,Z,70–79,false,370
+2020,CZ053,Pardubický kraj,Z,70–79,true,843
+2020,CZ053,Pardubický kraj,M,70–79,true,542
+2020,CZ053,Pardubický kraj,M,70–79,false,247
+2020,CZ053,Pardubický kraj,Z,70–79,false,251
+2020,CZ063,Vysočina,Z,70–79,false,253
+2020,CZ063,Vysočina,Z,70–79,true,785
+2020,CZ063,Vysočina,M,70–79,false,204
+2020,CZ063,Vysočina,M,70–79,true,487
+2020,CZ064,Jihomoravský kraj,M,70–79,true,1000
+2020,CZ064,Jihomoravský kraj,Z,70–79,true,1608
+2020,CZ064,Jihomoravský kraj,Z,70–79,false,610
+2020,CZ064,Jihomoravský kraj,M,70–79,false,570
+2020,CZ071,Olomoucký kraj,Z,70–79,false,380
+2020,CZ071,Olomoucký kraj,M,70–79,false,325
+2020,CZ071,Olomoucký kraj,M,70–79,true,559
+2020,CZ071,Olomoucký kraj,Z,70–79,true,999
+2020,CZ072,Zlínský kraj,M,70–79,true,557
+2020,CZ072,Zlínský kraj,M,70–79,false,330
+2020,CZ072,Zlínský kraj,Z,70–79,false,348
+2020,CZ072,Zlínský kraj,Z,70–79,true,821
+2020,CZ080,Moravskoslezský kraj,Z,70–79,false,1121
+2020,CZ080,Moravskoslezský kraj,Z,70–79,true,1449
+2020,CZ080,Moravskoslezský kraj,M,70–79,false,874
+2020,CZ080,Moravskoslezský kraj,M,70–79,true,822
+2020,CZ999,Neznámý,Z,70–79,true,118
+2020,CZ999,Neznámý,M,70–79,true,81
+2020,CZ999,Neznámý,Z,70–79,false,86
+2020,CZ999,Neznámý,M,70–79,false,109
+2020,CZ010,Hl. m. Praha,Z,80–89,true,2436
+2020,CZ010,Hl. m. Praha,M,80–89,true,1138
+2020,CZ010,Hl. m. Praha,Z,80–89,false,1308
+2020,CZ010,Hl. m. Praha,M,80–89,false,542
+2020,CZ020,Středočeský kraj,M,80–89,false,655
+2020,CZ020,Středočeský kraj,Z,80–89,false,1551
+2020,CZ020,Středočeský kraj,M,80–89,true,911
+2020,CZ020,Středočeský kraj,Z,80–89,true,2388
+2020,CZ031,Jihočeský kraj,Z,80–89,true,1321
+2020,CZ031,Jihočeský kraj,M,80–89,true,464
+2020,CZ031,Jihočeský kraj,Z,80–89,false,785
+2020,CZ031,Jihočeský kraj,M,80–89,false,339
+2020,CZ032,Plzeňský kraj,Z,80–89,true,1132
+2020,CZ032,Plzeňský kraj,Z,80–89,false,599
+2020,CZ032,Plzeňský kraj,M,80–89,false,313
+2020,CZ032,Plzeňský kraj,M,80–89,true,436
+2020,CZ041,Karlovarský kraj,Z,80–89,false,358
+2020,CZ041,Karlovarský kraj,Z,80–89,true,572
+2020,CZ041,Karlovarský kraj,M,80–89,false,170
+2020,CZ041,Karlovarský kraj,M,80–89,true,206
+2020,CZ042,Ústecký kraj,M,80–89,false,337
+2020,CZ042,Ústecký kraj,Z,80–89,true,1381
+2020,CZ042,Ústecký kraj,M,80–89,true,497
+2020,CZ042,Ústecký kraj,Z,80–89,false,796
+2020,CZ051,Liberecký kraj,M,80–89,false,179
+2020,CZ051,Liberecký kraj,M,80–89,true,261
+2020,CZ051,Liberecký kraj,Z,80–89,true,619
+2020,CZ051,Liberecký kraj,Z,80–89,false,419
+2020,CZ052,Královéhradecký kraj,Z,80–89,false,675
+2020,CZ052,Královéhradecký kraj,Z,80–89,true,1219
+2020,CZ052,Královéhradecký kraj,M,80–89,true,524
+2020,CZ052,Královéhradecký kraj,M,80–89,false,309
+2020,CZ053,Pardubický kraj,M,80–89,false,260
+2020,CZ053,Pardubický kraj,M,80–89,true,572
+2020,CZ053,Pardubický kraj,Z,80–89,true,1465
+2020,CZ053,Pardubický kraj,Z,80–89,false,535
+2020,CZ063,Vysočina,Z,80–89,false,564
+2020,CZ063,Vysočina,Z,80–89,true,1519
+2020,CZ063,Vysočina,M,80–89,true,567
+2020,CZ063,Vysočina,M,80–89,false,260
+2020,CZ064,Jihomoravský kraj,Z,80–89,false,1459
+2020,CZ064,Jihomoravský kraj,Z,80–89,true,2522
+2020,CZ064,Jihomoravský kraj,M,80–89,false,626
+2020,CZ064,Jihomoravský kraj,M,80–89,true,988
+2020,CZ071,Olomoucký kraj,Z,80–89,true,1431
+2020,CZ071,Olomoucký kraj,Z,80–89,false,832
+2020,CZ071,Olomoucký kraj,M,80–89,false,320
+2020,CZ071,Olomoucký kraj,M,80–89,true,512
+2020,CZ072,Zlínský kraj,M,80–89,false,293
+2020,CZ072,Zlínský kraj,Z,80–89,true,1586
+2020,CZ072,Zlínský kraj,M,80–89,true,606
+2020,CZ072,Zlínský kraj,Z,80–89,false,734
+2020,CZ080,Moravskoslezský kraj,M,80–89,false,839
+2020,CZ080,Moravskoslezský kraj,Z,80–89,true,1958
+2020,CZ080,Moravskoslezský kraj,M,80–89,true,873
+2020,CZ080,Moravskoslezský kraj,Z,80–89,false,2064
+2020,CZ999,Neznámý,M,80–89,false,169
+2020,CZ999,Neznámý,M,80–89,true,129
+2020,CZ999,Neznámý,Z,80–89,false,248
+2020,CZ999,Neznámý,Z,80–89,true,258
+2020,CZ010,Hl. m. Praha,Z,90+,false,1201
+2020,CZ010,Hl. m. Praha,Z,90+,true,1060
+2020,CZ010,Hl. m. Praha,M,90+,false,308
+2020,CZ010,Hl. m. Praha,M,90+,true,321
+2020,CZ020,Středočeský kraj,M,90+,false,217
+2020,CZ020,Středočeský kraj,M,90+,true,189
+2020,CZ020,Středočeský kraj,Z,90+,false,919
+2020,CZ020,Středočeský kraj,Z,90+,true,721
+2020,CZ031,Jihočeský kraj,M,90+,true,93
+2020,CZ031,Jihočeský kraj,Z,90+,false,487
+2020,CZ031,Jihočeský kraj,Z,90+,true,407
+2020,CZ031,Jihočeský kraj,M,90+,false,112
+2020,CZ032,Plzeňský kraj,Z,90+,false,357
+2020,CZ032,Plzeňský kraj,Z,90+,true,314
+2020,CZ032,Plzeňský kraj,M,90+,false,101
+2020,CZ032,Plzeňský kraj,M,90+,true,87
+2020,CZ041,Karlovarský kraj,Z,90+,false,184
+2020,CZ041,Karlovarský kraj,M,90+,true,34
+2020,CZ041,Karlovarský kraj,Z,90+,true,155
+2020,CZ041,Karlovarský kraj,M,90+,false,43
+2020,CZ042,Ústecký kraj,Z,90+,false,443
+2020,CZ042,Ústecký kraj,M,90+,false,94
+2020,CZ042,Ústecký kraj,M,90+,true,71
+2020,CZ042,Ústecký kraj,Z,90+,true,416
+2020,CZ051,Liberecký kraj,M,90+,false,57
+2020,CZ051,Liberecký kraj,Z,90+,false,278
+2020,CZ051,Liberecký kraj,Z,90+,true,231
+2020,CZ051,Liberecký kraj,M,90+,true,40
+2020,CZ052,Královéhradecký kraj,M,90+,true,125
+2020,CZ052,Královéhradecký kraj,Z,90+,false,419
+2020,CZ052,Královéhradecký kraj,M,90+,false,112
+2020,CZ052,Královéhradecký kraj,Z,90+,true,410
+2020,CZ053,Pardubický kraj,M,90+,false,87
+2020,CZ053,Pardubický kraj,Z,90+,true,443
+2020,CZ053,Pardubický kraj,M,90+,true,116
+2020,CZ053,Pardubický kraj,Z,90+,false,303
+2020,CZ063,Vysočina,Z,90+,false,353
+2020,CZ063,Vysočina,Z,90+,true,478
+2020,CZ063,Vysočina,M,90+,false,75
+2020,CZ063,Vysočina,M,90+,true,114
+2020,CZ064,Jihomoravský kraj,M,90+,true,181
+2020,CZ064,Jihomoravský kraj,Z,90+,true,796
+2020,CZ064,Jihomoravský kraj,Z,90+,false,923
+2020,CZ064,Jihomoravský kraj,M,90+,false,190
+2020,CZ071,Olomoucký kraj,M,90+,false,114
+2020,CZ071,Olomoucký kraj,M,90+,true,109
+2020,CZ071,Olomoucký kraj,Z,90+,false,550
+2020,CZ071,Olomoucký kraj,Z,90+,true,402
+2020,CZ072,Zlínský kraj,Z,90+,false,399
+2020,CZ072,Zlínský kraj,M,90+,true,97
+2020,CZ072,Zlínský kraj,Z,90+,true,457
+2020,CZ072,Zlínský kraj,M,90+,false,104
+2020,CZ080,Moravskoslezský kraj,Z,90+,true,477
+2020,CZ080,Moravskoslezský kraj,M,90+,false,265
+2020,CZ080,Moravskoslezský kraj,Z,90+,false,1234
+2020,CZ080,Moravskoslezský kraj,M,90+,true,113
+2020,CZ999,Neznámý,Z,90+,true,133
+2020,CZ999,Neznámý,M,90+,false,88
+2020,CZ999,Neznámý,M,90+,true,52
+2020,CZ999,Neznámý,Z,90+,false,219
+2021,CZ010,Hl. m. Praha,M,50–59,false,74
+2021,CZ010,Hl. m. Praha,M,50–59,true,48
+2021,CZ010,Hl. m. Praha,Z,50–59,false,84
+2021,CZ010,Hl. m. Praha,Z,50–59,true,62
+2021,CZ020,Středočeský kraj,M,50–59,false,106
+2021,CZ020,Středočeský kraj,M,50–59,true,71
+2021,CZ020,Středočeský kraj,Z,50–59,false,75
+2021,CZ020,Středočeský kraj,Z,50–59,true,100
+2021,CZ031,Jihočeský kraj,Z,50–59,false,42
+2021,CZ031,Jihočeský kraj,M,50–59,false,57
+2021,CZ031,Jihočeský kraj,M,50–59,true,22
+2021,CZ031,Jihočeský kraj,Z,50–59,true,38
+2021,CZ032,Plzeňský kraj,Z,50–59,false,23
+2021,CZ032,Plzeňský kraj,Z,50–59,true,27
+2021,CZ032,Plzeňský kraj,M,50–59,false,30
+2021,CZ032,Plzeňský kraj,M,50–59,true,22
+2021,CZ041,Karlovarský kraj,Z,50–59,false,17
+2021,CZ041,Karlovarský kraj,M,50–59,false,19
+2021,CZ041,Karlovarský kraj,M,50–59,true,14
+2021,CZ041,Karlovarský kraj,Z,50–59,true,21
+2021,CZ042,Ústecký kraj,M,50–59,false,64
+2021,CZ042,Ústecký kraj,M,50–59,true,40
+2021,CZ042,Ústecký kraj,Z,50–59,false,40
+2021,CZ042,Ústecký kraj,Z,50–59,true,54
+2021,CZ051,Liberecký kraj,M,50–59,false,42
+2021,CZ051,Liberecký kraj,Z,50–59,true,25
+2021,CZ051,Liberecký kraj,Z,50–59,false,20
+2021,CZ051,Liberecký kraj,M,50–59,true,24
+2021,CZ052,Královéhradecký kraj,Z,50–59,true,45
+2021,CZ052,Královéhradecký kraj,Z,50–59,false,33
+2021,CZ052,Královéhradecký kraj,M,50–59,false,47
+2021,CZ052,Královéhradecký kraj,M,50–59,true,25
+2021,CZ053,Pardubický kraj,Z,50–59,false,37
+2021,CZ053,Pardubický kraj,M,50–59,false,47
+2021,CZ053,Pardubický kraj,M,50–59,true,35
+2021,CZ053,Pardubický kraj,Z,50–59,true,47
+2021,CZ063,Vysočina,M,50–59,false,34
+2021,CZ063,Vysočina,M,50–59,true,31
+2021,CZ063,Vysočina,Z,50–59,true,29
+2021,CZ063,Vysočina,Z,50–59,false,40
+2021,CZ064,Jihomoravský kraj,Z,50–59,true,95
+2021,CZ064,Jihomoravský kraj,Z,50–59,false,72
+2021,CZ064,Jihomoravský kraj,M,50–59,false,84
+2021,CZ064,Jihomoravský kraj,M,50–59,true,66
+2021,CZ071,Olomoucký kraj,Z,50–59,true,36
+2021,CZ071,Olomoucký kraj,M,50–59,false,52
+2021,CZ071,Olomoucký kraj,M,50–59,true,18
+2021,CZ071,Olomoucký kraj,Z,50–59,false,39
+2021,CZ072,Zlínský kraj,M,50–59,false,51
+2021,CZ072,Zlínský kraj,M,50–59,true,24
+2021,CZ072,Zlínský kraj,Z,50–59,false,33
+2021,CZ072,Zlínský kraj,Z,50–59,true,22
+2021,CZ080,Moravskoslezský kraj,Z,50–59,true,56
+2021,CZ080,Moravskoslezský kraj,Z,50–59,false,150
+2021,CZ080,Moravskoslezský kraj,M,50–59,false,184
+2021,CZ080,Moravskoslezský kraj,M,50–59,true,52
+2021,CZ999,Neznámý,M,50–59,false,14
+2021,CZ999,Neznámý,Z,50–59,true,3
+2021,CZ999,Neznámý,M,50–59,true,3
+2021,CZ999,Neznámý,Z,50–59,false,6
+2021,CZ010,Hl. m. Praha,M,60–69,false,221
+2021,CZ010,Hl. m. Praha,M,60–69,true,230
+2021,CZ010,Hl. m. Praha,Z,60–69,true,279
+2021,CZ010,Hl. m. Praha,Z,60–69,false,223
+2021,CZ020,Středočeský kraj,M,60–69,true,251
+2021,CZ020,Středočeský kraj,M,60–69,false,300
+2021,CZ020,Středočeský kraj,Z,60–69,false,233
+2021,CZ020,Středočeský kraj,Z,60–69,true,291
+2021,CZ031,Jihočeský kraj,M,60–69,true,129
+2021,CZ031,Jihočeský kraj,Z,60–69,true,136
+2021,CZ031,Jihočeský kraj,M,60–69,false,177
+2021,CZ031,Jihočeský kraj,Z,60–69,false,112
+2021,CZ032,Plzeňský kraj,Z,60–69,false,72
+2021,CZ032,Plzeňský kraj,Z,60–69,true,115
+2021,CZ032,Plzeňský kraj,M,60–69,false,106
+2021,CZ032,Plzeňský kraj,M,60–69,true,103
+2021,CZ041,Karlovarský kraj,Z,60–69,true,77
+2021,CZ041,Karlovarský kraj,M,60–69,true,51
+2021,CZ041,Karlovarský kraj,M,60–69,false,78
+2021,CZ041,Karlovarský kraj,Z,60–69,false,51
+2021,CZ042,Ústecký kraj,Z,60–69,false,138
+2021,CZ042,Ústecký kraj,Z,60–69,true,214
+2021,CZ042,Ústecký kraj,M,60–69,false,197
+2021,CZ042,Ústecký kraj,M,60–69,true,182
+2021,CZ051,Liberecký kraj,M,60–69,false,88
+2021,CZ051,Liberecký kraj,M,60–69,true,85
+2021,CZ051,Liberecký kraj,Z,60–69,false,74
+2021,CZ051,Liberecký kraj,Z,60–69,true,97
+2021,CZ052,Královéhradecký kraj,M,60–69,true,148
+2021,CZ052,Královéhradecký kraj,M,60–69,false,130
+2021,CZ052,Královéhradecký kraj,Z,60–69,false,109
+2021,CZ052,Královéhradecký kraj,Z,60–69,true,145
+2021,CZ053,Pardubický kraj,M,60–69,true,129
+2021,CZ053,Pardubický kraj,Z,60–69,false,82
+2021,CZ053,Pardubický kraj,M,60–69,false,120
+2021,CZ053,Pardubický kraj,Z,60–69,true,145
+2021,CZ063,Vysočina,M,60–69,false,116
+2021,CZ063,Vysočina,M,60–69,true,116
+2021,CZ063,Vysočina,Z,60–69,false,63
+2021,CZ063,Vysočina,Z,60–69,true,125
+2021,CZ064,Jihomoravský kraj,M,60–69,true,279
+2021,CZ064,Jihomoravský kraj,M,60–69,false,237
+2021,CZ064,Jihomoravský kraj,Z,60–69,false,196
+2021,CZ064,Jihomoravský kraj,Z,60–69,true,313
+2021,CZ071,Olomoucký kraj,Z,60–69,true,154
+2021,CZ071,Olomoucký kraj,M,60–69,true,136
+2021,CZ071,Olomoucký kraj,Z,60–69,false,115
+2021,CZ071,Olomoucký kraj,M,60–69,false,126
+2021,CZ072,Zlínský kraj,M,60–69,false,160
+2021,CZ072,Zlínský kraj,Z,60–69,true,172
+2021,CZ072,Zlínský kraj,M,60–69,true,122
+2021,CZ072,Zlínský kraj,Z,60–69,false,98
+2021,CZ080,Moravskoslezský kraj,M,60–69,false,526
+2021,CZ080,Moravskoslezský kraj,M,60–69,true,227
+2021,CZ080,Moravskoslezský kraj,Z,60–69,false,358
+2021,CZ080,Moravskoslezský kraj,Z,60–69,true,278
+2021,CZ999,Neznámý,M,60–69,false,24
+2021,CZ999,Neznámý,M,60–69,true,12
+2021,CZ999,Neznámý,Z,60–69,false,24
+2021,CZ999,Neznámý,Z,60–69,true,12
+2021,CZ010,Hl. m. Praha,M,70–79,false,618
+2021,CZ010,Hl. m. Praha,M,70–79,true,1065
+2021,CZ010,Hl. m. Praha,Z,70–79,true,1646
+2021,CZ010,Hl. m. Praha,Z,70–79,false,802
+2021,CZ020,Středočeský kraj,M,70–79,false,721
+2021,CZ020,Středočeský kraj,M,70–79,true,1061
+2021,CZ020,Středočeský kraj,Z,70–79,true,1712
+2021,CZ020,Středočeský kraj,Z,70–79,false,794
+2021,CZ031,Jihočeský kraj,Z,70–79,true,802
+2021,CZ031,Jihočeský kraj,Z,70–79,false,403
+2021,CZ031,Jihočeský kraj,M,70–79,false,322
+2021,CZ031,Jihočeský kraj,M,70–79,true,493
+2021,CZ032,Plzeňský kraj,Z,70–79,false,335
+2021,CZ032,Plzeňský kraj,M,70–79,false,253
+2021,CZ032,Plzeňský kraj,M,70–79,true,413
+2021,CZ032,Plzeňský kraj,Z,70–79,true,746
+2021,CZ041,Karlovarský kraj,Z,70–79,true,374
+2021,CZ041,Karlovarský kraj,Z,70–79,false,186
+2021,CZ041,Karlovarský kraj,M,70–79,true,230
+2021,CZ041,Karlovarský kraj,M,70–79,false,173
+2021,CZ042,Ústecký kraj,Z,70–79,true,1115
+2021,CZ042,Ústecký kraj,M,70–79,false,500
+2021,CZ042,Ústecký kraj,M,70–79,true,666
+2021,CZ042,Ústecký kraj,Z,70–79,false,544
+2021,CZ051,Liberecký kraj,M,70–79,true,304
+2021,CZ051,Liberecký kraj,M,70–79,false,217
+2021,CZ051,Liberecký kraj,Z,70–79,false,243
+2021,CZ051,Liberecký kraj,Z,70–79,true,505
+2021,CZ052,Královéhradecký kraj,M,70–79,false,311
+2021,CZ052,Královéhradecký kraj,M,70–79,true,564
+2021,CZ052,Královéhradecký kraj,Z,70–79,false,349
+2021,CZ052,Královéhradecký kraj,Z,70–79,true,863
+2021,CZ053,Pardubický kraj,M,70–79,false,234
+2021,CZ053,Pardubický kraj,M,70–79,true,556
+2021,CZ053,Pardubický kraj,Z,70–79,false,269
+2021,CZ053,Pardubický kraj,Z,70–79,true,866
+2021,CZ063,Vysočina,Z,70–79,false,272
+2021,CZ063,Vysočina,Z,70–79,true,823
+2021,CZ063,Vysočina,M,70–79,false,227
+2021,CZ063,Vysočina,M,70–79,true,495
+2021,CZ064,Jihomoravský kraj,Z,70–79,false,697
+2021,CZ064,Jihomoravský kraj,M,70–79,false,584
+2021,CZ064,Jihomoravský kraj,M,70–79,true,1032
+2021,CZ064,Jihomoravský kraj,Z,70–79,true,1706
+2021,CZ071,Olomoucký kraj,Z,70–79,true,1013
+2021,CZ071,Olomoucký kraj,M,70–79,true,592
+2021,CZ071,Olomoucký kraj,Z,70–79,false,403
+2021,CZ071,Olomoucký kraj,M,70–79,false,316
+2021,CZ072,Zlínský kraj,Z,70–79,false,347
+2021,CZ072,Zlínský kraj,Z,70–79,true,844
+2021,CZ072,Zlínský kraj,M,70–79,false,328
+2021,CZ072,Zlínský kraj,M,70–79,true,533
+2021,CZ080,Moravskoslezský kraj,M,70–79,true,841
+2021,CZ080,Moravskoslezský kraj,M,70–79,false,883
+2021,CZ080,Moravskoslezský kraj,Z,70–79,false,1187
+2021,CZ080,Moravskoslezský kraj,Z,70–79,true,1530
+2021,CZ999,Neznámý,M,70–79,false,81
+2021,CZ999,Neznámý,M,70–79,true,60
+2021,CZ999,Neznámý,Z,70–79,true,78
+2021,CZ999,Neznámý,Z,70–79,false,58
+2021,CZ010,Hl. m. Praha,Z,80–89,false,1412
+2021,CZ010,Hl. m. Praha,M,80–89,true,1111
+2021,CZ010,Hl. m. Praha,Z,80–89,true,2326
+2021,CZ010,Hl. m. Praha,M,80–89,false,611
+2021,CZ020,Středočeský kraj,Z,80–89,true,2434
+2021,CZ020,Středočeský kraj,M,80–89,true,902
+2021,CZ020,Středočeský kraj,Z,80–89,false,1594
+2021,CZ020,Středočeský kraj,M,80–89,false,594
+2021,CZ031,Jihočeský kraj,Z,80–89,false,806
+2021,CZ031,Jihočeský kraj,Z,80–89,true,1356
+2021,CZ031,Jihočeský kraj,M,80–89,true,489
+2021,CZ031,Jihočeský kraj,M,80–89,false,348
+2021,CZ032,Plzeňský kraj,Z,80–89,true,1214
+2021,CZ032,Plzeňský kraj,Z,80–89,false,611
+2021,CZ032,Plzeňský kraj,M,80–89,false,296
+2021,CZ032,Plzeňský kraj,M,80–89,true,455
+2021,CZ041,Karlovarský kraj,Z,80–89,false,348
+2021,CZ041,Karlovarský kraj,M,80–89,true,208
+2021,CZ041,Karlovarský kraj,Z,80–89,true,577
+2021,CZ041,Karlovarský kraj,M,80–89,false,177
+2021,CZ042,Ústecký kraj,Z,80–89,false,863
+2021,CZ042,Ústecký kraj,Z,80–89,true,1383
+2021,CZ042,Ústecký kraj,M,80–89,true,533
+2021,CZ042,Ústecký kraj,M,80–89,false,350
+2021,CZ051,Liberecký kraj,M,80–89,false,200
+2021,CZ051,Liberecký kraj,M,80–89,true,238
+2021,CZ051,Liberecký kraj,Z,80–89,true,660
+2021,CZ051,Liberecký kraj,Z,80–89,false,415
+2021,CZ052,Královéhradecký kraj,Z,80–89,false,623
+2021,CZ052,Královéhradecký kraj,M,80–89,false,287
+2021,CZ052,Královéhradecký kraj,M,80–89,true,519
+2021,CZ052,Královéhradecký kraj,Z,80–89,true,1257
+2021,CZ053,Pardubický kraj,M,80–89,false,233
+2021,CZ053,Pardubický kraj,M,80–89,true,598
+2021,CZ053,Pardubický kraj,Z,80–89,false,566
+2021,CZ053,Pardubický kraj,Z,80–89,true,1437
+2021,CZ063,Vysočina,Z,80–89,true,1542
+2021,CZ063,Vysočina,M,80–89,false,247
+2021,CZ063,Vysočina,Z,80–89,false,540
+2021,CZ063,Vysočina,M,80–89,true,579
+2021,CZ064,Jihomoravský kraj,M,80–89,true,1032
+2021,CZ064,Jihomoravský kraj,Z,80–89,true,2569
+2021,CZ064,Jihomoravský kraj,Z,80–89,false,1420
+2021,CZ064,Jihomoravský kraj,M,80–89,false,532
+2021,CZ071,Olomoucký kraj,Z,80–89,false,797
+2021,CZ071,Olomoucký kraj,Z,80–89,true,1467
+2021,CZ071,Olomoucký kraj,M,80–89,false,316
+2021,CZ071,Olomoucký kraj,M,80–89,true,534
+2021,CZ072,Zlínský kraj,Z,80–89,true,1640
+2021,CZ072,Zlínský kraj,Z,80–89,false,654
+2021,CZ072,Zlínský kraj,M,80–89,false,288
+2021,CZ072,Zlínský kraj,M,80–89,true,634
+2021,CZ080,Moravskoslezský kraj,M,80–89,true,867
+2021,CZ080,Moravskoslezský kraj,Z,80–89,false,2051
+2021,CZ080,Moravskoslezský kraj,M,80–89,false,823
+2021,CZ080,Moravskoslezský kraj,Z,80–89,true,2060
+2021,CZ999,Neznámý,M,80–89,false,106
+2021,CZ999,Neznámý,M,80–89,true,98
+2021,CZ999,Neznámý,Z,80–89,true,165
+2021,CZ999,Neznámý,Z,80–89,false,174
+2021,CZ010,Hl. m. Praha,M,90+,false,312
+2021,CZ010,Hl. m. Praha,M,90+,true,290
+2021,CZ010,Hl. m. Praha,Z,90+,true,998
+2021,CZ010,Hl. m. Praha,Z,90+,false,1287
+2021,CZ020,Středočeský kraj,M,90+,true,173
+2021,CZ020,Středočeský kraj,Z,90+,false,892
+2021,CZ020,Středočeský kraj,M,90+,false,216
+2021,CZ020,Středočeský kraj,Z,90+,true,734
+2021,CZ031,Jihočeský kraj,Z,90+,false,491
+2021,CZ031,Jihočeský kraj,M,90+,true,96
+2021,CZ031,Jihočeský kraj,Z,90+,true,414
+2021,CZ031,Jihočeský kraj,M,90+,false,124
+2021,CZ032,Plzeňský kraj,Z,90+,true,340
+2021,CZ032,Plzeňský kraj,Z,90+,false,383
+2021,CZ032,Plzeňský kraj,M,90+,true,90
+2021,CZ032,Plzeňský kraj,M,90+,false,111
+2021,CZ041,Karlovarský kraj,M,90+,false,38
+2021,CZ041,Karlovarský kraj,Z,90+,true,156
+2021,CZ041,Karlovarský kraj,M,90+,true,39
+2021,CZ041,Karlovarský kraj,Z,90+,false,183
+2021,CZ042,Ústecký kraj,Z,90+,true,412
+2021,CZ042,Ústecký kraj,M,90+,false,110
+2021,CZ042,Ústecký kraj,Z,90+,false,451
+2021,CZ042,Ústecký kraj,M,90+,true,60
+2021,CZ051,Liberecký kraj,Z,90+,false,266
+2021,CZ051,Liberecký kraj,Z,90+,true,217
+2021,CZ051,Liberecký kraj,M,90+,false,72
+2021,CZ051,Liberecký kraj,M,90+,true,45
+2021,CZ052,Královéhradecký kraj,M,90+,false,116
+2021,CZ052,Královéhradecký kraj,Z,90+,true,420
+2021,CZ052,Královéhradecký kraj,Z,90+,false,434
+2021,CZ052,Královéhradecký kraj,M,90+,true,118
+2021,CZ053,Pardubický kraj,M,90+,false,95
+2021,CZ053,Pardubický kraj,Z,90+,false,289
+2021,CZ053,Pardubický kraj,M,90+,true,117
+2021,CZ053,Pardubický kraj,Z,90+,true,465
+2021,CZ063,Vysočina,M,90+,false,89
+2021,CZ063,Vysočina,Z,90+,false,337
+2021,CZ063,Vysočina,Z,90+,true,462
+2021,CZ063,Vysočina,M,90+,true,114
+2021,CZ064,Jihomoravský kraj,Z,90+,true,821
+2021,CZ064,Jihomoravský kraj,M,90+,true,192
+2021,CZ064,Jihomoravský kraj,Z,90+,false,927
+2021,CZ064,Jihomoravský kraj,M,90+,false,177
+2021,CZ071,Olomoucký kraj,Z,90+,false,506
+2021,CZ071,Olomoucký kraj,Z,90+,true,412
+2021,CZ071,Olomoucký kraj,M,90+,false,106
+2021,CZ071,Olomoucký kraj,M,90+,true,85
+2021,CZ072,Zlínský kraj,M,90+,true,96
+2021,CZ072,Zlínský kraj,M,90+,false,70
+2021,CZ072,Zlínský kraj,Z,90+,false,400
+2021,CZ072,Zlínský kraj,Z,90+,true,479
+2021,CZ080,Moravskoslezský kraj,M,90+,false,208
+2021,CZ080,Moravskoslezský kraj,M,90+,true,105
+2021,CZ080,Moravskoslezský kraj,Z,90+,false,1126
+2021,CZ080,Moravskoslezský kraj,Z,90+,true,493
+2021,CZ999,Neznámý,Z,90+,true,70
+2021,CZ999,Neznámý,M,90+,false,59
+2021,CZ999,Neznámý,M,90+,true,21
+2021,CZ999,Neznámý,Z,90+,false,117
+2022,CZ010,Hl. m. Praha,M,50–59,false,96
+2022,CZ010,Hl. m. Praha,M,50–59,true,49
+2022,CZ010,Hl. m. Praha,Z,50–59,false,86
+2022,CZ010,Hl. m. Praha,Z,50–59,true,56
+2022,CZ020,Středočeský kraj,Z,50–59,false,103
+2022,CZ020,Středočeský kraj,M,50–59,false,99
+2022,CZ020,Středočeský kraj,M,50–59,true,75
+2022,CZ020,Středočeský kraj,Z,50–59,true,84
+2022,CZ031,Jihočeský kraj,Z,50–59,false,48
+2022,CZ031,Jihočeský kraj,Z,50–59,true,34
+2022,CZ031,Jihočeský kraj,M,50–59,false,64
+2022,CZ031,Jihočeský kraj,M,50–59,true,27
+2022,CZ032,Plzeňský kraj,Z,50–59,true,33
+2022,CZ032,Plzeňský kraj,M,50–59,false,39
+2022,CZ032,Plzeňský kraj,M,50–59,true,21
+2022,CZ032,Plzeňský kraj,Z,50–59,false,32
+2022,CZ041,Karlovarský kraj,Z,50–59,false,23
+2022,CZ041,Karlovarský kraj,Z,50–59,true,26
+2022,CZ041,Karlovarský kraj,M,50–59,false,20
+2022,CZ041,Karlovarský kraj,M,50–59,true,12
+2022,CZ042,Ústecký kraj,Z,50–59,true,53
+2022,CZ042,Ústecký kraj,M,50–59,true,32
+2022,CZ042,Ústecký kraj,M,50–59,false,67
+2022,CZ042,Ústecký kraj,Z,50–59,false,53
+2022,CZ051,Liberecký kraj,M,50–59,false,38
+2022,CZ051,Liberecký kraj,M,50–59,true,29
+2022,CZ051,Liberecký kraj,Z,50–59,false,24
+2022,CZ051,Liberecký kraj,Z,50–59,true,31
+2022,CZ052,Královéhradecký kraj,M,50–59,false,40
+2022,CZ052,Královéhradecký kraj,M,50–59,true,27
+2022,CZ052,Královéhradecký kraj,Z,50–59,false,37
+2022,CZ052,Královéhradecký kraj,Z,50–59,true,43
+2022,CZ053,Pardubický kraj,M,50–59,true,39
+2022,CZ053,Pardubický kraj,M,50–59,false,60
+2022,CZ053,Pardubický kraj,Z,50–59,false,41
+2022,CZ053,Pardubický kraj,Z,50–59,true,30
+2022,CZ063,Vysočina,Z,50–59,true,31
+2022,CZ063,Vysočina,M,50–59,true,29
+2022,CZ063,Vysočina,M,50–59,false,40
+2022,CZ063,Vysočina,Z,50–59,false,38
+2022,CZ064,Jihomoravský kraj,Z,50–59,false,76
+2022,CZ064,Jihomoravský kraj,Z,50–59,true,85
+2022,CZ064,Jihomoravský kraj,M,50–59,true,48
+2022,CZ064,Jihomoravský kraj,M,50–59,false,99
+2022,CZ071,Olomoucký kraj,M,50–59,false,56
+2022,CZ071,Olomoucký kraj,Z,50–59,false,35
+2022,CZ071,Olomoucký kraj,Z,50–59,true,49
+2022,CZ071,Olomoucký kraj,M,50–59,true,28
+2022,CZ072,Zlínský kraj,Z,50–59,false,36
+2022,CZ072,Zlínský kraj,M,50–59,false,52
+2022,CZ072,Zlínský kraj,M,50–59,true,19
+2022,CZ072,Zlínský kraj,Z,50–59,true,26
+2022,CZ080,Moravskoslezský kraj,M,50–59,false,180
+2022,CZ080,Moravskoslezský kraj,M,50–59,true,53
+2022,CZ080,Moravskoslezský kraj,Z,50–59,false,120
+2022,CZ080,Moravskoslezský kraj,Z,50–59,true,66
+2022,CZ999,Neznámý,Z,50–59,false,6
+2022,CZ999,Neznámý,M,50–59,false,11
+2022,CZ999,Neznámý,M,50–59,true,6
+2022,CZ999,Neznámý,Z,50–59,true,3
+2022,CZ010,Hl. m. Praha,Z,60–69,false,209
+2022,CZ010,Hl. m. Praha,Z,60–69,true,262
+2022,CZ010,Hl. m. Praha,M,60–69,false,236
+2022,CZ010,Hl. m. Praha,M,60–69,true,229
+2022,CZ020,Středočeský kraj,M,60–69,false,309
+2022,CZ020,Středočeský kraj,Z,60–69,false,238
+2022,CZ020,Středočeský kraj,M,60–69,true,260
+2022,CZ020,Středočeský kraj,Z,60–69,true,289
+2022,CZ031,Jihočeský kraj,M,60–69,true,120
+2022,CZ031,Jihočeský kraj,Z,60–69,false,120
+2022,CZ031,Jihočeský kraj,M,60–69,false,168
+2022,CZ031,Jihočeský kraj,Z,60–69,true,140
+2022,CZ032,Plzeňský kraj,Z,60–69,true,115
+2022,CZ032,Plzeňský kraj,Z,60–69,false,77
+2022,CZ032,Plzeňský kraj,M,60–69,false,109
+2022,CZ032,Plzeňský kraj,M,60–69,true,99
+2022,CZ041,Karlovarský kraj,Z,60–69,true,68
+2022,CZ041,Karlovarský kraj,M,60–69,true,60
+2022,CZ041,Karlovarský kraj,Z,60–69,false,65
+2022,CZ041,Karlovarský kraj,M,60–69,false,97
+2022,CZ042,Ústecký kraj,Z,60–69,false,160
+2022,CZ042,Ústecký kraj,Z,60–69,true,192
+2022,CZ042,Ústecký kraj,M,60–69,false,227
+2022,CZ042,Ústecký kraj,M,60–69,true,178
+2022,CZ051,Liberecký kraj,M,60–69,false,84
+2022,CZ051,Liberecký kraj,Z,60–69,false,95
+2022,CZ051,Liberecký kraj,Z,60–69,true,95
+2022,CZ051,Liberecký kraj,M,60–69,true,99
+2022,CZ052,Královéhradecký kraj,M,60–69,false,109
+2022,CZ052,Královéhradecký kraj,M,60–69,true,126
+2022,CZ052,Královéhradecký kraj,Z,60–69,true,165
+2022,CZ052,Královéhradecký kraj,Z,60–69,false,90
+2022,CZ053,Pardubický kraj,Z,60–69,true,159
+2022,CZ053,Pardubický kraj,M,60–69,true,123
+2022,CZ053,Pardubický kraj,M,60–69,false,131
+2022,CZ053,Pardubický kraj,Z,60–69,false,94
+2022,CZ063,Vysočina,Z,60–69,false,87
+2022,CZ063,Vysočina,Z,60–69,true,115
+2022,CZ063,Vysočina,M,60–69,false,141
+2022,CZ063,Vysočina,M,60–69,true,124
+2022,CZ064,Jihomoravský kraj,Z,60–69,true,313
+2022,CZ064,Jihomoravský kraj,M,60–69,true,266
+2022,CZ064,Jihomoravský kraj,M,60–69,false,254
+2022,CZ064,Jihomoravský kraj,Z,60–69,false,198
+2022,CZ071,Olomoucký kraj,M,60–69,true,152
+2022,CZ071,Olomoucký kraj,Z,60–69,false,116
+2022,CZ071,Olomoucký kraj,Z,60–69,true,155
+2022,CZ071,Olomoucký kraj,M,60–69,false,146
+2022,CZ072,Zlínský kraj,Z,60–69,false,111
+2022,CZ072,Zlínský kraj,M,60–69,true,122
+2022,CZ072,Zlínský kraj,M,60–69,false,167
+2022,CZ072,Zlínský kraj,Z,60–69,true,168
+2022,CZ080,Moravskoslezský kraj,M,60–69,false,493
+2022,CZ080,Moravskoslezský kraj,Z,60–69,true,274
+2022,CZ080,Moravskoslezský kraj,Z,60–69,false,324
+2022,CZ080,Moravskoslezský kraj,M,60–69,true,252
+2022,CZ999,Neznámý,M,60–69,false,35
+2022,CZ999,Neznámý,M,60–69,true,20
+2022,CZ999,Neznámý,Z,60–69,true,13
+2022,CZ999,Neznámý,Z,60–69,false,17
+2022,CZ010,Hl. m. Praha,Z,70–79,true,1707
+2022,CZ010,Hl. m. Praha,Z,70–79,false,815
+2022,CZ010,Hl. m. Praha,M,70–79,true,1115
+2022,CZ010,Hl. m. Praha,M,70–79,false,670
+2022,CZ020,Středočeský kraj,M,70–79,false,779
+2022,CZ020,Středočeský kraj,M,70–79,true,1106
+2022,CZ020,Středočeský kraj,Z,70–79,false,887
+2022,CZ020,Středočeský kraj,Z,70–79,true,1809
+2022,CZ031,Jihočeský kraj,Z,70–79,true,794
+2022,CZ031,Jihočeský kraj,M,70–79,false,357
+2022,CZ031,Jihočeský kraj,M,70–79,true,530
+2022,CZ031,Jihočeský kraj,Z,70–79,false,465
+2022,CZ032,Plzeňský kraj,Z,70–79,false,333
+2022,CZ032,Plzeňský kraj,Z,70–79,true,819
+2022,CZ032,Plzeňský kraj,M,70–79,true,468
+2022,CZ032,Plzeňský kraj,M,70–79,false,275
+2022,CZ041,Karlovarský kraj,M,70–79,true,239
+2022,CZ041,Karlovarský kraj,Z,70–79,false,230
+2022,CZ041,Karlovarský kraj,M,70–79,false,176
+2022,CZ041,Karlovarský kraj,Z,70–79,true,397
+2022,CZ042,Ústecký kraj,Z,70–79,true,1210
+2022,CZ042,Ústecký kraj,M,70–79,false,502
+2022,CZ042,Ústecký kraj,Z,70–79,false,588
+2022,CZ042,Ústecký kraj,M,70–79,true,689
+2022,CZ051,Liberecký kraj,Z,70–79,true,582
+2022,CZ051,Liberecký kraj,Z,70–79,false,312
+2022,CZ051,Liberecký kraj,M,70–79,false,250
+2022,CZ051,Liberecký kraj,M,70–79,true,367
+2022,CZ052,Královéhradecký kraj,M,70–79,false,289
+2022,CZ052,Královéhradecký kraj,Z,70–79,true,875
+2022,CZ052,Královéhradecký kraj,M,70–79,true,603
+2022,CZ052,Královéhradecký kraj,Z,70–79,false,372
+2022,CZ053,Pardubický kraj,M,70–79,false,268
+2022,CZ053,Pardubický kraj,Z,70–79,false,272
+2022,CZ053,Pardubický kraj,Z,70–79,true,910
+2022,CZ053,Pardubický kraj,M,70–79,true,575
+2022,CZ063,Vysočina,Z,70–79,true,896
+2022,CZ063,Vysočina,Z,70–79,false,307
+2022,CZ063,Vysočina,M,70–79,true,521
+2022,CZ063,Vysočina,M,70–79,false,253
+2022,CZ064,Jihomoravský kraj,M,70–79,false,614
+2022,CZ064,Jihomoravský kraj,M,70–79,true,1152
+2022,CZ064,Jihomoravský kraj,Z,70–79,false,703
+2022,CZ064,Jihomoravský kraj,Z,70–79,true,1763
+2022,CZ071,Olomoucký kraj,Z,70–79,true,1078
+2022,CZ071,Olomoucký kraj,Z,70–79,false,438
+2022,CZ071,Olomoucký kraj,M,70–79,false,353
+2022,CZ071,Olomoucký kraj,M,70–79,true,644
+2022,CZ072,Zlínský kraj,Z,70–79,false,373
+2022,CZ072,Zlínský kraj,M,70–79,false,336
+2022,CZ072,Zlínský kraj,M,70–79,true,574
+2022,CZ072,Zlínský kraj,Z,70–79,true,967
+2022,CZ080,Moravskoslezský kraj,M,70–79,true,908
+2022,CZ080,Moravskoslezský kraj,Z,70–79,true,1664
+2022,CZ080,Moravskoslezský kraj,M,70–79,false,861
+2022,CZ080,Moravskoslezský kraj,Z,70–79,false,1211
+2022,CZ999,Neznámý,Z,70–79,true,76
+2022,CZ999,Neznámý,Z,70–79,false,76
+2022,CZ999,Neznámý,M,70–79,false,70
+2022,CZ999,Neznámý,M,70–79,true,66
+2022,CZ010,Hl. m. Praha,Z,80–89,false,1494
+2022,CZ010,Hl. m. Praha,Z,80–89,true,2631
+2022,CZ010,Hl. m. Praha,M,80–89,true,1192
+2022,CZ010,Hl. m. Praha,M,80–89,false,637
+2022,CZ020,Středočeský kraj,M,80–89,false,716
+2022,CZ020,Středočeský kraj,M,80–89,true,980
+2022,CZ020,Středočeský kraj,Z,80–89,false,1670
+2022,CZ020,Středočeský kraj,Z,80–89,true,2522
+2022,CZ031,Jihočeský kraj,M,80–89,true,507
+2022,CZ031,Jihočeský kraj,M,80–89,false,401
+2022,CZ031,Jihočeský kraj,Z,80–89,false,845
+2022,CZ031,Jihočeský kraj,Z,80–89,true,1472
+2022,CZ032,Plzeňský kraj,Z,80–89,false,627
+2022,CZ032,Plzeňský kraj,Z,80–89,true,1304
+2022,CZ032,Plzeňský kraj,M,80–89,true,494
+2022,CZ032,Plzeňský kraj,M,80–89,false,304
+2022,CZ041,Karlovarský kraj,M,80–89,true,241
+2022,CZ041,Karlovarský kraj,Z,80–89,false,365
+2022,CZ041,Karlovarský kraj,M,80–89,false,188
+2022,CZ041,Karlovarský kraj,Z,80–89,true,621
+2022,CZ042,Ústecký kraj,M,80–89,false,413
+2022,CZ042,Ústecký kraj,Z,80–89,false,926
+2022,CZ042,Ústecký kraj,Z,80–89,true,1451
+2022,CZ042,Ústecký kraj,M,80–89,true,544
+2022,CZ051,Liberecký kraj,Z,80–89,true,732
+2022,CZ051,Liberecký kraj,Z,80–89,false,440
+2022,CZ051,Liberecký kraj,M,80–89,false,224
+2022,CZ051,Liberecký kraj,M,80–89,true,306
+2022,CZ052,Královéhradecký kraj,Z,80–89,false,591
+2022,CZ052,Královéhradecký kraj,M,80–89,true,568
+2022,CZ052,Královéhradecký kraj,M,80–89,false,279
+2022,CZ052,Královéhradecký kraj,Z,80–89,true,1403
+2022,CZ053,Pardubický kraj,Z,80–89,true,1483
+2022,CZ053,Pardubický kraj,M,80–89,false,231
+2022,CZ053,Pardubický kraj,Z,80–89,false,554
+2022,CZ053,Pardubický kraj,M,80–89,true,577
+2022,CZ063,Vysočina,M,80–89,true,590
+2022,CZ063,Vysočina,Z,80–89,false,610
+2022,CZ063,Vysočina,M,80–89,false,244
+2022,CZ063,Vysočina,Z,80–89,true,1619
+2022,CZ064,Jihomoravský kraj,M,80–89,false,578
+2022,CZ064,Jihomoravský kraj,M,80–89,true,1146
+2022,CZ064,Jihomoravský kraj,Z,80–89,false,1372
+2022,CZ064,Jihomoravský kraj,Z,80–89,true,2917
+2022,CZ071,Olomoucký kraj,Z,80–89,false,822
+2022,CZ071,Olomoucký kraj,M,80–89,false,350
+2022,CZ071,Olomoucký kraj,M,80–89,true,562
+2022,CZ071,Olomoucký kraj,Z,80–89,true,1573
+2022,CZ072,Zlínský kraj,M,80–89,true,664
+2022,CZ072,Zlínský kraj,Z,80–89,false,640
+2022,CZ072,Zlínský kraj,Z,80–89,true,1706
+2022,CZ072,Zlínský kraj,M,80–89,false,321
+2022,CZ080,Moravskoslezský kraj,Z,80–89,true,2318
+2022,CZ080,Moravskoslezský kraj,M,80–89,false,855
+2022,CZ080,Moravskoslezský kraj,M,80–89,true,893
+2022,CZ080,Moravskoslezský kraj,Z,80–89,false,2072
+2022,CZ999,Neznámý,M,80–89,true,91
+2022,CZ999,Neznámý,Z,80–89,true,152
+2022,CZ999,Neznámý,M,80–89,false,123
+2022,CZ999,Neznámý,Z,80–89,false,177
+2022,CZ010,Hl. m. Praha,Z,90+,true,1066
+2022,CZ010,Hl. m. Praha,Z,90+,false,1336
+2022,CZ010,Hl. m. Praha,M,90+,true,295
+2022,CZ010,Hl. m. Praha,M,90+,false,329
+2022,CZ020,Středočeský kraj,Z,90+,true,823
+2022,CZ020,Středočeský kraj,M,90+,true,191
+2022,CZ020,Středočeský kraj,M,90+,false,244
+2022,CZ020,Středočeský kraj,Z,90+,false,931
+2022,CZ031,Jihočeský kraj,M,90+,false,148
+2022,CZ031,Jihočeský kraj,Z,90+,true,426
+2022,CZ031,Jihočeský kraj,Z,90+,false,572
+2022,CZ031,Jihočeský kraj,M,90+,true,97
+2022,CZ032,Plzeňský kraj,M,90+,false,108
+2022,CZ032,Plzeňský kraj,Z,90+,false,387
+2022,CZ032,Plzeňský kraj,Z,90+,true,352
+2022,CZ032,Plzeňský kraj,M,90+,true,89
+2022,CZ041,Karlovarský kraj,M,90+,false,42
+2022,CZ041,Karlovarský kraj,Z,90+,true,186
+2022,CZ041,Karlovarský kraj,M,90+,true,45
+2022,CZ041,Karlovarský kraj,Z,90+,false,210
+2022,CZ042,Ústecký kraj,M,90+,false,89
+2022,CZ042,Ústecký kraj,M,90+,true,62
+2022,CZ042,Ústecký kraj,Z,90+,false,478
+2022,CZ042,Ústecký kraj,Z,90+,true,403
+2022,CZ051,Liberecký kraj,M,90+,false,72
+2022,CZ051,Liberecký kraj,Z,90+,false,292
+2022,CZ051,Liberecký kraj,Z,90+,true,263
+2022,CZ051,Liberecký kraj,M,90+,true,56
+2022,CZ052,Královéhradecký kraj,Z,90+,true,458
+2022,CZ052,Královéhradecký kraj,M,90+,false,114
+2022,CZ052,Královéhradecký kraj,Z,90+,false,408
+2022,CZ052,Královéhradecký kraj,M,90+,true,117
+2022,CZ053,Pardubický kraj,Z,90+,false,310
+2022,CZ053,Pardubický kraj,M,90+,true,133
+2022,CZ053,Pardubický kraj,Z,90+,true,519
+2022,CZ053,Pardubický kraj,M,90+,false,86
+2022,CZ063,Vysočina,M,90+,false,104
+2022,CZ063,Vysočina,M,90+,true,131
+2022,CZ063,Vysočina,Z,90+,false,412
+2022,CZ063,Vysočina,Z,90+,true,525
+2022,CZ064,Jihomoravský kraj,M,90+,true,218
+2022,CZ064,Jihomoravský kraj,M,90+,false,203
+2022,CZ064,Jihomoravský kraj,Z,90+,false,923
+2022,CZ064,Jihomoravský kraj,Z,90+,true,936
+2022,CZ071,Olomoucký kraj,Z,90+,true,452
+2022,CZ071,Olomoucký kraj,M,90+,true,99
+2022,CZ071,Olomoucký kraj,M,90+,false,103
+2022,CZ071,Olomoucký kraj,Z,90+,false,500
+2022,CZ072,Zlínský kraj,M,90+,true,112
+2022,CZ072,Zlínský kraj,Z,90+,false,390
+2022,CZ072,Zlínský kraj,M,90+,false,75
+2022,CZ072,Zlínský kraj,Z,90+,true,524
+2022,CZ080,Moravskoslezský kraj,Z,90+,true,539
+2022,CZ080,Moravskoslezský kraj,M,90+,true,124
+2022,CZ080,Moravskoslezský kraj,M,90+,false,233
+2022,CZ080,Moravskoslezský kraj,Z,90+,false,1201
+2022,CZ999,Neznámý,Z,90+,false,132
+2022,CZ999,Neznámý,M,90+,true,22
+2022,CZ999,Neznámý,M,90+,false,50
+2022,CZ999,Neznámý,Z,90+,true,78
